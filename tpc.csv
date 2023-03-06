@@ -1,0 +1,899 @@
+,Topic,Words,Frequency,Class
+0,-1,"one, argue, paper, properties, knowledge",197,Philosophical Quarterly
+1,0,"rights, normative, value, justice, argue",167,Philosophical Quarterly
+2,1,"belief, justification, epistemic, evidence, beliefs",24,Philosophical Quarterly
+3,2,"mathematical objects, abstraction, objects, mathematicians, structuralists",22,Philosophical Quarterly
+4,3,"63, names, reference, philosophy, 2013 Quarterly",23,Philosophical Quarterly
+5,4,"normative, desire, internalism, requirements, ought",30,Philosophical Quarterly
+6,5,"Clarks argument, sense functionalism, common sense, common, functionalism",4,Philosophical Quarterly
+7,6,"modalism, possible worlds, modality, essentialism, impossible worlds",15,Philosophical Quarterly
+8,7,"decision, deliberation, decision theory, deliberation compatibilism, rational choice",4,Philosophical Quarterly
+9,8,"metaphysical indeterminacy, extended simples, indeterminacy, Humeanism, particles",7,Philosophical Quarterly
+10,9,"time, temporal, temporal reality, tenseless, conclusion temporal",9,Philosophical Quarterly
+11,10,"emergence, collapse problem, biological, species, biology",14,Philosophical Quarterly
+12,11,"metalinguistic, linguistic, speaker, metalinguistic disagreement, meaning meaning",7,Philosophical Quarterly
+13,12,"scientific, collective scientific, level justification, non experts, knowledge",5,Philosophical Quarterly
+14,13,"causation, causal, causal argument, downwards causation, emergent downwards",5,Philosophical Quarterly
+15,14,"contextualism, invariantism, sensitive invariantism, knowledge, subject sensitive",18,Philosophical Quarterly
+16,15,"underdetermination, Putnams model, scientific, replaces Putnams, model theory",4,Philosophical Quarterly
+17,16,"perceptual, visual, perception, visible figure, object",16,Philosophical Quarterly
+18,17,"logic, genuinely factual, rules logic, tonk, proof theoretic",6,Philosophical Quarterly
+19,18,"parts, Composition, Extensionality, objects, mereology",19,Philosophical Quarterly
+20,19,"responsibility, moral responsibility, blameworthiness, ignorance, blameworthy",16,Philosophical Quarterly
+21,20,"emotions, emotion, pride, evaluative, care",22,Philosophical Quarterly
+22,21,"physicalism, Revelation, Cs premises, phenomenal properties, dualism",6,Philosophical Quarterly
+23,22,"vagueness, vague, vague identity, ontically vague, inexact knowledge",7,Philosophical Quarterly
+24,23,"rape, white ignorance, ignorance, sexual, racial",6,Philosophical Quarterly
+25,24,"colour, colourings, qualia, perceptual, referent",9,Philosophical Quarterly
+26,25,"personal identity, continuity, psychological continuity, Parﬁt, one relation",11,Philosophical Quarterly
+27,26,"fictional, fiction, fictional realism, fictional objects, imaginative resistance",10,Philosophical Quarterly
+28,27,"knowledge, ignore evidence, believed tradition, counter closure, permissibility version",7,Philosophical Quarterly
+29,28,"disagreement, conciliationism, conciliatory views, conciliatory, peers",4,Philosophical Quarterly
+30,29,"art, artistic, artworks, artistic value, aesthetic value",24,Philosophical Quarterly
+31,30,"God, theology, natural theology, theism, Richard Swinburne",10,Philosophical Quarterly
+32,31,"libertarianism, compatibilism, indeterminism, rollback, free skepticism",8,Philosophical Quarterly
+33,32,"Hume, induction, religious belief, argument, Religion",12,Philosophical Quarterly
+34,33,"Wittgenstein, Teichmann, Kripkes sceptical, Conants, middle period",11,Philosophical Quarterly
+35,34,"Kant, Kants, freely beautiful, appearances things, Deduction",8,Philosophical Quarterly
+36,35,"perceptual, perceptual experiences, motivations view, belief, perceptual belief",3,Philosophical Quarterly
+37,36,"conditionals, doxastic dependence, indicative conditionals, strict implication, Goodmans paradox",5,Philosophical Quarterly
+38,37,"ideological, ideological kinds, parsimony ought, account ideological, endorse principle",3,Philosophical Quarterly
+39,38,"externalism, externalist, social externalism, Sawyer, thought experiments",6,Philosophical Quarterly
+40,39,"truth, paradoxes, liar paradox, theory truth, treatises paradoxes",5,Philosophical Quarterly
+41,40,"causal powers, powers, anomalism mental, anomalism, inheritance",3,Philosophical Quarterly
+42,41,"Plato, Aquinas, Republic, Socrates, Aristotelian",10,Philosophical Quarterly
+43,43,"virtue, virtue epistemology, virtues, aptness, intellectual virtue",7,Philosophical Quarterly
+44,44,"skepticism, scepticism, sceptic, sceptical challenges, Epistemic Angst",7,Philosophical Quarterly
+45,45,"collectives, Reids epistemology, moral self, robots, hold robots",4,Philosophical Quarterly
+46,47,"laws, laws nature, necessitarianism, metaphysically, metaphysically necessary",5,Philosophical Quarterly
+47,48,"knowledge, skills, knowledge wh, intelligent depends, part whether",2,Philosophical Quarterly
+48,50,"oriented, intuitions, expertise, research oriented, Centrality",3,Philosophical Quarterly
+49,51,"slingshot, theories facts, propositions, extensional connectives, However Neale",1,Philosophical Quarterly
+50,52,"temporal parts, perdurance, temporal, objects, endurantism",3,Philosophical Quarterly
+51,53,"testimony, injustice, hearers, reductionism, testimonial contexts",4,Philosophical Quarterly
+52,54,"joint action, shared agency, development, Gricean communication, planning agents",5,Philosophical Quarterly
+53,55,"intention, Agential Knowledge, intentions, Agential, authority intention",6,Philosophical Quarterly
+54,56,"assertion, assertions, existentially known, knowledge, importance role",3,Philosophical Quarterly
+55,57,"deflationism, deflationists, deflationary, theories truth, semantic deflationism",10,Philosophical Quarterly
+56,58,"conceptual, content desiderata, intentionality cognitive, conceptual analysis, concepts",3,Philosophical Quarterly
+57,59,"animals, harm thesis, posthumous, future bias, Epicurus",6,Philosophical Quarterly
+58,60,"memory, remembering, reliabilism, remembering entail, Preservationism",3,Philosophical Quarterly
+59,61,"disposition, dispositional, conditional, analysis dispositions, manifestation",11,Philosophical Quarterly
+60,62,"attitudes, vocabulary, inference, express independence, compatible agents",4,Philosophical Quarterly
+61,63,"realist, hallucination, naïve realist, experiences, naïve realism",4,Philosophical Quarterly
+62,64,"Descartes, corpuscular mechanics, physiology, Descartess metaphysics, Descartess",2,Philosophical Quarterly
+63,65,"conditionals, lie, linguistic rationality, structural rationality, deception",2,Philosophical Quarterly
+64,66,"intelligibility, Spinozas, Leibnizs, Leibniz gave, ontological independence",5,Philosophical Quarterly
+65,67,"self knowledge, knowledge, introspective, introspection, individualist",7,Philosophical Quarterly
+66,68,"superinternality thesis, superinternality, discuss, ground theoretic, pressure superinternalists",2,Philosophical Quarterly
+67,70,"tropes, physical tropes, physical world, derived, including sensible",1,Philosophical Quarterly
+68,71,"affective phenomenology, representationalism, affective, qualia theory, phenomenology",6,Philosophical Quarterly
+69,72,"doomsday argument, doomsday, Beauty, Sleeping Beauty, argument",4,Philosophical Quarterly
+70,73,"may chancy, chancy matter, implies sentences, actuality gives, happen On",2,Philosophical Quarterly
+71,75,"nondescriptive sentences, inferentially irrelevant, validity apparently, suggestion helpful, designated valued",1,Philosophical Quarterly
+72,76,"rigidity, kind terms, classification cum, natural kind, term",3,Philosophical Quarterly
+73,77,"modally inverted, powers, necessitation, pressing interpretation, determinate demonstrate",2,Philosophical Quarterly
+74,78,"qualia epiphenomenalism, qualia, epiphenomenalism, processive, occurrent states",4,Philosophical Quarterly
+75,79,"Frege, Bedeutung, confused thought, vague predicates, analysis",6,Philosophical Quarterly
+76,80,"modals, epistemic modals, epistemic, expressivism, operator might",4,Philosophical Quarterly
+77,81,"luck, belief true, anti luck, epistemic luck, luck epistemology",2,Philosophical Quarterly
+78,82,"Moores Proof, Pryors readings, indignation sympathetic, Moreover Moore, reconstruction argue",2,Philosophical Quarterly
+79,83,"truthmakers, existentials, truthmaker theory, Truthmaker Maximalism, Truthmaker one",3,Philosophical Quarterly
+80,84,"Frankfurtian, Speaks, responsibility, cases, moral responsibility",3,Philosophical Quarterly
+81,85,"bodily, bodily action, bodily awareness, bodily movements, awareness",4,Philosophical Quarterly
+82,86,"manipulated agent, manipulated, manipulators, standing blame, best explanation",1,Philosophical Quarterly
+83,87,"thoughts, self consciousness, consciousness, plausible theory, immune error",5,Philosophical Quarterly
+84,88,"Quine, Quines, question mark, distinction, Quines philosophy",3,Philosophical Quarterly
+85,-1,"truth, argue, theory, knowledge, two",374,Analysis
+86,0,"normative, morality, war, book, theory",131,Analysis
+87,1,"epistemic, belief, evidence, accuracy, Bayesian",40,Analysis
+88,2,"Hahn, set theory, structuralism, numbers, structure",16,Analysis
+89,3,"Philosophy, proper names, book, Machery, referential",76,Analysis
+90,4,"rationality, normative, ought, desires, Humean",25,Analysis
+91,5,"cognitive, cognition, extended cognition, cognitive processes, mind",11,Analysis
+92,6,"modal, possible worlds, modality, modal realism, wallet",30,Analysis
+93,7,"decision theory, causal decision, expected utility, mixed, theory",19,Analysis
+94,8,"quantum, Everettian, Sleeping Beauty, quantum mechanics, halfer",8,Analysis
+95,9,"time, temporal, past, spotlight, presentism",44,Analysis
+96,10,"emergence, biology, field, chapters, philosophy biology",8,Analysis
+97,11,"context, poetry, Romdenh Romluc, indexicals, utterance",10,Analysis
+98,12,"data, severity, academic spin, spin offs, hangover",3,Analysis
+99,13,"causal, causation, barometer, Causation, value causal",11,Analysis
+100,14,"contextualism, knowledge, words concepts, Contextualism, factivity",12,Analysis
+101,15,"scientific, constructive empiricist, empiricist, theories, scientific theories",7,Analysis
+102,16,"perceptual, perception, images, unconscious perception, visual objectual",12,Analysis
+103,17,"classical, rules, logic, Tennant, logical constants",9,Analysis
+104,18,"composition, simples, proper parts, mereological, spatially extended",12,Analysis
+105,19,"blame, responsibility, moral responsibility, standing blame, responsible",7,Analysis
+106,20,"emotions, sentiment, care, ethics, empathy",8,Analysis
+107,21,"physicalism, consciousness, physics, phenomenal properties, protophenomenal properties",13,Analysis
+108,22,"vagueness, sorites paradox, indeterminacy, expression, borderline cases",13,Analysis
+109,23,"pornography, women, Saul, works pornography, illocutionary",7,Analysis
+110,24,"colour, blue, chip, Tye, hen",13,Analysis
+111,25,"identity, personal identity, Olson, simple view, animalism",10,Analysis
+112,26,"fiction, fictional characters, characters, Everett, Gendler",11,Analysis
+113,27,"knowledge, closure, epistemic closure, KK principle, condition",15,Analysis
+114,28,"revise belief, abortion, informed impartial, intelligent informed, belief discovering",2,Analysis
+115,29,"art, aesthetic, Nguyen, Art, theory art",13,Analysis
+116,30,"God, Plantinga, theism, religion, Level",17,Analysis
+117,31,"Consequence Argument, determinism, one ever, determinism typically, versions Consequence",6,Analysis
+118,32,"rate fallacy, base rate, realistic hope, fails realistic, representation probabilistic",1,Analysis
+119,33,"Wittgenstein, Winchs, sketch argument, Ishiguro, linguistic idealism",8,Analysis
+120,35,"perception, perceptual, Rationality Perception, Rationality, beliefs",9,Analysis
+121,36,"conditionals, subjunctive, indicative, Ramsey, supposition",10,Analysis
+122,37,"ontology, ontological, ordinary objects, metaphysics, questions",14,Analysis
+123,38,"externalism, internalism, content externalism, Cartesian, emerged",12,Analysis
+124,39,"paradoxes, liar, truth, sentences, revenge",20,Analysis
+125,40,"causation, autonomy approach, downward causation, causal, regularity",4,Analysis
+126,41,"scantiness, scantiness capacities, language Joseph, miserable scantiness, compare miserable",1,Analysis
+127,43,"Virtue Epistemology, Virtue, Epistemology, intellectual, animal knowledge",3,Analysis
+128,44,"external world, scepticism, skepticism, possible questions, civilization",7,Analysis
+129,45,"agile, companies, teamwork, epistemology, British",3,Analysis
+130,46,"counterfactuals, Lewiss account, fact held, intuitions examples, approach counterfactuals",4,Analysis
+131,47,"displacements, meta laws, relativity, Lewiss thesis, order laws",4,Analysis
+132,48,"knowledge, intellectualism, skill, primary way, Stanley Williamson",5,Analysis
+133,50,"method cases, philosophical, philosophy, philosophers, corpus",6,Analysis
+134,51,"propositions, structured, Russell, Propositions, constituents",9,Analysis
+135,52,"temporal, four, temporal parts, dimensionalism, four dimensionalism",15,Analysis
+136,53,"testimony, supervene individualistic, linguistic norms, individualistic facts, knowledge testimony",7,Analysis
+137,55,"basic action, actions, Di Nucci, indexical, View",7,Analysis
+138,56,"norm, knowledge norm, assertions, express knowledge, assertion express",10,Analysis
+139,57,"truthmaker, truthmaker principle, theory truth, Beall, mere abbreviation",4,Analysis
+140,58,"concepts, conceptual analysis, engineering, conceptual engineering, analysis",6,Analysis
+141,59,"grief, animals, Prerogative, Our Stories, life",7,Analysis
+142,60,"memory, Bernecker, remembering, memories, nostalgia",5,Analysis
+143,61,"conception dispositionality, realist conception, Martins, dispositionality, dispositional",3,Analysis
+144,62,"attitudes, propositional attitudes, Jones, Clark Kent, ascriptions",7,Analysis
+145,63,"mind independent, vase flowers, objects features, naïve realism, independent objects",5,Analysis
+146,65,"lying, deceive, deception, lie, self deception",12,Analysis
+147,66,"Spinoza, Substances problem, Problem Other, non divine, divine substance",1,Analysis
+148,67,"knowledge attitudes, directed question, singular thought, attitudes, epistemically acquainted",4,Analysis
+149,68,"grounding, ground, accepted principles, follows commonly, logic ground",7,Analysis
+150,69,"toy models, credibility thesis, credibility, problem imagination, expected competently",1,Analysis
+151,70,"metaphysics, metaphysical theorizing, metaphysical, scientific metaphysics, theorizing",4,Analysis
+152,71,"boredom, unpleasant, Desire Account, pain terms, finger",7,Analysis
+153,72,"Sleeping, Sleeping Beauty, hangover, probability, Beauty problem",13,Analysis
+154,73,"probabilities, relative frequencies, indefinite probabilities, female, probability human",4,Analysis
+155,74,"coherence, coherentism, Stoneham argument, probabilistic, reductio",5,Analysis
+156,75,"knowability, KP, Fitchs, knowable, Fitchs argument",10,Analysis
+157,76,"kind terms, general terms, rigidity, phenomenon terms, term rigidity",2,Analysis
+158,77,"dispositional, Ellis, dispositional essentialism, property, essentialism",9,Analysis
+159,78,"consciousness, TIP, Block, ness, phenomenal consciousness",4,Analysis
+160,79,"violates Cantor, discussed intermittently, distinct distinct, postulating many, show thoughts",2,Analysis
+161,80,"presupposition, presupposition trigger, presupposition testing, claims proposition, falsity easily",2,Analysis
+162,82,"Moore, believing believe, justify believing, many contemporary, justifies believing",7,Analysis
+163,83,"Milne, maximalism, truthmaker principle, Truthmaker Maximalism, truth truthmaker",10,Analysis
+164,84,"Frankfurt, PAP, could done, otherwise, clear Jones",4,Analysis
+165,85,"Nanays Between, review Bence, Between Action, Action Perception, Perception",1,Analysis
+166,86,"Ernie, manipulation, moral responsibility, compatibilism, acting freely",5,Analysis
+167,87,"really nothing, really, first person, options orthodox, ordinary really",2,Analysis
+168,88,"analyticity, epistemic analyticity, analyticity long, embracing semantic, analyticity undermined",1,Analysis
+169,-1,"truth, theory, argue, paper, view",239,Mind
+170,0,"normative, ethics, argue, justice, ethical",79,Mind
+171,1,"belief, evidence, epistemic, credence, Bayesian",33,Mind
+172,2,"mathematical, mathematics, Frege, mathematical explanations, explanatory",28,Mind
+173,3,"names, great writer, referential, writer, Philosophy",48,Mind
+174,4,"rationality, ought, desires, practical, rational requirements",22,Mind
+175,5,"cognitive, computational, passivity, cognition, mind",8,Mind
+176,6,"modality, possible worlds, modal logic, semantics, metaphysical",23,Mind
+177,7,"decision theory, game, theory, choice, value",30,Mind
+178,8,"quantum, Lewis phenomenon, duplication main, recombination analysis, classifies certain",1,Mind
+179,9,"growing block, temporal, individuation argument, present, regions",6,Mind
+180,10,"emergence, discussions meta, emergence relation, meta ontology, emergentism",6,Mind
+181,11,"demonstratives, semantic, utterance, language, expressions",12,Mind
+182,12,"JSTOR, work scholarly, archives, scholarly community, information JSTOR",1,Mind
+183,13,"loops, causal, causal loops, causation, causes",5,Mind
+184,14,"contextualism, contextualist, versions foundationalism, counterexamples PEC, Presuppositional Epistemic",5,Mind
+185,15,"Predictionism, Strong Predictionism, data deliberately, grasp theory, defending scientific",1,Mind
+186,16,"perceptual, shape experience, perceptual experience, objects, perception",5,Mind
+187,17,"intuitionistic, rules, classical logic, connectives, logics",16,Mind
+188,18,"Problem Universals, objects, composition, regionalism, particulars",8,Mind
+189,19,"Blameworthy Rightness, Ways Blameworthy, viii 227, Wrongness Responsibility, Blameworthy",2,Mind
+190,20,"emotions, emotion, love, affective, expressions emotion",7,Mind
+191,21,"concept strategy, phenomenal concept, conceivability, physicalism, identities",6,Mind
+192,22,"vagueness, order vagueness, Hyde, borderline cases, predicates",18,Mind
+193,23,"normic, misogyny, statistical evidence, bias, feminist",11,Mind
+194,24,"colour, indiscriminability, unknowable colour, colour facts, transitivity",7,Mind
+195,25,"identity, personal identity, qua objects, practical concerns, social qua",12,Mind
+196,26,"fictionalist, arguments, deflationism, fictionalism, fictional",3,Mind
+197,27,"epistemic closure, knowledge, knows, Knower Paradox, Closure MIND",7,Mind
+198,28,"disagreement, peer disagreement, compromise, metaepistemic, explanatory challenges",5,Mind
+199,29,"aesthetic, aesthetic appreciation, point, art, aesthetic object",3,Mind
+200,30,"God, religious music, minor Mass, atheist, sceptical conclusion",7,Mind
+201,31,"agent causal, causal theory, libertarianism, causal, Humean compatibilism",6,Mind
+202,32,"Hume, Humes, New Hume, causal science, Hume interpretation",5,Mind
+203,33,"Wittgenstein, understanding rule, Kripke Wittgenstein, private, philosophy",6,Mind
+204,34,"Kant, idealism, pure general, form idealism, general logic",5,Mind
+205,35,"perceptual, experiences, beliefs, perceptual experience, rational source",5,Mind
+206,36,"conditional, indicative conditionals, Ramsey, house painted, If house",16,Mind
+207,37,"atoms arranged, exist atoms, exist, arranged statuewise, exists statue",4,Mind
+208,38,"internalism, externalism, basis thought, thought experiments, epistemic internalism",5,Mind
+209,39,"paradoxes, Liar, revenge, Chain Paradoxes, different pathologies",4,Mind
+210,40,"counterpart theory, counterpart, constitution identity, realization, physicalism",1,Mind
+211,41,"Plato, teaching philosophy, student, Cabinet, manuscripts lectures",5,Mind
+212,44,"vat argument, transcendental, closure scepticism, scepticism, minimal objectivity",3,Mind
+213,45,"collective intention, collective, interactive knowledge, group, Read piece",3,Mind
+214,46,"sequences, counterfactual, Lewis sequences, semantics, two worlds",5,Mind
+215,47,"Humean, rotating, relation, subjunctive facts, atom creation",3,Mind
+216,48,"species theoretical, theoretical reason, reason species, reason practical, cannot exist",2,Mind
+217,50,"intuitions, philosophers, intuitive judgements, intuitions evidence, judgements thought",5,Mind
+218,51,"core ideas, propositions, metaphysics propositions, singular general, propositions reflect",1,Mind
+219,52,"It replace, type solution, solution satisfies, temporal parts, temporal",2,Mind
+220,53,"assessment monitoring, debate, reactive attitudes, monitoring Audiences, possibility audiences",1,Mind
+221,55,"nature knowledge, action, practical perceptual, practical entities, intuitions fringe",2,Mind
+222,56,"Uniformity principle, sentence occasion, assertoric content, assertion, semantic content",1,Mind
+223,57,"deflationary, logico linguistic, conservativeness, truth predicate, theorems",10,Mind
+224,58,"metasemantic externalism, conceptual engineering, externalism, makes conceptual, engineering metasemantic",1,Mind
+225,59,"Animals, Animal, counter arguments, NY, University",4,Mind
+226,61,"conditional analysis, disposition, dispositional, manifestation, dispositional properties",9,Mind
+227,62,"attitude reports, counterfactual attitude, propositional, attitudes, decision theory",3,Mind
+228,63,"hallucinations, possibility hallucinations, perceptual experiences, hallucinations nature, denies hallucinations",1,Mind
+229,64,"Descartes, doubt, Cartesian, intellect, Descartess",6,Mind
+230,65,"self deceived, lying, intentional action, deception, deception masking",1,Mind
+231,66,"Spinozas, bifurcation, Leibniz, scepticism, human beings",6,Mind
+232,67,"self knowledge, self, knowledge, Heal, Brien",4,Mind
+233,68,"cases ruled, well founded, inadequate principles, asserting grounding, literature characterized",1,Mind
+234,70,"metaphysics, Metaphysics, science Sider, quantities, metaphysics science",3,Mind
+235,71,"imperativism, affective phenomenal, imperative content, unpleasant, affective",4,Mind
+236,72,"random sample, living person, thought experiment, Beauty, Sleeping",2,Mind
+237,73,"objective chance, statistical mechanics, Humean, chance events, modal contingentism",4,Mind
+238,74,"coherence, coherent, IGPs, relative overlap, probabilistic",7,Mind
+239,75,"inferential rules, anti realist, intuitionistic, inconsistent triads, realist premiss",2,Mind
+240,76,"general terms, rigidity, Kripkean conditions, two Kripkean, notion",3,Mind
+241,77,"degree, physical modality, dispositional, properties, metaphysics",2,Mind
+242,78,"consciousness, higher order, consciousness intrinsic, conscious state, theory consciousness",4,Mind
+243,79,"Frege, truth predicate, metatheory, Frege metatheory, laws rules",7,Mind
+244,80,"epistemic, toward modal, graded attitudes, epistemic modals, semantics",7,Mind
+245,83,"maximalism, maximalists, truthmaker, non maximalists, something existence",1,Mind
+246,84,"Frankfurt, Sartorio, Principle Alternate, Alternate Possibilities, Principle",1,Mind
+247,85,"thinking actions, Pollocks Thinking, debate zombie, actions less, aim describing",2,Mind
+248,87,"co cognition, co cognitivism, way thinking, canonically, self consciousness",2,Mind
+249,88,"convention, truth convention, logic true, distinction, wrote",5,Mind
+250,-1,"essay, book, one, truth, theory",137,Philosophical Review
+251,0,"moral, political, Kant, book, normative",78,Philosophical Review
+252,1,"credences, beliefs, essay, rational, epistemic",17,Philosophical Review
+253,2,"mathematics, proofs, philosophy mathematics, philosophy, prime numbers",7,Philosophical Review
+254,3,"descriptivism, definite, Ivan, Philosophy, view names",18,Philosophical Review
+255,4,"desires, rationality, practical, view, normative",16,Philosophical Review
+256,5,"environmentalism, cognizing organisms, skin cognizing, inside skin, situated",2,Philosophical Review
+257,6,"modal, Chihara, mere possibilia, possible worlds, modal logic",4,Philosophical Review
+258,7,"decision theory, theory, causal decision, essay, BT",8,Philosophical Review
+259,8,"quantum, quantum theory, nomic vagueness, fundamental nomic, quantum mechanics",5,Philosophical Review
+260,9,"Gödel, Time, temporal, Meets Einstein, linguisticsemantic",4,Philosophical Review
+261,10,"clearest sensible, systems along, mathematics chaotic, treatment chaos, chaos theory",1,Philosophical Review
+262,11,"demonstratives, meaning, context, phrases, semantic",10,Philosophical Review
+263,12,"Bacon, Francis Bacon, successes, Farrington published, ceased",1,Philosophical Review
+264,13,"causation, causal, causes, causal strength, Causation",8,Philosophical Review
+265,14,"knowledge account, assertion, invariantism knowledge, contextualism speech, assertion endorsing",2,Philosophical Review
+266,15,"realism, scientific, scientific realism, sciences, reach empirical",5,Philosophical Review
+267,16,"perceptual, visual, perception, content, perceptual experience",11,Philosophical Review
+268,17,"logic, apriority logic, formal structural, structural account, logical constants",4,Philosophical Review
+269,18,"stuff, semicircles, portions stuff, whole, ultimate concrete",3,Philosophical Review
+270,19,"moral responsibility, law, blame, controversial case, legal doctrines",6,Philosophical Review
+271,20,"emotions, valence, perceptual valence, reasons love, She",7,Philosophical Review
+272,21,"physicalism, consciousness, defi nition, phenomenal consciousness, Physicalist Manifesto",6,Philosophical Review
+273,22,"borderline, vagueness, borderline cases, linguistic facts, Shapiro",3,Philosophical Review
+274,23,"race, harassment, feminist, Africana, diaspora",6,Philosophical Review
+275,24,"sensuous color, colour, colors relational, visually appears, property",5,Philosophical Review
+276,25,"persistence, personal identity, ones persistence, psychological, psychological accounts",4,Philosophical Review
+277,26,"characters, objects created, fictional objects, authors novels, becomes far",1,Philosophical Review
+278,28,"disagreement, peer disagreement, evidential support, Equal Weight, evidential",4,Philosophical Review
+279,29,"art, aesthetics, mass art, film, art What",7,Philosophical Review
+280,30,"venture, fideism, faith beliefs, book, religious faith",10,Philosophical Review
+281,31,"free, determinism, Simple Argument, Action Type, Type Argument",3,Philosophical Review
+282,32,"Hume, Treatise, theory morality, mind, passions",7,Philosophical Review
+283,33,"Wittgenstein, philosophy, Investigations, analytic, Brenner",11,Philosophical Review
+284,34,"Kant, transcendental, Kants, idealism, sensibility",13,Philosophical Review
+285,35,"knowledge, perception, Mind World, Evans view, sensitive knowledge",4,Philosophical Review
+286,36,"Diachronic, indicative, indicative conditionals, Diachronic DBAs, suppositional test",5,Philosophical Review
+287,37,"primary substance, substance Metaphysics, microscopica, ontology, organisms",3,Philosophical Review
+288,38,"externalism, internalism, ideology cases, ideology, justification",2,Philosophical Review
+289,39,"paradoxes, sentences, truth, linguistic accounts, linguistic",2,Philosophical Review
+290,40,"mental causation, causation, dependency conception, causal redundancy, mental",2,Philosophical Review
+291,41,"Plato, Socrates, Epictetus, Aquinas, book",35,Philosophical Review
+292,43,"doxastic conflict, genuine knowledge, new interpretation, action unified, action Wang",1,Philosophical Review
+293,44,"skepticism, ancient, ancient skepticism, reliabilism Greco, scope ancient",4,Philosophical Review
+294,45,"usually classify, body deliberation, individuals contractually, made community, deliberation subject",2,Philosophical Review
+295,46,"counterfactuals, history would, determinism, microphysical, However plasticity",2,Philosophical Review
+296,47,"Lewis, Humean supervenience, laws, supervenience, instantiations",1,Philosophical Review
+297,48,"gradability ascriptions, ascriptions know, intellectualism, knowledge, expressivists",2,Philosophical Review
+298,49,"explanations, explanatory, narrative, explanatory force, examples",2,Philosophical Review
+299,51,"propositions, structures sentences, sentences express, congenial concerned, simply definiteness",1,Philosophical Review
+300,52,"persist, times exist, persist time, sense persist, familiar concrete",1,Philosophical Review
+301,54,"core object, author argues, argues core, epistemic statuses, perception belief",1,Philosophical Review
+302,55,"core features, intention, theory human, agency, essays",5,Philosophical Review
+303,56,"knowledge account, proper assertions, assertions must, assertions, theory proper",1,Philosophical Review
+304,57,"deflationism, deflationism Section, deflationist, essay argues, argues unsatisfactory",1,Philosophical Review
+305,58,"relation bears, conceptual, lexical, concepts namely, annoyer",1,Philosophical Review
+306,59,"fear, fear death, animals, harm, Epicurus",3,Philosophical Review
+307,60,"diary, diary model, memory testimony, second psychological, psychological difference",2,Philosophical Review
+308,61,"function pervasiveness, Progress nature, suitably general, concepts prevalent, anything illuminating",1,Philosophical Review
+309,62,"verbs, propositional attitude, attitude verbs, proposition descriptions, complements propositional",2,Philosophical Review
+310,63,"hallucination, developing algorithm, studies hallucination, detailed procedures, scheme type",1,Philosophical Review
+311,64,"Descartes, Cartesian, Des Chene, Aristotle, Meditations",9,Philosophical Review
+312,65,"lying, lying misleading, discourse, lie, discourse resulting",1,Philosophical Review
+313,66,"Leibniz, God, metaphysics, Spinozas, incompossibility",14,Philosophical Review
+314,67,"book Transparency, Byrnes book, Transparency Self, Self Knowledge, Transparency",1,Philosophical Review
+315,68,"internal relation, full grounding, logic ground, relation sense, part essay",1,Philosophical Review
+316,70,"metaphysics, applied metaphysics, proposal, delving metaphysics, discovering progress",2,Philosophical Review
+317,72,"Sleeping Beauty, one third, locating beliefs, Beauty problem, third solution",2,Philosophical Review
+318,73,"objective chance, epistemic probability, distinction objective, level coexist, operationalized every",1,Philosophical Review
+319,78,"functionally equivalent, absent qualia, shows Principle, cases inconceivable, qualia cases",1,Philosophical Review
+320,79,"characteristically Fregean, Fregean thesis, thesis sense, characteristically, fundamental desiderata",1,Philosophical Review
+321,80,"epistemic modals, sentences, classically, feet tall, feet",4,Philosophical Review
+322,82,"nothing irrational, know ones, Moore paradoxical, citing evident, alleged irrationality",1,Philosophical Review
+323,84,"Dilemma Defense, Frankfurt cases, Dilemma, responsibility require, alternative possibilities",1,Philosophical Review
+324,86,"burden produce, past laws, Direct Argument, morally responsible, compatibilist",1,Philosophical Review
+325,87,"first person, self, problem self, misidentification, Bermúdez calls",3,Philosophical Review
+326,-1,"theory, truth, view, argument, logical",102,Journal of Philosophy
+327,0,"moral, normative, error, save, argue",44,Journal of Philosophy
+328,1,"belief, evidence, Bayesian, beliefs, epistemic",16,Journal of Philosophy
+329,2,"mathematical, set theory, numbers, classes, Kant",18,Journal of Philosophy
+330,3,"cat, natural name, cat refers, Moon, reflexive senses",10,Journal of Philosophy
+331,4,"requirements, ought, normative necessity, necessity, agglomeration",11,Journal of Philosophy
+332,5,"HEC, functionalism, parity principle, Computationalism, Adams Aizawa",4,Journal of Philosophy
+333,6,"counterpart, possible worlds, counterpart theory, Normative Focus, theory",11,Journal of Philosophy
+334,7,"decision theory, theory, causal decision, Petersburg, money",13,Journal of Philosophy
+335,8,"quantum, spacetime, structure, Jarrett, sideways",6,Journal of Philosophy
+336,9,"temporal, phenomenology, theory time, linguistic premises, time passing",7,Journal of Philosophy
+337,10,"evolutionary, species, biology, natural selection, biological",9,Journal of Philosophy
+338,11,"demonstrative, substitutivity, quotation marks, reflexivity, coreferential terms",6,Journal of Philosophy
+339,12,"truth credit, reward structure, scientists, scientists motivated, allocation resources",3,Journal of Philosophy
+340,13,"causal, causation, causes, paint gun, causal emergentism",15,Journal of Philosophy
+341,15,"scientific, realism deployed, strategy created, historicist critics, theoretical orthodoxy",1,Journal of Philosophy
+342,16,"perceptual, perception, visual, properties, perceptual experience",8,Journal of Philosophy
+343,17,"logic, AND OR, instance based, NEGATION, paradox Curry",4,Journal of Philosophy
+344,18,"mereological, sums change, constituted, mereological sums, Many philosophers",5,Journal of Philosophy
+345,19,"responsibility, acts flow, acts character, flow characters, responsible acts",2,Journal of Philosophy
+346,20,"emotions, face trouble, emerged failure, failure cognitivism, theories emerged",1,Journal of Philosophy
+347,21,"ideal physics, physicalism, object dependent, dependent properties, physics",3,Journal of Philosophy
+348,22,"vagueness, vague, assuming theories, sorites reasoning, nature vagueness",8,Journal of Philosophy
+349,23,"race, diversity, prosecutors fallacy, concept race, subspecies",4,Journal of Philosophy
+350,24,"colors, colour, quality space, reflectance, physicalism",4,Journal of Philosophy
+351,25,"human animals, persons, self concept, Baker, numerically distinct",5,Journal of Philosophy
+352,26,"imagination, imaginative, fiction, generation action, imaginative desires",4,Journal of Philosophy
+353,27,"possibly false, false knowledge, knowledge, fallibilism, know",4,Journal of Philosophy
+354,28,"disagreement, evidence, veil, usual, crime Psychologists",2,Journal of Philosophy
+355,29,"aesthetic, art, source aesthetic, Aesthetic judgment, aesthetic belief",3,Journal of Philosophy
+356,31,"indeterministic, Berofsky, free Bernard, particular deterministically, typical libertarian",1,Journal of Philosophy
+357,32,"inductive, inductive logic, ravens, Hume, generalizations like",1,Journal of Philosophy
+358,33,"Wittgenstein, Substantively, Substantively find, odel theorem, vindicate Wittgenstein",1,Journal of Philosophy
+359,36,"ponens, modus ponens, indicative, Conditional Locality, conditional assertion",7,Journal of Philosophy
+360,37,"disputes, Thomasson, easy, metaphysics composition, easily settled",3,Journal of Philosophy
+361,38,"Goldman argument, externalism, earth seems, dilemma externalist, internalistexternalist debate",3,Journal of Philosophy
+362,40,"realization, causation, view realization, causal, supervenient causation",5,Journal of Philosophy
+363,41,"expert ancient, ancient philosophy, philosophy, Plato, Socrates",1,Journal of Philosophy
+364,44,"hands, skepticism, global skepticism, knew hands, veridicalist",3,Journal of Philosophy
+365,45,"collective, collective intentions, collective action, social, social epistemology",3,Journal of Philosophy
+366,46,"counterfactuals, vacuously true, counterpossibles, semantics, treats counterpossibles",3,Journal of Philosophy
+367,47,"model world, Humean, laws, otherwise opaque, grounds misrepresents",1,Journal of Philosophy
+368,48,"knowing something, Williamson gave, turn complex, dispositions Knowledge, species knowing",2,Journal of Philosophy
+369,49,"explanatory, extra, explanations, mathematical explanation, extra logical",5,Journal of Philosophy
+370,51,"propositions, propositional logic, type, Russell Myhill, predicating",3,Journal of Philosophy
+371,52,"endurantists, theory persistence, persistence, transcendentism, metaphysically fruitful",2,Journal of Philosophy
+372,53,"testimony, history others, want dispute, testimony essentially, depended communication",1,Journal of Philosophy
+373,55,"catch, window, hand poised, left catch, observation assumption",2,Journal of Philosophy
+374,56,"assertion, conversational implicature, implicature, conversational, blamelessness",2,Journal of Philosophy
+375,57,"semantically excessive, worst possible, excessive interpretation, truth renders, two worlds",1,Journal of Philosophy
+376,59,"resilience, bereaved, baseline Psychologists, resilience kind, resilience consider",1,Journal of Philosophy
+377,62,"belief reports, attitudes, Kent flies, simple attitudes, quantificational attitudes",2,Journal of Philosophy
+378,63,"perception, illusion hallucination, illusion, characterization perception, degenerate exercises",1,Journal of Philosophy
+379,64,"Descartes, marvels nature, authored Several, idea understandable, consider wonderful",2,Journal of Philosophy
+380,65,"lying, believe false, lie, deception, lying misleading",5,Journal of Philosophy
+381,67,"finding words, words, finding, seems require, self knowledge",1,Journal of Philosophy
+382,68,"philosophical theses, Sider objection, phenomenalism understood, naturalism phenomenalism, ground philosophy",1,Journal of Philosophy
+383,69,"idealization, increasingly recognize, idealization intentional, idealization literature, disparate characterizations",1,Journal of Philosophy
+384,71,"imperative, imperative account, proscribe, sensations, imperative content",3,Journal of Philosophy
+385,72,"position Lewis, indexical claim, One prior, argument halfer, conditionalization potential",1,Journal of Philosophy
+386,73,"probability, quantum, probabilistic, propensity, identity thesis",3,Journal of Philosophy
+387,74,"coherence, produce justification, truth conducive, doubt coherence, depend Coherence",1,Journal of Philosophy
+388,75,"Fitch result, factivitynegative infallibility, every truth, infallibility, root source",1,Journal of Philosophy
+389,78,"nervous tissue, unaccountable appearance, consciousness comes, rubbed lamp, Aladdin rubbed",2,Journal of Philosophy
+390,80,"information sensitive, case Modal, modal Gettier, operator safety, plausible predictions",1,Journal of Philosophy
+391,81,"luck, risk epistemology, luck epistemology, anti luck, epistemology",2,Journal of Philosophy
+392,82,"Moore, paradox, legitimately judged, nature remains, save paradox",1,Journal of Philosophy
+393,84,"style cases, actual sequence, alternative possibilities, states acting, ownership rejection",3,Journal of Philosophy
+394,85,"bodily processes, COH, bodily, exercise sensorimotor, acting",2,Journal of Philosophy
+395,86,"manipulation, responsibility, manipulation arguments, determinism, moral responsibility",2,Journal of Philosophy
+396,87,"error, immune error, error misidentification, first person, Shoemaker view",6,Journal of Philosophy
+397,88,"Quine arguments, Two Dogmas, Dogmas Empiricism, concepts epistemic, Constructing World",2,Journal of Philosophy
+398,-1,"argue, one, paper, properties, terms",154,Noûs
+399,0,"moral, normative, rights, argue, ethics",55,Noûs
+400,1,"belief, evidence, epistemic, credence, accuracy",40,Noûs
+401,2,"mathematics, Frege Constraint, undecidability, absolute undecidability, CH",10,Noûs
+402,3,"names, count nouns, nouns, Millianism, January",8,Noûs
+403,4,"normative, rationality, ought, normative reasons, reasoning",24,Noûs
+404,5,"brain, skull bound, brains, cognitive, PEM",4,Noûs
+405,6,"metaphysical, possible worlds, metaphysical necessity, conceptual relativity, modal metaphysics",16,Noûs
+406,7,"decision, decision theory, sunk costs, choice worthiness, normative uncertainty",6,Noûs
+407,8,"quantum, quantum mechanics, dimensional space, Separability, Humean",5,Noûs
+408,9,"time, presentism, past, times, temporal",13,Noûs
+409,10,"speciation, human, human actions, constructionists, organism",3,Noûs
+410,11,"linguistic, semantic, language, Grices, demonstratives",16,Noûs
+411,12,"causal, correlational data, purely correlational, randomized controlled, correlational",2,Noûs
+412,13,"causation, causal, circumstances, physical event, causal structure",7,Noûs
+413,14,"knowledge ascription, contextualism, knowledge, account knows, invariantism",4,Noûs
+414,15,"Priors, scientific, Ramsification, puzzle, FA",4,Noûs
+415,16,"visual, character, perceptual experience, transparency, perception",11,Noûs
+416,17,"non factualist, classical logic, Philosophers fond, Being non, tautology embracing",1,Noûs
+417,18,"mereological, universalism, fusion, Weak Supplementation, clay",5,Noûs
+418,19,"responsibility, blame, moral responsibility, moral luck, reasons responsiveness",9,Noûs
+419,20,"emotions, affective, perceptual states, perceptual, content emotions",4,Noûs
+420,21,"physicalism, supervenience based, electrons protons, materialism, properties",7,Noûs
+421,22,"vagueness, sorites arguments, vague predicates, semantic, epistemicists",10,Noûs
+422,23,"gender, implicit biases, prejudices, social, associations",7,Noûs
+423,24,"colour, color perception, contents color, properties, secondary qualities",9,Noûs
+424,25,"sense survival, fission, personal, identity, survival intrinsic",4,Noûs
+425,26,"fictional, Bilbo, fiction, fictionalist, fictional individual",5,Noûs
+426,27,"knowledge, inductive knowledge, observations made, KK principle, epistemic properties",3,Noûs
+427,28,"conciliationism, advisor, weight view, peer disagreement, epistemic",6,Noûs
+428,29,"art, Affective View, appreciation art, evaluation appreciation, aesthetic evaluation",1,Noûs
+429,30,"Kripshe, gods, empty natural, mock propositions, professional interest",1,Noûs
+430,31,"free, libertarianism, agent causation, randomness, causation",9,Noûs
+431,32,"Hume, Hume positive, positive argument, induction, inferences unobserved",2,Noûs
+432,33,"genuine propositions, Wittgenstein, Ramsey Wittgenstein, historical questions, earlier view",1,Noûs
+433,34,"Kant, Object, Object view, Metaphysical One, indiscernibility",6,Noûs
+434,35,"perceptual, perceptual knowledge, visual, beliefs, perception",3,Noûs
+435,36,"conditionals, conditional, imperatives, indicative conditionals, call statement",5,Noûs
+436,37,"ontological, holes, Hirsch, metaphysics, ontology",6,Noûs
+437,38,"mental internalism, internalism, forms Externalism, social milieu, reject mental",2,Noûs
+438,40,"mental causation, causation, exclusion, functionalism, causal",6,Noûs
+439,43,"virtue, distinction virtue, virtues, affecting former, virtues need",2,Noûs
+440,44,"skepticism, half essay, external world, defends epistemic, explores practical",5,Noûs
+441,45,"groups, group agents, representation, informal political, oppressed marginalized",3,Noûs
+442,46,"counterfactuals, similarity, counterpossibles, counterfactual, sequences",10,Noûs
+443,47,"laws, Humean Supervenience, causation, anti Humean, fundamental beings",4,Noûs
+444,48,"knowledge, ability hypothesis, knowledge knowledge, practical knowledge, ability",4,Noûs
+445,49,"causal, unification, optimality, explanations, unification accounts",3,Noûs
+446,50,"underlying innate, evidence four, reflection underlying, innate universal, languages cases",1,Noûs
+447,51,"propositions, semantic value, appear contributing, use clauses, terms naturally",3,Noûs
+448,52,"temporal, endurantism, perdurantism, temporal parts, endurantismperdurantism",3,Noûs
+449,53,"testimony, trust testimony, testimony propositional, utterances testimony, testimonial evidence",1,Noûs
+450,54,"intentional understanding, standard philosophical, intentional capacities, paradox assessed, humans monkeys",1,Noûs
+451,55,"intentions, corkscrew, basic action, causal, Al",6,Noûs
+452,56,"assertions, speech, Quality, knowledge account, research contexts",6,Noûs
+453,57,"deflationism, reconciliation, approach reconciliation, truth, reconciliation side",2,Noûs
+454,58,"conceptual, concepts, meaning reference, linguistic analysis, linguistic",3,Noûs
+455,59,"death bad, Presentism argue, living died, argue death, Epicurus seems",1,Noûs
+456,60,"APD emotions, emotions, Memory Claim, past, New Emotion",1,Noûs
+457,61,"dispositional, disposition, dispositionalism, analysis, dispositionalcategorical",8,Noûs
+458,62,"ascriptions, propositional, ascribee, attitudes, propositional attitude",8,Noûs
+459,63,"first person, genuine mental, argument avoid, moral paper, break dynamics",2,Noûs
+460,64,"Descartes, natural light, Meditation, 3M Proof, Gods existence",4,Noûs
+461,65,"lying, lie, status lying, morality lying, lie presuppositions",2,Noûs
+462,66,"Spinoza, Leibniz, metaphysical dependence, metaphysical, two realms",5,Noûs
+463,67,"premise, self knowledge, SAIs implications, Boghossian 1992, beliefs",4,Noûs
+464,68,"metaphysical explanation, grounding idealism, metaphysical, idealism, First Idealism",1,Noûs
+465,70,"metaphysics, cosmic, cosmic significance, Deweys views, formulations realism",7,Noûs
+466,71,"unpleasantness, pains unpleasantness, appealing anti, sights two, accommodated view",1,Noûs
+467,72,"claim rejected, Monday uncertain, awakes Monday, rejected thereby, day argue",1,Noûs
+468,73,"credences propositions, chance credence, Lewis noticed, norm states, PP strong",1,Noûs
+469,76,"kind terms, like behavior, tropes, rigid designation, Kripke",2,Noûs
+470,79,"Frege, composed senses, compositionally complex, intrinsic representational, thoughts compositionally",3,Noûs
+471,80,"occurrence sentence, assessing, sentence possibility, necessity one, assessing occurrence",2,Noûs
+472,81,"luck, theories luck, skillful luck, undiscussed classes, luck three",1,Noûs
+473,82,"practical Moore, Moore sentences, infelicity, know whether, avowal agnosticism",1,Noûs
+474,83,"negative truths, section, Truthmaker Maximalism, truthmaker principle, connections section",2,Noûs
+475,84,"Frankfurts argument, Frankfurt, freedom, example meant, sort freedom",3,Noûs
+476,85,"bodily action, Many Problem, experiences trying, perceptual, intentional bodily",2,Noûs
+477,88,"Quine, radical Quine, Logical truths, falso quodlibet, radical",1,Noûs
+478,-1,"paper, theory, account, claim, show",315,Australasian Journal of Philosophy
+479,0,"moral, argue, value, normative, ethical",158,Australasian Journal of Philosophy
+480,1,"justification, epistemic, doxastic justification, beliefs, evidence",30,Australasian Journal of Philosophy
+481,2,"explanations, holes, nominalism, mathematical explanations, French",21,Australasian Journal of Philosophy
+482,3,"Philosophy, names, Philosophy 89, 2011 Philosophy, reference",84,Australasian Journal of Philosophy
+483,4,"reasons, ought, desires, normative, rationality",28,Australasian Journal of Philosophy
+484,5,"free energy, energy, energy principle, Clarendon, Mental Representation",6,Australasian Journal of Philosophy
+485,6,"possible worlds, modality, modal realism, essentialism, primitive",15,Australasian Journal of Philosophy
+486,7,"decision theory, incomplete preferences, agents incomplete, rational, Transitivity",9,Australasian Journal of Philosophy
+487,8,"spatio temporal, quantum mechanics, Newtonian world, interpretation quantum, separability",5,Australasian Journal of Philosophy
+488,9,"temporal, time, presentism, presentists, temporal passage",17,Australasian Journal of Philosophy
+489,10,"selection, fitness, natural selection, priori causal, natures kinds",10,Australasian Journal of Philosophy
+490,11,"Loar, communicative, referent, linguistic, utterance",13,Australasian Journal of Philosophy
+491,12,"Conventionalism, Conventionalists hold, Conventionalists, Public, Public Conventionalism",1,Australasian Journal of Philosophy
+492,13,"causation, causal, causes, account causation, genuine causation",17,Australasian Journal of Philosophy
+493,14,"contextualism, relativism, knowledge, context, knowledge ascriptions",15,Australasian Journal of Philosophy
+494,15,"adequacy, observation, evolutionary analogy, theories successive, generations theories",5,Australasian Journal of Philosophy
+495,16,"perceptual, MQ, perception, visual, size",10,Australasian Journal of Philosophy
+496,17,"consequence, harmony, classical logic, strict tolerant, warrant failure",11,Australasian Journal of Philosophy
+497,18,"universals, composition, mereological, compose, bare particulars",25,Australasian Journal of Philosophy
+498,19,"moral responsibility, agents, luck, blame, blameworthy",15,Australasian Journal of Philosophy
+499,20,"disgust, emotion, fundamentally concerned, norms fundamentally, moral disgust",9,Australasian Journal of Philosophy
+500,21,"physicalism, concepts, materialism, phenomenal concepts, dualism",11,Australasian Journal of Philosophy
+501,22,"vagueness, bald, whether Harry, idea world, vague whether",11,Australasian Journal of Philosophy
+502,23,"pornography, sexual, women, sexual discourse, implicit attitudes",10,Australasian Journal of Philosophy
+503,24,"colour, colours, concepts, colour experience, properties",19,Australasian Journal of Philosophy
+504,25,"identity, personal identity, psychological continuity, psychological, continuity",11,Australasian Journal of Philosophy
+505,26,"imaginativeness, imagination, imaginative, narrative, fiction",9,Australasian Journal of Philosophy
+506,27,"knowledge, puzzle, infallibilism, knows, evidence misleading",8,Australasian Journal of Philosophy
+507,28,"disagreement, peers, peer disagreement, Conciliationism, scepticism",7,Australasian Journal of Philosophy
+508,29,"art, artworks, Art, artistic, non art",23,Australasian Journal of Philosophy
+509,30,"Information, Pp, God, Paperback, Press Oxford",32,Australasian Journal of Philosophy
+510,31,"libertarianism, freedom, indeterminism, libertarian, Consequence Argument",11,Australasian Journal of Philosophy
+511,32,"Hume, scepticism, quasi realist, perceptions, notion dispositions",8,Australasian Journal of Philosophy
+512,33,"Wittgenstein, private language, Information, Pp, Voices Wittgenstein",8,Australasian Journal of Philosophy
+513,34,"Kant, negation, knowledge things, aesthetic, pure intuitions",5,Australasian Journal of Philosophy
+514,35,"propositional seemings, seemings, perceptual, perceptual justification, Conservatism",3,Australasian Journal of Philosophy
+515,36,"conditionals, shoot Kennedy, Conditionals, indicative conditionals, three parameter",4,Australasian Journal of Philosophy
+516,37,"ontological, verbal, ontology, categories, ontological categories",8,Australasian Journal of Philosophy
+517,38,"style thought, Twin Earth, thought experiments, produce metaphysically, possession certain",2,Australasian Journal of Philosophy
+518,39,"paradoxes, semantic paradoxes, truth, semantic, Yablos paradox",11,Australasian Journal of Philosophy
+519,40,"causation, exclusion, causal, mental causation, realization",11,Australasian Journal of Philosophy
+520,41,"Pp, institutions Magnesia, Magnesia, Solomon David, heavens consist",7,Australasian Journal of Philosophy
+521,43,"virtue, virtues, virtue epistemology, skills, intellectual vice",6,Australasian Journal of Philosophy
+522,44,"necessary connections, scepticism, connections, problem induction, deniers necessary",3,Australasian Journal of Philosophy
+523,45,"collective actions, collective, individual actions, paraphrase procedure, sentences collective",3,Australasian Journal of Philosophy
+524,46,"counterfactuals, CC, counterfactual, normality, principle Counterfactual",3,Australasian Journal of Philosophy
+525,47,"laws nature, HS, Humeanism, Humean Supervenience, lawhood",8,Australasian Journal of Philosophy
+526,48,"knowledge, wisdom, knowledge kind, intellectualism, intellectualists",6,Australasian Journal of Philosophy
+527,50,"intuitions, philosophical intuitions, philosophy, experimental philosophy, folk intuitions",4,Australasian Journal of Philosophy
+528,51,"propositions, act theorist, intensionally equivalent, theory propositions, unity proposition",4,Australasian Journal of Philosophy
+529,52,"time, dimensionalism, persistence, temporal, four dimensionalism",12,Australasian Journal of Philosophy
+530,53,"testimony, recipients testimony, ethical epistemic, credibility, epistemic",2,Australasian Journal of Philosophy
+531,55,"intentional action, causes action, philosophy action, rationalization, causalist",7,Australasian Journal of Philosophy
+532,56,"assertion, assert, account assertion, express knowledge, assert one",7,Australasian Journal of Philosophy
+533,57,"deflationary, deflationism, deflationists, inflationists, truth property",3,Australasian Journal of Philosophy
+534,58,"doi 108000048400012349401, pp 119, Jackson metaphysics, 124 doi, analysis Philosophy",1,Australasian Journal of Philosophy
+535,59,"death, animals, specie aeternitatis, death bad, Environmental",10,Australasian Journal of Philosophy
+536,60,"memory, personal memory, memories, Hoerl McCormack, Time Memory",4,Australasian Journal of Philosophy
+537,61,"dispositions, masks, Birds, reformed analysis, dispositions intrinsic",5,Australasian Journal of Philosophy
+538,62,"property theory, theory content, subjects, attitudes, appropriate psychological",2,Australasian Journal of Philosophy
+539,63,"hallucination, hallucinations, hallucinatory experience, perceptual, hallucinatory",3,Australasian Journal of Philosophy
+540,64,"Descartes, Cottingham, Meditations, Descartess, Cartesian",2,Australasian Journal of Philosophy
+541,65,"deception, manipulation, lie, definition, intend represent",4,Australasian Journal of Philosophy
+542,66,"Leibniz, Spinoza, Leibniz challenge, create best, criterion perfection",1,Australasian Journal of Philosophy
+543,67,"anti individualism, Peter reasoning, Validity Requirement, individualism, Requirement",4,Australasian Journal of Philosophy
+544,68,"grounding, OIT false, argue OIT, grounds argue, discarded",3,Australasian Journal of Philosophy
+545,70,"naturalistic metaphysics, metaphysics, non naturalistic, observable consequences, Metaphysics",4,Australasian Journal of Philosophy
+546,71,"asymbolics, unpleasant, social pain, bodily care, abnormal",7,Australasian Journal of Philosophy
+547,73,"probabilities, opportunities, serious cost, occur chance, instances",3,Australasian Journal of Philosophy
+548,74,"coherence, justification coherence, coherentism, channeling justification, justified coherence",1,Australasian Journal of Philosophy
+549,75,"knowability, truths, Fitchs, antirealistic, knowability paradox",6,Australasian Journal of Philosophy
+550,76,"natural kind, subtypes, terms, Class Theory, occurrences word",5,Australasian Journal of Philosophy
+551,77,"dispositional, quidditism, Argument Science, natural properties, dispositional essentialist",3,Australasian Journal of Philosophy
+552,78,"consciousness, Papineau, actualist, conscious, presentational character",3,Australasian Journal of Philosophy
+553,79,"Frege, distinction, mental files, denote things, contentforce distinction",5,Australasian Journal of Philosophy
+554,80,"epistemic modals, epistemic, rejected sentences, premisses conclusions, epistemic possibility",3,Australasian Journal of Philosophy
+555,81,"luck, anti luck, Knowing Luckily, luck platitude, absence control",3,Australasian Journal of Philosophy
+556,82,"saying went, moorean utterance, Moores Proof, epistemic projects, Proof",3,Australasian Journal of Philosophy
+557,83,"truthmaker, negative truths, contingent, Possibility principle, truthmaker theory",5,Australasian Journal of Philosophy
+558,84,"Possibilities, PAP, Alternate Possibilities, cases, counterexamples",2,Australasian Journal of Philosophy
+559,85,"bodily sensations, bodily, sensations strictly, closely specific, aspect bodily",1,Australasian Journal of Philosophy
+560,86,"manipulation, Case Argument, Four Case, manipulation arguments, Perebooms argument",2,Australasian Journal of Philosophy
+561,87,"Bermúdez BradfordMIT, Information Paradox, Paradox Self, By José, Consciousness By",1,Australasian Journal of Philosophy
+562,-1,"one, knowledge, argue, paper, theory",376,Philosophy and Phenomenological Research
+563,0,"normative, ethical, ethics, argue, book",155,Philosophy and Phenomenological Research
+564,1,"belief, epistemic, evidence, justification, rationality",69,Philosophy and Phenomenological Research
+565,2,"numbers, abstraction, ordinal numbers, Hume principle, philosophy mathematics",10,Philosophy and Phenomenological Research
+566,3,"Philosophy Philosophy, reference, Kripke, proper names, 2019 Philosophy",66,Philosophy and Phenomenological Research
+567,4,"normative, rationality, desire, ought, normative reasons",61,Philosophy and Phenomenological Research
+568,5,"Clark, mind, body centrism, multiple realizability, cognition",5,Philosophy and Phenomenological Research
+569,6,"modality, modal epistemology, metaphysical, epistemology, Modal Security",14,Philosophy and Phenomenological Research
+570,7,"Independence, preferences, career, decision theory, dominance",7,Philosophy and Phenomenological Research
+571,8,"local theories, type simplicity, function realism, physical space, quantum",2,Philosophy and Phenomenological Research
+572,9,"temporal, tensed, succession, presentism, self ascription",19,Philosophy and Phenomenological Research
+573,10,"selection, kinds, group selection, social kinds, biological",13,Philosophy and Phenomenological Research
+574,11,"use theory, utterance, linguistic, semantic, pragmatic",11,Philosophy and Phenomenological Research
+575,13,"causation, causal, account causation, interventionist, causal exclusion",14,Philosophy and Phenomenological Research
+576,14,"contextualism, knowledge, knowledge ascriptions, Lepore, ascriptions",24,Philosophy and Phenomenological Research
+577,15,"realism, scientific realism, realists, science, perspectivism",8,Philosophy and Phenomenological Research
+578,16,"perceptual, visual, perception, perceptual experience, objects",27,Philosophy and Phenomenological Research
+579,17,"logic, recapture, consensus, logicians, translation argument",4,Philosophy and Phenomenological Research
+580,18,"CAI, objects, parts, composition, extendedness",13,Philosophy and Phenomenological Research
+581,19,"responsibility, moral responsibility, blame, blameworthy, judgments",25,Philosophy and Phenomenological Research
+582,20,"emotions, emotion, love, emotional, affective",25,Philosophy and Phenomenological Research
+583,21,"physicalism, physical, physical properties, concepts, consciousness",18,Philosophy and Phenomenological Research
+584,22,"vagueness, Harry bald, sorites, nobody, paradox",14,Philosophy and Phenomenological Research
+585,23,"racial, groups, statistical evidence, racism, racial profiling",6,Philosophy and Phenomenological Research
+586,24,"colour, qualities, colours, color qualia, qualia",19,Philosophy and Phenomenological Research
+587,25,"persons, personal identity, ﬁssion, psychological, ontological significance",21,Philosophy and Phenomenological Research
+588,26,"imagination, imagery, mental imagery, imaginative, imaginings",14,Philosophy and Phenomenological Research
+589,27,"knowledge, warranted false, warrant, belief, known known",12,Philosophy and Phenomenological Research
+590,28,"disagreement, permissivism, epistemic, peer disagreement, evidence",9,Philosophy and Phenomenological Research
+591,29,"aesthetic, art, aesthetic value, aesthetics, mass art",15,Philosophy and Phenomenological Research
+592,30,"God, theism, atheism, belief hyperspace, World Problem",16,Philosophy and Phenomenological Research
+593,31,"libertarianism, transworld depravity, causal libertarianism, control, luck objection",9,Philosophy and Phenomenological Research
+594,32,"Hume, Humes, Treatise, Garrett, scepticism",21,Philosophy and Phenomenological Research
+595,33,"Wittgenstein, past attitudes, applicative, Stroll, reading",10,Philosophy and Phenomenological Research
+596,34,"Kant, Kants, idealism, sensibility, intrinsic properties",15,Philosophy and Phenomenological Research
+597,35,"perceptual, beliefs, perception, perceptual experiences, grasping",20,Philosophy and Phenomenological Research
+598,36,"Ramsey Test, Test, subjunctive, Import, links credence",6,Philosophy and Phenomenological Research
+599,37,"ontological, ontology, objects, structural indeterminacy, thesis",16,Philosophy and Phenomenological Research
+600,38,"externalism, internalism, internalists, content externalism, externalists",17,Philosophy and Phenomenological Research
+601,39,"paradoxes, truth, truth teller, sentences, liar paradox",9,Philosophy and Phenomenological Research
+602,40,"properties, causal, causation, physical, exclusion",9,Philosophy and Phenomenological Research
+603,41,"Plato, Parmenides, Socrates, book, Aquinas",11,Philosophy and Phenomenological Research
+604,43,"virtue, virtue epistemology, virtues, epistemology, versions virtue",9,Philosophy and Phenomenological Research
+605,44,"skepticism, sceptical, scepticism, world, radical",17,Philosophy and Phenomenological Research
+606,45,"Goldman, social epistemology, critical thinking, Alvin Goldman, groups",7,Philosophy and Phenomenological Research
+607,46,"counterfactuals, counter entailment, project attempts, counterpossible, movies",4,Philosophy and Phenomenological Research
+608,47,"Humean base, Supervenience Laws, Humean Supervenience, Laws Nature, Supervenience",7,Philosophy and Phenomenological Research
+609,48,"knowledge, Brandom, propositional knowledge, intellectualism, Stanley",9,Philosophy and Phenomenological Research
+610,49,"explanatory, explanations, layered structure, coincidences, structure dependence",5,Philosophy and Phenomenological Research
+611,50,"epistemic intuitions, intuition, mindreading, expertise, Nagel",9,Philosophy and Phenomenological Research
+612,51,"pleonastic, propositions, Things Mean, clauses, entities",5,Philosophy and Phenomenological Research
+613,52,"persistence, wholly present, Four Dimensionalism, Dimensionalism, continuer",8,Philosophy and Phenomenological Research
+614,53,"testimony, hearer, epistemology testimony, evidence, justification",13,Philosophy and Phenomenological Research
+615,55,"agent knowledge, skilled activity, Human Action, justified perception, activity",3,Philosophy and Phenomenological Research
+616,56,"assertion, dialectical model, dialectical, theory assurance, assertoric norms",3,Philosophy and Phenomenological Research
+617,57,"deflationism, deflationary, deflationist, Deflationism, deflationists",5,Philosophy and Phenomenological Research
+618,58,"conceptual, conceptual analysis, concepts, engineering, philosophical analysis",8,Philosophy and Phenomenological Research
+619,59,"grief, death, rationality, meaningfulness, griefs rationality",6,Philosophy and Phenomenological Research
+620,60,"memory, episodic, recollection, episodic recollection, remembering",9,Philosophy and Phenomenological Research
+621,61,"causal bases, analysis dispositions, conditional analysis, dispositions intrinsic, bare dispositions",3,Philosophy and Phenomenological Research
+622,62,"attitudes, cognitive relation, attitude reports, propositional attitudes, Theory",5,Philosophy and Phenomenological Research
+623,63,"hallucination, naïve realism, realism, perception, experiences",12,Philosophy and Phenomenological Research
+624,64,"Descartes, may object, Cartesian, Meditations, mind body",19,Philosophy and Phenomenological Research
+625,65,"lying, deception, self deception, lie, deceive",7,Philosophy and Phenomenological Research
+626,66,"Leibniz, substance, Curley, Spinozas, ontological",12,Philosophy and Phenomenological Research
+627,67,"self knowledge, de se, uniquely de, critical reasoning, account self",6,Philosophy and Phenomenological Research
+628,68,"QIG, metaphysical explanation, third claim, metaphysical, entity fundamental",4,Philosophy and Phenomenological Research
+629,70,"metaphysics, metaphysical, science, book, sensed qualities",9,Philosophy and Phenomenological Research
+630,71,"state affairs, pleasures, Chastity, phenomenological theories, affective",5,Philosophy and Phenomenological Research
+631,72,"minimizing expected, belief temporal, Sleeping Beauty, Beauty problem, self locating",1,Philosophy and Phenomenological Research
+632,73,"inverse form, chance, continuum, countable infinity, form NP",2,Philosophy and Phenomenological Research
+633,74,"coherence, coherentism, coherentists, radical skepticism, scientific reasoning",3,Philosophy and Phenomenological Research
+634,75,"sentential reference, plausibility depends, knowledge factive, mathematical theories, classical logic",1,Philosophy and Phenomenological Research
+635,76,"red water, kind instances, instances constitute, constitute extension, designates kind",1,Philosophy and Phenomenological Research
+636,77,"pure powers, essence, essentialists argue, Dispositional essentialists, primitivist theory",2,Philosophy and Phenomenological Research
+637,78,"conscious, consciousness, Brentanos theory, subjective character, higher order",5,Philosophy and Phenomenological Research
+638,79,"meaning platonist, platonist assumptions, platonist, Frege, Leibniz",1,Philosophy and Phenomenological Research
+639,80,"truth conditional, modals, behavior modal, affect interpretation, modal vocabulary",1,Philosophy and Phenomenological Research
+640,81,"luck, epistemic luck, epistemic, knowledge, knowledge lucky",3,Philosophy and Phenomenological Research
+641,82,"Moore paradox, paradox, paradoxical proposition, Moore paradoxical, akratic belief",6,Philosophy and Phenomenological Research
+642,84,"Frankfurt, PAP, morally responsible, done otherwise, deterministically",2,Philosophy and Phenomenological Research
+643,85,"bodily, bodily awareness, bodily action, control, motor representations",5,Philosophy and Phenomenological Research
+644,86,"compatibilists, compatibilist, determinism, compatibilism, moral responsibility",6,Philosophy and Phenomenological Research
+645,87,"privilege, first person, person privilege, approach privilege, expressive",4,Philosophy and Phenomenological Research
+646,88,"Quine, analyticity, Two Dogmas, deflationism, meaning",4,Philosophy and Phenomenological Research
+647,-1,"argue, paper, theory, philosophy, account",84,Philosophers' Imprint
+648,0,"normative, Kant, argue, paper, coercion",56,Philosophers' Imprint
+649,1,"credences, belief, epistemic, accuracy, evidence",19,Philosophers' Imprint
+650,2,"Hobbes, mathematics, Pythagoreanism, evolved numerical, civil philosophy",7,Philosophers' Imprint
+651,4,"ought, best theorem, reason giving, vaccinate tomorrow, normative reason",16,Philosophers' Imprint
+652,5,"representations He, motion body, Kant teleology, alive explains, teleology philosophy",1,Philosophers' Imprint
+653,6,"modal, modality, metaphysical, modal realists, iterated modalities",11,Philosophers' Imprint
+654,7,"decision theory, theory, expected utility, Jeffrey conditionalization, dominance",7,Philosophers' Imprint
+655,8,"local version, physically possible, possible world, unaccelerated laboratories, say local",1,Philosophers' Imprint
+656,9,"temporal, presentism, listening music, real change, temporal experiences",6,Philosophers' Imprint
+657,10,"innateness also, machine like, distinction innate, caused factors, biological traits",2,Philosophers' Imprint
+658,11,"Hobbes, film, demonstratives, conventions, pronouns",7,Philosophers' Imprint
+659,12,"scientific, Mill, scientific knowledge, warrant scientific, method bias",4,Philosophers' Imprint
+660,13,"causation, causal, flood, causal notions, chocolate",3,Philosophers' Imprint
+661,14,"contextualism, taste, pattern, knowledge, skeptics knowledge",4,Philosophers' Imprint
+662,15,"scientific realism, underdetermination, science objective, realism difficult, revisits bearing",1,Philosophers' Imprint
+663,16,"spatiality, space, intuitions, transparency, experiences",2,Philosophers' Imprint
+664,17,"classical logic, inferentialism, logic argue, English, tonk language",2,Philosophers' Imprint
+665,18,"concepts solves, enriches space, compositional ampliative, frames paper, bulk discussion",1,Philosophers' Imprint
+666,19,"responsibility, Strawson, moral responsibility, Resentment, mistakes fact",3,Philosophers' Imprint
+667,20,"emotions, love, Buddhist, hiri, moods",6,Philosophers' Imprint
+668,21,"physicalism, Conway, created substances, original peculiar, ground physicalism",3,Philosophers' Imprint
+669,22,"vagueness, unclarity, order vagueness, vague objects, borderline cases",3,Philosophers' Imprint
+670,23,"gender, sexual orientation, genderqueer, epistemic injustice, misandrogyny",5,Philosophers' Imprint
+671,24,"colour, constant colour, color mind, shape color, constancy cases",2,Philosophers' Imprint
+672,25,"intuitive verdicts, personhood, identity, organisms, distinctions",2,Philosophers' Imprint
+673,26,"imagination, Zhuangzi, fiction, imaginative, fictional",5,Philosophers' Imprint
+674,27,"closure, ordinary practice, epistemic closure, closure principle, closed known",1,Philosophers' Imprint
+675,28,"peer disagreement, peers, conciliatory, peer review, evidence",7,Philosophers' Imprint
+676,29,"aesthetic, arts, art, process arts, beauty",5,Philosophers' Imprint
+677,30,"pluralistic hypothesis, conception God, religious faith, faith, epistemically permissible",1,Philosophers' Imprint
+678,31,"choice, freewill, Cudworth, judgements best, libertarian account",3,Philosophers' Imprint
+679,32,"Hume, induction, Treatise, inductive inferences, Aristotles",7,Philosophers' Imprint
+680,33,"Wittgenstein, esoteric exoteric, Russells views, Leibniz, esoteric mode",3,Philosophers' Imprint
+681,34,"Kant, transcendental, aesthetic autonomy, idealism, appearances",15,Philosophers' Imprint
+682,35,"beliefs, known illusions, problem known, perceptual beliefs, illusions",2,Philosophers' Imprint
+683,36,"conditionals, kinds conditionals, expressivistic, If Oswald, subjunctives",3,Philosophers' Imprint
+684,37,"exist others, exist, exist degree, fundamentality perfect, naturalness grounding",1,Philosophers' Imprint
+685,39,"Liar reasoning, context shift, Charles, paradox, principles arithmetic",1,Philosophers' Imprint
+686,40,"causal work, dispositions components, exclusion problem, mental properties, relations",1,Philosophers' Imprint
+687,41,"Stoics, Plato, Aquinas, Socrates, virtue",8,Philosophers' Imprint
+688,44,"skepticism, problematics, circular reasoning, justification believe, rejection closure",3,Philosophers' Imprint
+689,46,"counterfactual support, counterfactual, physically contingent, counterfactuals, contingent generalizations",2,Philosophers' Imprint
+690,47,"primitive laws, explain uniformity, governing laws, primitives, Within Physics",1,Philosophers' Imprint
+691,48,"practical senses, practical, modes presentation, semantic values, distinctively",1,Philosophers' Imprint
+692,49,"possibly explanation, imaginative frustration, something possible, state affairs, ordinary life",2,Philosophers' Imprint
+693,50,"non Westerners, Westerners view, say obvious, laypeople tend, Gettier subject",1,Philosophers' Imprint
+694,52,"temporal parts, nothing endures, proper temporal, material entities, exert operate",3,Philosophers' Imprint
+695,53,"testimony, recordings, assurance, testimonial, testimonial practices",3,Philosophers' Imprint
+696,54,"form learning, learning, angle water, training acquisition, posed query",1,Philosophers' Imprint
+697,55,"basic action, Anscombes, practical, observational knowledge, without observation",3,Philosophers' Imprint
+698,57,"truth claim, theories truth, clarification debate, due influence, rival inflationary",1,Philosophers' Imprint
+699,59,"grief, death, diminution grief, reason grief, life meaning",4,Philosophers' Imprint
+700,60,"remembering, memory, role imagery, imagery remembering, sometimes recall",1,Philosophers' Imprint
+701,62,"clause, facto coordination, fine grained, de facto, notion content",2,Philosophers' Imprint
+702,63,"external entities, perception, hallucination, naïve account, experience phenomenally",3,Philosophers' Imprint
+703,64,"Descartes, clarity, mind body, argue Descartes, consciousness",7,Philosophers' Imprint
+704,65,"lying, philosophical definition, deceive, bank robber, robber You",2,Philosophers' Imprint
+705,66,"Spinozas, human minds, Leibnizs, monads, metaphysics",8,Philosophers' Imprint
+706,67,"conscious belief, self knowledge, self blindness, psychological states, person psychological",2,Philosophers' Imprint
+707,68,"layered structure, explanations, plural grounding, collapse, grounding explanations",2,Philosophers' Imprint
+708,69,"models phenomena, inferences models, demonstrated approximately, stability epistemological, Despite little",1,Philosophers' Imprint
+709,70,"issue whether, metaphysics, fundamentality question, engagement putative, putative facts",2,Philosophers' Imprint
+710,73,"chance, synchronic, mathematical representation, infinitesimals, robustly best",3,Philosophers' Imprint
+711,76,"cp laws, rigidity, general terms, proposal, new grounds",4,Philosophers' Imprint
+712,77,"worlds talk, modal semantics, Humean view, dispositional, metaphysics",2,Philosophers' Imprint
+713,79,"loaded counterparts, properties propositions, statements explicitly, counterparts, semantic puzzles",1,Philosophers' Imprint
+714,80,"modal, context, polysemy, challenge cases, modal auxiliaries",3,Philosophers' Imprint
+715,85,"bodily, inner experience, emotions tactile, bodily experience, tactile experiences",1,Philosophers' Imprint
+716,86,"meet compatibilist, compatibilist conditions, manipulated agents, manipulators, manipulation",1,Philosophers' Imprint
+717,87,"self, self ascriptions, misidentification, immunity, Immunity Thesis",3,Philosophers' Imprint
+718,88,"Quine, eight categories, dichotomy, categories, naturalism",3,Philosophers' Imprint
+719,-1,"argue, paper, account, view, knowledge",752,Philosophical Studies
+720,0,"normative, argue, morality, morally, view",414,Philosophical Studies
+721,1,"belief, epistemic, beliefs, justification, evidence",162,Philosophical Studies
+722,2,"mathematical, numbers, mathematics, Countabilism, ante rem",30,Philosophical Studies
+723,3,"names, proper names, Philosophy, Kripke, Millianism",58,Philosophical Studies
+724,4,"reasons, ought, desire, rationality, practical",112,Philosophical Studies
+725,5,"cognitive, cognition, cognitive science, mind, computational",20,Philosophical Studies
+726,6,"modality, possible worlds, necessity, metaphysical, essence",61,Philosophical Studies
+727,7,"decision theory, options, choice, expected utility, choiceworthiness",31,Philosophical Studies
+728,8,"quantum, QMI, spacetime, quantum mechanics, fundamental",10,Philosophical Studies
+729,9,"time, temporal, presentism, past, times",47,Philosophical Studies
+730,10,"kinds, selection, natural kinds, social kinds, emergence",16,Philosophical Studies
+731,11,"context, demonstratives, indexicals, utterance, linguistic",63,Philosophical Studies
+732,12,"philosophy science, severity, social, values, research",14,Philosophical Studies
+733,13,"causation, causal, causes, actual causation, cause effect",32,Philosophical Studies
+734,14,"contextualism, knowledge, context, contextualist, relativism",49,Philosophical Studies
+735,15,"scientific, realism, scientific realism, theories, science",12,Philosophical Studies
+736,16,"perceptual, seeing, visual, perceptual experience, perception",36,Philosophical Studies
+737,17,"logic, Implicit Definition, Hempel, classical logic, Definition cannot",12,Philosophical Studies
+738,18,"statue, composition, mereological, objects, simples",39,Philosophical Studies
+739,19,"responsibility, responsible, moral responsibility, morally responsible, control",64,Philosophical Studies
+740,20,"emotions, emotion, evaluative, affective, disgust",30,Philosophical Studies
+741,21,"physicalism, consciousness, dualism, conceivability, materialism",46,Philosophical Studies
+742,22,"vagueness, theory vagueness, semantic, indeterminacy, argument",21,Philosophical Studies
+743,23,"feminist, social, racial, gender, groups",41,Philosophical Studies
+744,24,"colour, color experiences, colours, objects, experiences",28,Philosophical Studies
+745,25,"personal identity, animalism, persons, fission, psychological",31,Philosophical Studies
+746,26,"fiction, imagination, fictionalism, imaginative, fictional characters",31,Philosophical Studies
+747,27,"closure, knowledge, fallibilism, single premise, premise closure",29,Philosophical Studies
+748,28,"disagreement, peer disagreement, epistemic, expert, epistemology disagreement",18,Philosophical Studies
+749,29,"aesthetic, art, artistic, beauty, appreciation",15,Philosophical Studies
+750,30,"best world, theism, best, God, ability based",4,Philosophical Studies
+751,31,"free, libertarianism, causal, agent causal, action",33,Philosophical Studies
+752,32,"Hume, induction, Humes, inferences, Treatise",11,Philosophical Studies
+753,33,"Wittgenstein, Kripke Wittgenstein, meaning sentences, rule following, judgments",6,Philosophical Studies
+754,34,"Kant, Deduction, existential judgment, judgment Kant, Kantian",12,Philosophical Studies
+755,35,"perceptual justification, perception, perceptual beliefs, justificatory, perceptual experiences",22,Philosophical Studies
+756,36,"indicative conditionals, subjunctive, subjunctive conditionals, epistemic modals, semantics",12,Philosophical Studies
+757,37,"ontological, ontology, metaontological, Razor, ontological disputes",14,Philosophical Studies
+758,38,"externalism, internalism, justification, dilemma, Bergmann",20,Philosophical Studies
+759,39,"Liar, revenge, solution, liar paradox, semantic paradoxes",13,Philosophical Studies
+760,40,"realization, causation, mental causation, causal powers, mental properties",20,Philosophical Studies
+761,41,"Plato, Socrates, Parmenides, Platonic, greatest good",6,Philosophical Studies
+762,43,"virtue, virtues, virtue epistemology, epistemology, responsibilist",24,Philosophical Studies
+763,44,"skepticism, simpliciter skepticism, BIV, good, external world",12,Philosophical Studies
+764,45,"collective, intentions, joint intention, agency, modest sociality",14,Philosophical Studies
+765,46,"counterfactuals, counterfactual, semantics, counterpossibles, Lewis",17,Philosophical Studies
+766,47,"Humeanism, laws nature, metaphysical, Humean Supervenience, circularity",16,Philosophical Studies
+767,48,"knowledge, propositional knowledge, practical knowledge, intellectualism, ability",14,Philosophical Studies
+768,49,"explanations, explanatory, explanatory realism, counterfactual, logical impossibilities",14,Philosophical Studies
+769,50,"intuitions, philosophy, Cappelen, philosophical, experimental philosophy",23,Philosophical Studies
+770,51,"propositions, structured, unity proposition, predicate abstraction, structured concepts",14,Philosophical Studies
+771,52,"dimensionalism, four dimensionalism, temporal, endurantism, objects",15,Philosophical Studies
+772,53,"testimony, epistemology testimony, testimonial knowledge, source testimony, testimonial belief",13,Philosophical Studies
+773,54,"mindreading, Goldman, mind, cognitive, mind reading",10,Philosophical Studies
+774,55,"actions, intentions, agential, agency, passive action",18,Philosophical Studies
+775,56,"knowledge account, speech, assertions, speech act, knowledge",15,Philosophical Studies
+776,57,"deflationism, deflationary, practical success, language, theories truth",15,Philosophical Studies
+777,58,"conceptual, engineering, conceptual engineering, conceptual analysis, concepts",12,Philosophical Studies
+778,59,"animals, animal, lives, mortality, human",22,Philosophical Studies
+779,60,"memory, episodic, memory beliefs, memory traces, Bernecker",12,Philosophical Studies
+780,61,"disposition, dispositional, conditional analysis, condition dispositional, dispositional analyses",10,Philosophical Studies
+781,62,"attitude reports, belief, Superman, belief ascriptions, Kent",15,Philosophical Studies
+782,63,"perceptual, hallucination, perception, naïve realism, realism",23,Philosophical Studies
+783,64,"Descartes, Teresa, Meditations, meditative, fact Descartes",3,Philosophical Studies
+784,65,"deception, lying, self deception, lie, deceive",12,Philosophical Studies
+785,66,"Spinoza, Leibniz, constructivism, metaphysical idealism, forms believes",4,Philosophical Studies
+786,67,"self knowledge, self, knowledge, introspection, beliefs",13,Philosophical Studies
+787,68,"grounds, metaphysical, grounding laws, arbitrary grounding, metaphysical explanation",14,Philosophical Studies
+788,69,"fictions, views treat, treat model, ontological problems, world relations",3,Philosophical Studies
+789,70,"metaphysics, metaphysical, subject matter, matter metaphysics, empirical claims",11,Philosophical Studies
+790,71,"unpleasantness, felt quality, hybrid theories, content, bodily",14,Philosophical Studies
+791,72,"Beauty, Sleeping, Sleeping Beauty, Elga, Beauty puzzle",6,Philosophical Studies
+792,73,"probability, deterministic chance, deterministic, nature probability, essential formal",3,Philosophical Studies
+793,74,"coherence, individual credibility, Bovens Hartmann, information, credibility",5,Philosophical Studies
+794,75,"knowability, position know, Fitch, factiveness, truths knowable",8,Philosophical Studies
+795,76,"kind terms, rigidity, general terms, natural kind, term",20,Philosophical Studies
+796,77,"dispositional, fundamental properties, roles, powers, austere quidditism",11,Philosophical Studies
+797,78,"consciousness, higher order, higher, Kriegel, states",17,Philosophical Studies
+798,79,"Frege, Fregean, predication, Fregean senses, Pragmatism",8,Philosophical Studies
+799,80,"epistemic modals, epistemic, modal, Yalcin, logic",11,Philosophical Studies
+800,81,"luck, moral luck, luck scenario, anti luck, circumstantial",7,Philosophical Studies
+801,82,"absurdity, Moore Paradox, belief, raining, self evident",15,Philosophical Studies
+802,83,"truthmaking, truthmakers, negative truths, truthmaker theory, truthmaker principle",10,Philosophical Studies
+803,84,"Frankfurt, PAP, alternative possibilities, agent, cases",22,Philosophical Studies
+804,85,"sensory, control, motor control, sensory modalities, automatic",3,Philosophical Studies
+805,86,"manipulation, responsibility, compatibilist, moral responsibility, compatibilism",20,Philosophical Studies
+806,87,"self, self ascriptions, first person, person pronoun, thought insertion",6,Philosophical Studies
+807,88,"analyticity, analytic, discussion Quine, distinction, successor",6,Philosophical Studies
+808,-1,"paper, one, epistemic, logic, knowledge",1577,Synthese
+809,0,"moral, normative, justice, social, argue",114,Synthese
+810,1,"belief, epistemic, evidence, Bayesian, justification",285,Synthese
+811,2,"proofs, numbers, diagrams, theory, geometry",270,Synthese
+812,3,"names, proper names, Philosophy, connotative, attributive",44,Synthese
+813,4,"ought, normative, rationality, desires, agent",51,Synthese
+814,5,"cognition, neuroscience, neural, computational, mechanistic",215,Synthese
+815,6,"modal, modality, necessity, possible worlds, metaphysical",79,Synthese
+816,7,"decision theory, theory, game, rationality, causal decision",124,Synthese
+817,8,"quantum, quantum mechanics, spacetime, physics, relativity",200,Synthese
+818,9,"time, temporal, theory time, presentism, Prior",61,Synthese
+819,10,"biological, biology, emergence, natural kinds, evolutionary",138,Synthese
+820,11,"meaning, context, linguistic, semantic, speaker",63,Synthese
+821,12,"scientific, research, social, philosophy science, scientists",163,Synthese
+822,13,"causal, causation, interventionist, variables, causality",75,Synthese
+823,14,"contextualism, knowledge, relativism, epistemic, semantic",44,Synthese
+824,15,"scientific realism, Kuhn, scientific theories, scientists, success",128,Synthese
+825,16,"perceptual, visual, experience, content, spatial",35,Synthese
+826,17,"consequence, logics, validity, semantics, classical logic",102,Synthese
+827,18,"mereological, composition, CAI, parthood, universals",39,Synthese
+828,19,"responsibility, blameworthy, innovators, moral responsibility, AISs",6,Synthese
+829,20,"emotions, emotion, affective, emotional, evaluative",33,Synthese
+830,21,"physicalism, physical, consciousness, supervenience, physicalists",30,Synthese
+831,22,"vagueness, order vagueness, predicates, vague predicates, fuzzy",37,Synthese
+832,23,"implicit, implicit bias, statistical evidence, racial, gender",40,Synthese
+833,24,"colours, perception, hues, color experience, objects",18,Synthese
+834,25,"identity, personal identity, persons, fission, survival",16,Synthese
+835,26,"imagination, fiction, imaginative, imagery, fictionalism",34,Synthese
+836,27,"closure, knowledge, warrant, belief, infallibilism",34,Synthese
+837,28,"disagreement, epistemic, peer disagreement, peers, evidence",55,Synthese
+838,29,"aesthetic, art, Poincaré, training, aesthetic judgements",6,Synthese
+839,30,"God, omnipotent, Prior, Himself, diary entry",7,Synthese
+840,31,"libertarianism, agent causal, control, freedom, causal libertarianism",15,Synthese
+841,32,"Hume, induction, Humes, Treatise, inductive logic",26,Synthese
+842,33,"Wittgenstein, Investigations, philosophy, philosophical pictures, rule following",29,Synthese
+843,34,"Kant, Kants, transcendental logic, intuitions, reading",14,Synthese
+844,35,"beliefs, perception, phenomenology, perceptual experiences, perceptual beliefs",22,Synthese
+845,36,"conditionals, indicative, subjunctive, indicative conditionals, subjunctive conditionals",20,Synthese
+846,37,"ontological, ontology, parsimony, ideological, structuralist approach",20,Synthese
+847,38,"externalism, internalism, content externalism, externalist, externalists",19,Synthese
+848,39,"paradoxes, truth, self referential, liar paradox, Horwich",21,Synthese
+849,40,"causation, mental causation, argument, mental physical, causal powers",24,Synthese
+850,41,"Plato, adjectives, value, Neoplatonists Most, terms Platonically",1,Synthese
+851,42,"dynamic, logics, agents, epistemic logic, dynamic epistemic",84,Synthese
+852,43,"virtue, intellectual, virtue epistemology, virtues, intellectual virtues",31,Synthese
+853,44,"skepticism, scepticism, sceptical, skeptic, external world",18,Synthese
+854,45,"social, groups, individual, beliefs, social epistemology",38,Synthese
+855,46,"counterfactuals, counterfactual, similarity, counterpossibles, consequent",25,Synthese
+856,47,"Humeanism, laws nature, Lewis, scientific, fundamental properties",25,Synthese
+857,48,"knowledge, propositional knowledge, intellectualism, ability, action",27,Synthese
+858,49,"explanations, explanatory, unification, non causal, causal explanation",43,Synthese
+859,50,"intuitions, philosophical, philosophy, philosophers, experimental philosophy",22,Synthese
+860,51,"propositions, structured, Hanks, entities, structured propositions",32,Synthese
+861,52,"endurantism, Four, Four Dimensionalism, temporary intrinsics, temporal",8,Synthese
+862,53,"testimony, knowledge, testimonial knowledge, gossip, speaker",27,Synthese
+863,54,"mindreading, children, theory mind, empathy, mind",52,Synthese
+864,55,"KAT, agency, intentional agency, intention, kind action",10,Synthese
+865,56,"assertion, knowledge, assertions, assert, account assertion",21,Synthese
+866,57,"deflationism, deflationary, deflationists, deflationism truth, conservativeness",16,Synthese
+867,58,"engineering, conceptual engineering, concepts, conceptual analysis, analysis",33,Synthese
+868,59,"animals, existential dread, existential, suffering, speciesist belief",3,Synthese
+869,60,"memory, episodic, episodic memory, memories, epistemic conservatism",28,Synthese
+870,61,"disposition, dispositional, analysis dispositions, conditional, fragile",15,Synthese
+871,62,"Relation Theory, Multiple, believes, Theory, Schiffer puzzle",14,Synthese
+872,63,"hallucination, perception, realism, hallucinations, naïve realism",9,Synthese
+873,64,"Descartes, sensations, III, teleological account, Meditations",7,Synthese
+874,65,"lying, deception, lie, lies, deceive",12,Synthese
+875,66,"substance, attributes, Bradley, Philosophy Leibniz, 2d2",2,Synthese
+876,67,"self knowledge, self, transparency, knowledge, introspection",11,Synthese
+877,68,"ground, ground theoretic, fundamentality, metaphysical, theoretic",21,Synthese
+878,69,"scientific, scientific models, scientific representation, representational, practice",51,Synthese
+879,70,"metaphysics, science, metaphysics science, cosmology, metaphysical",12,Synthese
+880,71,"eliminativism pain, scientific eliminativism, orgasm, description explanation, empirical findings",7,Synthese
+881,72,"Sleeping, Sleeping Beauty, Beauty problem, Dutch book, heads",23,Synthese
+882,73,"chance, probabilities, PD, stochastic, frequentism",26,Synthese
+883,74,"coherence, measures coherence, degree coherence, coherence measures, coherent",28,Synthese
+884,75,"knowability, knowability principle, truths, knowable, Fitch paradox",21,Synthese
+885,76,"kind terms, rigidity, natural kind, term, general terms",9,Synthese
+886,77,"dispositional, dispositional essentialism, essentialism, metaphysics, natural properties",16,Synthese
+887,78,"conscious, higher order, higher, consciousness, Neo Brentanian",7,Synthese
+888,79,"Frege, thought, provisos, sentences, predicate",13,Synthese
+889,80,"permission, choice permission, wide scope, epistemic modals, scope requirements",7,Synthese
+890,81,"luck, anti luck, epistemic luck, epistemology, luck epistemology",26,Synthese
+891,82,"Moore, beliefs, Moorean beliefs, irrationality, Mooreanism",8,Synthese
+892,83,"negative truths, truthmakers, truthmaker theory, truthmaking, truthmaker maximalism",11,Synthese
+893,84,"Frankfurt cases, horn dilemma, counterexamples, alternative possibilities, Philos",1,Synthese
+894,85,"control, self control, actions, skills, motor control",18,Synthese
+895,86,"Direct Argument, Argument pose, debate fruitful, debate Fischer, By hope",1,Synthese
+896,87,"first person, misidentification, multiple others, IEM, gestalt",6,Synthese
+897,88,"analyticity, distinction, Bolzano, analyticsynthetic distinction, conventionalism",11,Synthese
