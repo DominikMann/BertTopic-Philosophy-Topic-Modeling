@@ -1,2 +1,2 @@
 # BertTopic-Philosophy-Topic-Modeling
-Topic Modeling for 10 Philosophy journals
+Topic Modeling for 11 Philosophy journals
