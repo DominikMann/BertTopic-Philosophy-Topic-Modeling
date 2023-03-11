@@ -1,0 +1,1844 @@
+,Topic,Words,Frequency,Timestamp
+0,-1,"book, theory, great writer, philosophical, two",104,2000
+1,0,"political, Roberts, rights, book, state",41,2000
+2,1,"HE pr, evaluation system, TG view, justification, evidentialism",9,2000
+3,2,"mathematics, philosophy mathematics, rationals, nominalist, structures",13,2000
+4,3,"advice, self interest, internalism, motivation, model internalism",13,2000
+5,4,"Clarks book, Heidegger, Heidegger scholar, cognitive, Being",2,2000
+6,5,"modal, model theory, theoretic truth, free logic, theoretic",3,2000
+7,6,"probability, Nash Equilibrium, Equilibrium, rationality, theory decision",5,2000
+8,7,"quasi, quantum, quasi set, truth quasi, set theory",5,2000
+9,8,"tensed, theories time, tenseless theories, tenseless, temporal experience",3,2000
+10,9,"level, conspecifics, human actions, causal approach, explanations",3,2000
+11,10,"demonstratives, complex demonstratives, noun phrases, noun, complex",3,2000
+12,12,"causation, causal, probability raising, causal laws, causal power",7,2000
+13,14,"sciences, predominant motivation, reach empirical, underdetermination argue, antirealist",4,2000
+14,15,"character, qualia possible, inverted qualia, sense modalities, character experiences",5,2000
+15,16,"logics, translation logics, conservative translations, classical logic, intuitionistic",7,2000
+16,17,"bronze, Problem Universals, statue lump, object cannot, topology",5,2000
+17,18,"bank, control, driven accounts, robbery, guidance",7,2000
+18,19,"emotion, expressions emotion, envy, emotion fitting, evaluative features",5,2000
+19,20,"modal facts, rejecting S5, explanations modal, properties necessitate, existence enormous",1,2000
+20,21,"vagueness, Sorensens argument, George tall, cavity, view vagueness",6,2000
+21,22,"gender, reactive guerrilla, females different, function polite, inquiry gender",2,2000
+22,23,"veridical color, veridical, physicalism, manifest behaviour, specification veridical",4,2000
+23,24,"man married, psychological continuity, analyses personal, self aware, persons",4,2000
+24,26,"claiming, theorizes epistemic, Plantinga justification, Plantinga theorizes, warrant defined",1,2000
+25,28,"art, mass art, aesthetic, arts, formalism",9,2000
+26,29,"God, OT false, choose good, Christian philosophers, would God",4,2000
+27,30,"action centered, direct production, modest metaphysical, view indeterminism, examines libertarian",2,2000
+28,31,"Hume, personal identity, Treatise, representation essay, introspective subjectivist",2,2000
+29,32,"Wittgenstein, Stroll, philosophy, analytic, meaning",10,2000
+30,33,"Kant, Cassam, reads Kant, Putnam reads, reasonableness",7,2000
+31,34,"Mind World, Evans view, McDowell argues, vulnerable objections, perceptual representation",2,2000
+32,35,"computer, computer science, conditionals relationship, relevant much, Adams based",1,2000
+33,36,"Categories, metaphysics, precision Published, persons appearances, substrata ontology",2,2000
+34,37,"externalism, content, justification, deontology, duties obligations",8,2000
+35,38,"Chain Paradoxes, liar sentence, strengthened liar, Paradoxes, Knower",3,2000
+36,39,"thesis holds, physical property, mental property, reductionism thecausal, line thesis",1,2000
+37,40,"Aristotle, Socrates, stoics, stoicism, Plato",6,2000
+38,41,"terms ofa, ofthe adaptive, terms selected, thisdelivers property, ofa selection",1,2000
+39,42,"virtues skills, epistemology, virtue, justification, virtue epistemology",2,2000
+40,43,"skepticism, ancient, ancient skepticism, direct realist, external world",7,2000
+41,44,"deliberation subject, constituted moral, association individuals, answer Rousseau, body deliberation",1,2000
+42,48,"She explained, without explaining, explained semantically, predicate satisfied, semantically monadic",1,2000
+43,49,"simple useful, compass, shafts vibrated, determining direction, sensitivity foibles",1,2000
+44,51,"endurantist, SR, four dimensionalists, stage theorists, dimensionalists",2,2000
+45,52,"Reidian view, rely others, word others, generate knowledge, hearer",3,2000
+46,54,"core features, theory human, essays, temporally extended, human action",6,2000
+47,57,"Fodor, relation bears, lexical, concepts, moonshine",2,2000
+48,58,"morally considerable, environmentalist agenda, environmentalist, agenda, human beings",2,2000
+49,60,"disposition, objection conditional, manifestation, objection, Bird",3,2000
+50,61,"normative dimension, interpretationist thought, features interpretation, content hypothetical, knowledge thoughts",1,2000
+51,62,"mirror, version intentional, reverses original, inserted backwards, front experience",3,2000
+52,63,"Descartes, Augustine, Aristotle, mind, influence Descartes",5,2000
+53,64,"self deception, deception defends, deception divided, deception parallel, except deceiver",1,2000
+54,65,"Leibniz, Spinoza, Rutherford, theodicy, theodicy essential",3,2000
+55,66,"critical reasoning, introspectivist, introspective evidence, epistemic difference, incompletely",3,2000
+56,70,"unpleasantness, sensations proper, affective, sensations, episodic feeling",2,2000
+57,72,"statistical mechanics, chance events, contrastive, chance, statistical",3,2000
+58,73,"dubious quality, coherence, Or know, fully reliable, coherence information",2,2000
+59,74,"Fitchs Proof, Fitchs, verificationism, knower paradox, realist truth",4,2000
+60,75,"necessary identities, posteriori necessary, existence posteriori, Kripke argued, water H2O",1,2000
+61,78,"Frege, judgement stroke, puzzle, thought judging, judgementstroke associated",1,2000
+62,83,"intervention, preclude alternatives, moral responsibility, alternate possibilities, responsibility",1,2000
+63,87,"Carnap, dispute Rudolf, centrality familiarity, Quines dispute, arguments reality",2,2000
+64,-1,"Heidegger, book, philosophy, self consciousness, Russellianism",133,2001
+65,0,"rights, political, Gert, value, book",54,2001
+66,1,"UL, creature, could turned, rational creature, abilities rational",5,2001
+67,2,"mathematics, prime numbers, numbers, philosophy mathematics, us exist",6,2001
+68,3,"Humean, desire, dilemma, guide choices, specific arguments",14,2001
+69,4,"connectionist, Bealers argument, argument functionalism, computational, extensional",10,2001
+70,5,"modal, Chihara, conception modal, idealized belief, modal logic",8,2001
+71,6,"box, decision theory, choose, preferences, possible outcomes",7,2001
+72,7,"joint probabilities, Bells inequalities, minimalist position, Bells, non commuting",4,2001
+73,8,"temporal, temporal indexicals, tenseless, tense, experience tense",5,2001
+74,9,"treatment chaos, systems along, succinct accurate, Explaining Chaos, pertinent philosophical",1,2001
+75,10,"indirect speech, speech acts, opacity, indexical, substitutivity",11,2001
+76,11,"JSTOR, work scholarly, JSTOR profit, work materials, scholarly community",1,2001
+77,12,"causation, Causation, causal loops, genuine causation, causation omission",8,2001
+78,13,"ofﬁce, global doubts, doubts, scepti cism, contexts everyday",3,2001
+79,14,"scientific, scientific realism, linguistic formulations, radical scientific, revolutions paradigm",6,2001
+80,15,"perceptual, nonconceptual content, object, nonconceptual, perceptual experience",12,2001
+81,16,"protocols, warranted assertability, intuitionistic logic, logical constants, intuitionistic",3,2001
+82,17,"think various, natural Some, Denkel, objects, bundle theory",4,2001
+83,18,"responsibility, agent, kind mechanism, taking responsibility, dilemmas",4,2001
+84,19,"laughter, emotions, Elster, Hobbes, intimacy",7,2001
+85,20,"identities, explanatory gap, phenomenalphysical identities, phenomenalphysical, reducible physical",8,2001
+86,21,"vagueness, Quandary, variety vagueness, vagueness linguistic, vagueness third",2,2001
+87,22,"definition pornography, definition, pornography, stipulative definition, argues extant",1,2001
+88,23,"colour, Quest Reality, things, indiscriminability, Barry",7,2001
+89,24,"Lockeanism, personal identity, animalism Lockeanism, brain, animalism",8,2001
+90,25,"mental images, imagery, says neither, world relevant, theoretical intuition",3,2001
+91,26,"new paradox, relevant alternatives, Knower show, theory RAT, trapped problem",2,2001
+92,27,"experts, worries trouble, purport resolve, complex highly, quandaries",1,2001
+93,28,"art history, art, history, history writing, Goodman",3,2001
+94,29,"religious faith, faith, religious, Information, book",11,2001
+95,30,"self causation, indeterminism necessary, indeterminism, conception ultimate, action subject",3,2001
+96,31,"Hume, interpretation Hume, Hume theory, influence, Copy Principle",11,2001
+97,32,"Wittgenstein, passages, philosophy, foundations mathematics, transitional phase",8,2001
+98,33,"Kant, transcendental, idealism, apperception, substance priori",6,2001
+99,34,"perceptual, perception, Brewer, perceptual experiences, empirical beliefs",8,2001
+100,35,"conditionals, meaning connection, connexive, entailment, indicative subjunctive",2,2001
+101,36,"atoms arranged, exist atoms, arranged, Aristotles, statuewise",2,2001
+102,37,"internal twins, virtue one, infallible, justified beliefs, agree internal",2,2001
+103,38,"lack solutions, Liar Paradox, one conclusive, list Surely, Parsons work",1,2001
+104,39,"events, bodily behavior, complex event, previous microphysical, pork chops",1,2001
+105,40,"Politics, Aristotle, Socrates, Plato, book",11,2001
+106,41,"protocols, soundness fairness, dynamic disputes, proof theories, protocols dynamic",1,2001
+107,42,"reflection, Virtue, Virtue Epistemology, Sosas, Epistemology",1,2001
+108,43,"reliabilism Greco, theory Greco, easily dismissed, virtue based, agent reliabilism",2,2001
+109,44,"species acceptance, species, collective belief, plural subjects, collective",2,2001
+110,46,"rotating, rotating homogeneous, homogeneous, experiments Armstrong, RDA sorts",1,2001
+111,47,"pragmatist theory, mind run, believing terms, run pragmatist, reconstruct notions",3,2001
+112,49,"intuitions, instances skeptical, psychological constitution, contingent psychological, begins demonstration",1,2001
+113,50,"avoids flaws, Neale considers, flaws Russell, facts Neale, bring discussion",1,2001
+114,53,"around sense, reference, hypothesislooks interpretation, abilities uniquely, naive psychology",1,2001
+115,54,"conception call, action way, world conceived, intentional action, intention",2,2001
+116,56,"deflationism, deflationist, effective enumeration, Meaningless Strategy, rule theory",5,2001
+117,57,"Jackson, conceptual analysis, many cognitive, localist position, analysis",3,2001
+118,58,"Environmental, xviii 195, Philosophy Ethics, AUS69, Padmasiri de",2,2001
+119,60,"doubt difficulty, With possible, Progress nature, nomic concepts, function pervasiveness",1,2001
+120,61,"fly, Clark Kent, Kent, serve modes, modes presentation",3,2001
+121,63,"Descartes, senses, writings, portrayed Meditations, introduce Descartes",2,2001
+122,64,"insist process, knows two, center Annette, guise mind, cleverness",2,2001
+123,65,"Leibniz, philosophy mind, perceptions, mind looks, mind immaterial",1,2001
+124,66,"individualist, express various, thoughts sincere, sincere utterances, concept applies",3,2001
+125,69,"applied metaphysics, metaphysics, given domain, issue whether, topic",3,2001
+126,70,"When feel, leg understand, pain leg, leg, feel pain",1,2001
+127,71,"underestimated argument, facie consequences, species going, risk human, Assumption present",1,2001
+128,73,"justification coherence, coherence, coherentism, justification, coherentist literature",1,2001
+129,75,"particles names, plural referring, terms KPT, KPT develops, examines description",1,2001
+130,77,"flow largelyfrom, metaphor horse, representing HOS, cognitiveneuroscientific, character sensory",2,2001
+131,79,"functional consistency, semantic, Moores paradox, semantic theory, consistency",1,2001
+132,81,"paradoxical proposition, Moore paradoxical, epistemic defeasibility, important meta, contradiction self",3,2001
+133,82,"ontology, ontological dimension, Principle Semantic, Semantic Sentential, truth ontological",2,2001
+134,84,"mental acts, mentalacts, mental, acts bodily, acts mentaloperations",1,2001
+135,86,"privilege, first person, person privilege, approach privilege, expressive",4,2001
+136,87,"Quines, epistemic analyticity, synthetic distinction, empiricism, holism",4,2001
+137,-1,"philosophy, self, language, one, book",157,2002
+138,0,"Adams, moral, book, ethics, utilitarianism",59,2002
+139,1,"TG, belief, reliabilism, Reliabilism, produced",11,2002
+140,2,"mathematics, Potter, incidence, arithmetic, Poincaré",19,2002
+141,3,"Pollocks, reasons, ought, practical, internalism",12,2002
+142,4,"multiplerealizability, realizability, Infinite Minds, cellularmolecular, Minds Cosmology",3,2002
+143,5,"conceptual relativity, relativity, modal, metaphysical realism, realism",7,2002
+144,6,"causal probability, events clause, definition related, definition proceeds, define investigate",5,2002
+145,7,"indistinguishability, indistinguishability classical, quantum, space, classical particles",3,2002
+146,8,"token reflexive, time, real change, reflexive, property based",6,2002
+147,9,"group selection, selection, mind twistingly, perspectives, historical continuity",8,2002
+148,10,"demonstratives, language, implicature, understanding language, expressions",17,2002
+149,12,"causation, causal processes, causal, Bayesian propensity, reductionist proposal",5,2002
+150,13,"contextualist, contextualist solution, Closure, puzzles, motivate contextualist",2,2002
+151,14,"miraculous, successful theories, theories, empirical, miraculous choice",8,2002
+152,15,"Reid, geometry, spherical projections, phenomenal character, spherical",4,2002
+153,16,"iff Tr, apriority logic, apriority, logic, formal structural",5,2002
+154,17,"statue, primary kind, constituting, Baker, objects",5,2002
+155,18,"Responsibility, Strawsonian, Moral Sentiments, Sentiments, Responsibility Moral",6,2002
+156,19,"affectivity, jealousy, emotions, Neu, Tear",7,2002
+157,20,"physical properties, physicalism, supervenience, bits matter, consciousness",10,2002
+158,21,"vagueness, vague predicates, sorites arguments, error principles, epistemicism",8,2002
+159,22,"obscenity, morally prohibited, affective responses, Sex, indulge",3,2002
+160,23,"colour vision, sensible qualities, qualities color, vision, perceivers",7,2002
+161,24,"persons, ontological significance, human animals, Baker, personal identity",9,2002
+162,25,"theory imagination, pretend iteration, modalfictionalism, way ideas, puzzles argue",4,2002
+163,26,"known known, tradition independent, know, knowledge, priori warrant",5,2002
+164,28,"Theory Art, Press Oxford, intentionality proper, knowing push, highest entity",3,2002
+165,29,"Information, Reason By, Press, Oxford, Reason",11,2002
+166,30,"Humean compatibilism, Humean, libertarianism, restrictivism, situations one",4,2002
+167,31,"Hume, Hume radical, skepticism naturalism, argument concerning, radical skepticism",6,2002
+168,32,"Wittgenstein, Heidegger, Friedlander, Themes Investigations, metre long",7,2002
+169,33,"freely beautiful, Kants, judged dependently, dependently beautiful, judged freely",3,2002
+170,35,"shoot Kennedy, shoot, entailed Someone, shows entail, Dudman",2,2002
+171,36,"Categories, primary substance, substance Metaphysics, substances, organisms",2,2002
+172,37,"internal facts, infallibility, rationality belief, Internalism, facts thinkers",4,2002
+173,38,"referential truth, paradoxes, truth skepticism, forms truth, semantic competence",5,2002
+174,39,"mental causation, supervenience, level properties, causation, contemporary problem",3,2002
+175,40,"Plato, texts, Boys Stones, book, discursive thought",14,2002
+176,41,"checking, programming languages, programming, model checking, semantical models",2,2002
+177,42,"action right, virtuous, belief justified, observerwould deem, Virtue theorists",1,2002
+178,43,"platitudes, scepticism, doctrines, rejection scepticism, objection follows",2,2002
+179,44,"social epistemology, Social World, Knowledge Social, social practices, requirements democracy",4,2002
+180,45,"response dependence, intuitivecases response, dependence, traditional conception, twoconceptions able",1,2002
+181,46,"factual normative, normative worlds, Hume, Hume Principle, worlds",3,2002
+182,48,"structuralism, unification, explanation unification, causal, framework structuralist",3,2002
+183,50,"propositions, structures sentences, structures, shall assume, sentences express",1,2002
+184,51,"coexistence, four dimensional, endurantism, three dimensional, dimensional description",5,2002
+185,52,"testimonial beliefs, beliefs, justify testimonial, recognized Informative, Coady argues",3,2002
+186,54,"Causing Actions, Causing, Actions, discussed review, claims Paul",2,2002
+187,56,"lack non, view ofindeterminacy, truth claim, meaning sentence, sentence truth",4,2002
+188,58,"322 Paperback, Environmental Philosophy, Environmental, Acumen, xiv",3,2002
+189,59,"anaphoric, anaphoric thinking, memory, know something, enables",2,2002
+190,61,"ascriptions, ascribee, class notionally, ii, attitude",4,2002
+191,63,"Descartes, passions, cogito, separability, Descartess",5,2002
+192,64,"self deception, might term, essential process, term deflationists, show adjudicate",1,2002
+193,66,"papers previously, presentations conference, two descendants, anthology fteen, Jopling Self",2,2002
+194,69,"metaphysics, Lowe, likely competent, contribution analytical, bachelor dictionary",2,2002
+195,70,"state affairs, Chastity, upbringing, reason end, consisting imagining",3,2002
+196,71,"doomsday, doomsday argument, Monday, Elga, treatment forgetting",4,2002
+197,72,"chance, occur chance, opportunities event, instances, broadly similar",2,2002
+198,74,"anti realism, knowable unrestricted, competing principle, intuitionistically proposition, impugned prove",2,2002
+199,75,"general terms, rigidity, kind terms, explores theory, essentialism developed",2,2002
+200,77,"consciousness intrinsic, consciousness, Aladdin, perceiving perceive, discussion perceiving",2,2002
+201,78,"decomposition, analysis decomposition, Russell accepts, regress argument, analysis",2,2002
+202,79,"occurrence sentence, sentence possibility, necessity one, assessing occurrence, philosophical usage",1,2002
+203,81,"know guise, Proof, occurs sentences, interpretation Finally, nonetheless assertible",2,2002
+204,83,"critique Fischer, scenario might, scenario acts, principle theagent, actual scenario",1,2002
+205,86,"attitudinal, skepticism reality, Dennett Stich, thinkers par, attitudinal psychology",1,2002
+206,-1,"Tarskis, Scanlon, theory, sentences, paper",123,2003
+207,0,"human, freedom, moral status, patents, morality",51,2003
+208,1,"Levi, justification, beliefs, instrumental rationality, reliability",9,2003
+209,2,"mathematical, Hilberts program, Tarskian definition, Hilbert, axiom",14,2003
+210,3,"rationality, Audi, psychological states, psychological, psychologism",16,2003
+211,5,"actual objects, non actual, Roderic Girle, Teddington, Logic Philosophy",3,2003
+212,6,"prospect theory, prospect, losses, risk, backward induction",8,2003
+213,7,"like funny, locality, dichotomy EPR, proved equivalent, type experiments",5,2003
+214,8,"temporal, temporal reality, conclusion temporal, temporal part, stories",7,2003
+215,9,"taxonomic, incommensurability, concepts stability, taxonomic incompatibility, scientific kinds",3,2003
+216,10,"presupposition, refers, relative context, speaker presupposition, semantic",6,2003
+217,11,"Bacon, Francis Bacon, priority, allocation resources, successes",2,2003
+218,12,"causation, NP counterfactuals, causes, window, Dowe",9,2003
+219,13,"contextualists, knowledge plausibly, contextualists rebut, semantic intentions, knowledge contextualists",1,2003
+220,14,"multiple theories, Strong Predictionism, realism multiple, Predictionism, evolutionary theory",2,2003
+221,15,"geometry, psychological abilities, thought contents, whose geometry, field spherical",2,2003
+222,16,"Consequence Condition, Converse Consequence, Condition Entailment, confirmation principles, one interprets",2,2003
+223,17,"bare particulars, Mertz, alteration, fusion, clad",7,2003
+224,18,"disposition, choice disposition, fundamental choice, viii 229, Agency Responsibility",2,2003
+225,19,"emotions, affective, reasons love, moral, nonrelational features",6,2003
+226,20,"physicalism, heat perception, ontological physicalism, materialism, perception",7,2003
+227,21,"vagueness, Sorensen, theories vagueness, fuzzy, epistemic tolerance",9,2003
+228,22,"harassment, race, Afro Caribbean, Africana, diaspora",4,2003
+229,23,"Dialogue, snow, Locke, colour objectivism, Dialogue arguments",7,2003
+230,24,"Tinkertoys, house, fusion walls, disassembly, Tinkertoy parts",4,2003
+231,25,"fictional, fictional characters, modal realism, fictionalist, characters",2,2003
+232,26,"warranted false, belief warranted, accidentally true, Problem, Gettier intuitions",6,2003
+233,28,"Sibley, art What, 425 Paperback, Philosophy Mass, Mass Art",3,2003
+234,29,"By, Chapter, Plantinga, 95 Information, Pp xi",10,2003
+235,30,"Inwagens, libertarian, indeterminism, compatibilist, quest philosophical",4,2003
+236,31,"early modern, Lange, reasoning Humes, conception reasoning, modern conception",4,2003
+237,32,"Wittgenstein, rule following, genuine propositions, misrepresented, nonsense",4,2003
+238,33,"Cleve, Kant, judgment perhaps, genuine existence, things genuine",4,2003
+239,35,"conditionals, subjunctive, three parameter, parameter account, account counterfactuals",4,2003
+240,36,"believing Fs, expressed Fs, institutional, also term, intentions fail",2,2003
+241,37,"externalism, brains vat, cognitive situationcannot, mistaken inferences, metaphysical realismthat",5,2003
+242,38,"Yablos paradox, refer Yablos, paradox circular, self reference, circularity",1,2003
+243,39,"physical, anomalism mental, Causal Exclusion, mental properties, causal powers",8,2003
+244,40,"Plato, logical means, Socrates, dialogues, Aquinas",8,2003
+245,42,"reliabilism, agent reliabilism, reliabilism preference, belief grounded, brief agent",2,2003
+246,43,"skepticism, external world, skeptical arguments, skeptic, empirical knowledge",7,2003
+247,44,"IRA, Blackwell, believe IRA, Therefore said, Guide Philosophy",3,2003
+248,45,"suggestions Sanford, discussion illustrates, syllogistic relations, tB precedes, usually false",2,2003
+249,46,"Humean supervenience, Humean, instantiations, world, system",1,2003
+250,47,"dilemma Brandom, normative vocabulary, evade dilemma, theories content, vocabulary",2,2003
+251,48,"social realm, narrative, social scientists, explanation, person perspective",2,2003
+252,51,"dimensionalism, four dimensionalism, four, stage theory, objects",10,2003
+253,52,"APT, local reductionism, reductionism, complements local, pain scepticism",1,2003
+254,54,"Human Action, dynamical systems, Human, gives, II",2,2003
+255,56,"sentences understood, conflation, existential, sentences Ultimately, language universal",3,2003
+256,57,"conceptual analysis, conceptual, objection reductionism, reductionism, Jackson",2,2003
+257,59,"personal memory, memory judgements, identity, presupposition agent, mistaken personal",2,2003
+258,60,"Birds cases, part consider, bare dispositions, possibility bare, dispositions necessarily",3,2003
+259,61,"vocabulary, attitude vocabulary, clause, grammatical structure, hasgenerally",2,2003
+260,62,"perceptual direct, effect principle, defense perceptual, Theory Appearing, Appearing",3,2003
+261,63,"sensory, sensory perception, sensory experience, Cartesian mind, primary secondary",2,2003
+262,64,"interpretist approach, attentive consciousness, self deception, Principles reasoning, Interpretists",1,2003
+263,65,"necessitarianism, Spinoza, attributes, essence, 2d2",5,2003
+264,66,"selfblind, individualism, introspective awareness, introspective, anti individualists",4,2003
+265,69,"metaphysics Professor, contribution metaphysics, names understood, science correctly, sees metaphysics",1,2003
+266,70,"objects, modes, make intense, pains mental, importance taking",2,2003
+267,71,"doomsday, doomsday argument, SIA, argument, interpretations principle",5,2003
+268,72,"cat, deadly poison, likely die, comply Lewis, fumes depending",1,2003
+269,73,"coherence, confidence boost, information, coherent, maximally coherent",2,2003
+270,74,"antirealistic, truths, unperformability, verification procedure, antirealism",3,2003
+271,77,"Neo Brentanian, HOT theory, Order Monitoring, Higher Order, Higher",3,2003
+272,78,"Lauben, linguisticexpressions, objectivism someelements, example Frege, morals pertain",1,2003
+273,83,"rejection desire, ownership, order attitudes, Platonic, hierarchical",1,2003
+274,85,"compatibilists, compatibilism, concomitant notions, compatibilism completely, compatibilism shallow",1,2003
+275,86,"thoughts, self consciousness, plausible theory, consciousness, reply focus",4,2003
+276,87,"Quine, Dogmas, deflationism, analyticity, Carnap",3,2003
+277,-1,"descriptivism, objections, theory, consciousness, reference",123,2004
+278,0,"charity, cloth, Kant, rights, value",39,2004
+279,1,"Truetemp, reliabilism, probabilities, belief, Bayesianism",9,2004
+280,2,"abstraction, holes, implicit definability, eliminative, definability",7,2004
+281,3,"extrinsic desire, negative results, Humeanism, loophole, Humean approach",13,2004
+282,4,"NEF, networks, McCulloch, time memory, computation",5,2004
+283,5,"modal, modal logic, variability modal, modal intuitions, de modal",9,2004
+284,6,"expected outcomes, game, decision rules, conventional conditional, deliberation process",6,2004
+285,7,"relativity theory, quantum mechanics, geometry, structural realism, relativity quantum",7,2004
+286,8,"perceptual knowledge, duration, time perception, truth makers, perception",6,2004
+287,9,"natural kind, nature analysing, metaphysics nature, natural selection, descriptivists",2,2004
+288,10,"location utterance, substitutivity, utterance, noun fact, cases expressions",7,2004
+289,11,"objectivity, Buchanan research, economic philosophy, Buchanan, hangover",4,2004
+290,12,"pre emption, emption, problem pre, degree influence, notion degree",1,2004
+291,13,"contextualism, knowledge, SSI, knowledge attribution, condition know",10,2004
+292,14,"practice observation, realism, van Fraassens, scientific realism, observation",5,2004
+293,15,"seeing, difference blindness, natural sensory, blindness, nonepistemically",5,2004
+294,16,"inference forms, Archetypal, implicitly subsumes, premiss conclusion, inferences",2,2004
+295,17,"stuff, constitutionally related, portions stuff, related objects, expected shared",4,2004
+296,18,"legal, law, legal doctrines, tort law, legal moral",1,2004
+297,19,"emotions, call compassion, flat plane, geological upheavals, Nussbaum recent",4,2004
+298,20,"assumptions drive, psychological experience, Machs doctrine, Phenomenal concepts, economy thought",6,2004
+299,21,"vague, idea world, vagueness, vague terms, contain vague",8,2004
+300,22,"race, view race, biological kind, social construction, grandparent women",2,2004
+301,23,"colors, colour, scepticism, reflectance, Quest Reality",8,2004
+302,24,"coincides thinking, argument animals, apparent fact, animal looks, critics case",1,2004
+303,25,"morally deviant, principles Many, Many statements, explanation turns, explanations counterexamples",1,2004
+304,26,"Paradox, without Epistemic, Knower without, Knower Paradox, Closure MIND",1,2004
+305,28,"aesthetic, aesthetic testimony, human nature, handled forks, handled knives",4,2004
+306,29,"95 paper, Chicago La, Their Roots, Culture Equality, Paradoxes Their",4,2004
+307,30,"avowal, libertarianism, randomness, decisions, survey articles",3,2004
+308,31,"inductive, schemes, induction, hypotheses schemes, partitions",8,2004
+309,32,"Wittgenstein, analyticity thesis, Russells views, analyticity, proposition shows",7,2004
+310,33,"knowledge things, Kant, incongruent counterparts, world interpretation, rescue",3,2004
+311,34,"appeared, conjunction PK, appeared greenly, justification, case",2,2004
+312,35,"Hamlet, Hamlet someone, Shakespeare, conditionals relates, contrast Shakespeare",2,2004
+313,36,"ontological categories, ontological, thesis, countable, property bearers",3,2004
+314,37,"externalism, social externalism, externalist, cognitive externalism, incomplete understanding",6,2004
+315,38,"without satisfaction, see 12, several substantial, substantial mathematical, errors vitiate",1,2004
+316,39,"tropes, trope monism, properties causation, realizability, mental causation",1,2004
+317,40,"Epictetus, Laws, Socrates, Plato, ethical political",9,2004
+318,41,"state model, logics, protocol, alternating time, languages",4,2004
+319,42,"virtues, ways finding, shortcuts cognitively, capacities metavirtues, characteristics like",1,2004
+320,43,"paradoxes, external world, paradoxes instance, hand paradoxes, inevitably deploys",1,2004
+321,44,"agile, companies, term agile, investigation Agile, interviewing managers",1,2004
+322,46,"counterlegal, difficulty, vacuous, laws nature, presupposition necessitarianism",2,2004
+323,48,"unification, unification accounts, causal unification, central technical, investigation causal",1,2004
+324,50,"Neale, theories, extensional connectives, safe slingshot, properties components",2,2004
+325,51,"dimensionalism, four dimensionalism, Theodore Sider, Four Dimensionalism, Dimensionalism",8,2004
+326,54,"passive action, causalism, forcausal theories, conceptuallycoherent category, defense causalism",1,2004
+327,56,"unanalyzable, book truth, circular statement, possibly deflationism, maintain explain",2,2004
+328,58,"Epicurus, life, fear death, fears, claim death",4,2004
+329,59,"Issues Philosophy, Hoerl McCormack, Time Memory, 419 45, Philosophy Psychology",2,2004
+330,61,"John believes, sets possible, plausiblesemantic, represent belief, incontent indexically",3,2004
+331,62,"direct realism, perception, hallucination, realism, theory perception",6,2004
+332,63,"Descartes, nativism, question begging, Awareness Principle, Locke",6,2004
+333,65,"collegial approach, Spinoza, Bennett work, essays collected, Leibniz",3,2004
+334,68,"processes systems, whomone factors, detaching component, nature constituentfactors, idealization identifying",1,2004
+335,69,"basic physical, world, cloth 19, Vasubandhus, amenable treatment",6,2004
+336,71,"tails, diachronic Dutch, Sleeping Beauty, every heads, reasoning purports",2,2004
+337,72,"inverse, Principal Principle, PP, form NP, serious cost",3,2004
+338,73,"coherentism, coherence, coherentists, congruence, items ofevidence",2,2004
+339,74,"minimal modal, modal logic, modal, show VT, collapses truth",1,2004
+340,75,"kind terms, rigidlydesignating kind, terms like, differ objects, entities status",2,2004
+341,76,"essentialist implications, principles physics, argue irrespective, merely something, compatible PLA",1,2004
+342,77,"purely recognitional, recognitional concepts, meet challenge, thought, thought experiments",2,2004
+343,78,"platonist assumptions, meaning platonist, platonist, meaning, Leibniz",1,2004
+344,79,"apparatus contrasted, contrasted, different use, represent role, Different interpretations",1,2004
+345,81,"principle helps, show principle, justifies believing, argument Evanss, supply argument",1,2004
+346,83,"Frankfurt, counterfactualsof, Principle AlternatePossibilities, cannot otherwise, class ofcounterfactuals",1,2004
+347,84,"VMC, motor control, current neurological, cortically mediated, directed motor",1,2004
+348,86,"problem self, worth name, puzzle presented, comprehends great, conditions psychological",1,2004
+349,87,"Quine, Carnaps distinction, distinction, mathematics, room notion",2,2004
+350,-1,"descriptions, laws, knowledge, theory, Russell",136,2005
+351,0,"ethical, political, character, realism, egalitarian",39,2005
+352,1,"belief, justification, concepts justification, degree belief, whether believe",11,2005
+353,2,"set concept, identifiability thesis, ideation, permutation argument, explanations science",10,2005
+354,3,"rationality, rational requirements, collective rational, Kantian universalizability, possibility collective",8,2005
+355,4,"systems, neuroscience, dynamical systems, object exploration, Bennett Hacker",5,2005
+356,5,"exists, mere possibilia, theoretic methods, precisely say, model theoretic",6,2005
+357,6,"interval, transformative decision, order independent, actions performable, win pay",5,2005
+358,7,"theoretic explanations, incommensurable explanandum, explanans, incommensurable, explanans theories",1,2005
+359,8,"presentist, asymmetry fixity, fixity, temporal asymmetry, doctrines ontological",4,2005
+360,9,"systemic properties, emergence, within system, cannot predicted, systematics",3,2005
+361,10,"view intensional, implicatures, verbs, within clausal, implicature associated",2,2005
+362,11,"candor integrity, imperatives candor, Yet philosophical, exemplified devotion, adhere twin",1,2005
+363,12,"plant, physical, water plant, dispositions whose, two causes",5,2005
+364,13,"contextualism, sensitive invariantism, classic invariantism, person cases, contextualism subject",10,2005
+365,14,"realism, realists, years witnessed, consensus eternal, finish preface",1,2005
+366,15,"perceptual, perceptual experience, data, way aware, perceived object",5,2005
+367,16,"Boghossians, documentclass12ptminimal, documentclass12ptminimal usepackageamsmath, usepackagemathrsfs usepackageupgreek, usepackageamssymb usepackageamsbsy",7,2005
+368,17,"universal distinction, particular universal, Vagueness Argument, distinction, Vagueness",2,2005
+369,18,"judgments, hypological judgments, judgments moral, deontic judgments, axiological judgments",1,2005
+370,19,"emotions, attractive instance, ambivalent emotions, things positive, feel fear",1,2005
+371,20,"Papineau, physicalism, phenomenal concepts, supervenience based, physicalist",8,2005
+372,21,"vagueness, Sorensen, borderline cases, theory vagueness, predicates",12,2005
+373,23,"colour, colours, colour irrealism, colors shapes, content propositional",7,2005
+374,24,"human person, personal identity, matters survival, mindless fetus, psychological",6,2005
+375,25,"fictionalism, indifferentism, relevant propositions, hermeneutic fictionalism, fictionalist",2,2005
+376,26,"endogenous constraints, closure, mental state, endogenous, tracking theories",7,2005
+377,28,"Aesthetics, Bradys Aesthetics, notice Malcolm, Aesthetics Nature, Nature Oxford",2,2005
+378,29,"theism, maximal power, omnipotence, non best, show conceivable",6,2005
+379,30,"Dennett, agent causal, problem chanciness, book, causal views",3,2005
+380,31,"inductive inferences, principles Raven, significance varied, spell norms, sorting good",1,2005
+381,32,"Conants, Prototractatus, 20th century, date composition, Hacker",3,2005
+382,33,"time terms, characterizations, characterize analytic, characterizations apparent, cognizability accordance",2,2005
+383,34,"things seem, ways things, qualia features, seem features, seem",3,2005
+384,35,"position know, luminous condition, know proposition, condition, obstacle knowing",2,2005
+385,36,"Foundational, Skeptic, Ontologist, Foundational Ontologist, metaphysics",3,2005
+386,37,"belief, epistemological externalism, Aristotle, one belief, epistemological",3,2005
+387,38,"scheme, using diagonalization, point construction, paradoxical rather, paradoxical Under",1,2005
+388,39,"Completeness, mental causation, causation, Completeness threatening, Closure",4,2005
+389,40,"movements, Hellenistic philosophy, emotions muddied, Stoicism probably, Stoics pagan",1,2005
+390,41,"information state, belief revision, branching conditions, revision formula, agent believes",2,2005
+391,43,"know, sceptical arguments, civilization, anthropic reasoning, anthropic",6,2005
+392,44,"intention, joint intention, critical thinking, content intention, fundamental end",2,2005
+393,45,"counter entailment, varieties necessity, undermines central, entailment, attempts show",2,2005
+394,46,"laws, Supervenience Laws, lawlessness, Laws Nature, necessitarians",6,2005
+395,48,"explanation, brute facts, Bromberger, epistemic gain, sorts thing",4,2005
+396,51,"TOPO, wholly present, persistence, Ordinary Physical, Physical Objects",6,2005
+397,52,"reductionism, epistemology testimony, testimony, reason believe, reductionism epistemology",4,2005
+398,55,"assertions must, proper assertions, theory proper, assertions, assert",1,2005
+399,56,"deflationism, truth predicate, disquotational truth, pressure exactly, proposition consists",5,2005
+400,57,"intentionality cognitive, content desiderata, cognitive content, informational, entities response",1,2005
+401,58,"Parfit, mortem thesis, indifference, case indifference, irrational thinkers",2,2005
+402,59,"Tl, preserve, known, wisdom contemporary, Hence show",1,2005
+403,60,"categorical, dispositional categorical, dispositionality, dispositional, causal relevance",6,2005
+404,61,"belief reports, believe Kent, naive theory, Lois believes, theory belief",1,2005
+405,63,"Descartes, may object, object Almog, clear distinct, natural light",6,2005
+406,64,"honesty, intellectual honesty, conditions agent, ingenuousness, nondeceptiveness offer",1,2005
+407,66,"otiose challenge, advocate insufficient, insufficient If, entitled beliefs, challenge Zimmermans",1,2005
+408,71,"knowledge birth, birth rank, Doomsday Argument, minimizing expected, belief temporal",2,2005
+409,73,"individual credibility, credibility, coherence, pieces evidence, evidence individual",2,2005
+410,74,"Dummetts, logical revision, argument logical, writings theory, argument able",2,2005
+411,75,"rigid, property designators, canonical property, rigidity, terms",3,2005
+412,76,"Ellis, dispositionalism, dispositionalism according, global kind, kind category",2,2005
+413,77,"HOR, subjective character, aspect, bluish aspect, distracted driver",4,2005
+414,78,"confused, metatheory, Frege metatheory, rules inference, modes presentation",3,2005
+415,79,"choice permission, free choice, pragmatic, know valid, obligations permissions",2,2005
+416,81,"Moore paradox, access one, Soamess proposal, paradox, versions paradox",2,2005
+417,82,"provably false, 2000 principle, true Balking, thing consequence, fact hard",1,2005
+418,84,"feedback loops, underlie activities, sensations acting, loops underlie, required acting",1,2005
+419,85,"manipulation, responsible killing, Transfer Argument, Plum morally, deterministic",2,2005
+420,87,"conventionalism, Quine, versions conventionalism, lectures, metaphor",1,2005
+421,-1,"joint attention, attention, knowledge, distinction, claim",147,2006
+422,0,"value, hedonism, Harcourt, virtue, utilitarianism",39,2006
+423,1,"belief, conditionalization, comprehension, justification, doxastic deliberation",14,2006
+424,2,"abstraction, Hume principle, abstraction principles, course values, Frege",10,2006
+425,3,"internalism, direction, obligation, agent, motivational",14,2006
+426,4,"neuroscience, psychophysical, psychophysical stimulation, stimulation, materialistic",13,2006
+427,5,"possible worlds, counterpart theory, applied possible, theory, modality",16,2006
+428,6,"decision theory, Newcomb, game theory, dominance reasoning, choice functions",9,2006
+429,7,"general covariance, spatio temporal, QFT, substantive general, universals",10,2006
+430,8,"present, tense, present entities, futurists, hybrid logic",11,2006
+431,9,"emergence, emergent properties, reductionism, teleofunctions, emergentism",11,2006
+432,10,"indexical reference, utterance, IPC, indexical sentences, semantic",10,2006
+433,11,"balance, always tilt, admitting arms, arms balance, measure disposal",1,2006
+434,12,"paint gun, p2, causation, wall, graffiti",6,2006
+435,13,"Lepore ready, contextualism, knowledge, ascribe knowledge, Contextualists",6,2006
+436,14,"constructive empiricist, observable entities, know statements, entities, best scientific",2,2006
+437,15,"shadows, object, ambiguous figures, perceptual, nonconceptual content",8,2006
+438,16,"obligationes, logical, proof theory, notion, proof theoretic",10,2006
+439,17,"simples, instantiation, principles composition, spatially extended, universals",11,2006
+440,18,"responsibility, wrong action, history issue, egalitarian theories, luck egalitarian",5,2006
+441,19,"objects emotion, relevant formal, emotions, emotion true, Philosophers widely",1,2006
+442,20,"physicalism, consciousness, priori physicalism, knowledge argument, materialism",20,2006
+443,21,"generality problem, bald, hair number, generality, vagueness",6,2006
+444,22,"discrimination, costs murder, minorities, racial, racial discrimination",1,2006
+445,23,"colour, colour experience, standard Russellianism, colours, colour names",11,2006
+446,24,"constitution view, aggregate mental, two lives, body swap, accept psychological",1,2006
+447,27,"revise belief, abortion, personal sense, car going, wrong Should",1,2006
+448,28,"experience, art, discriminate, work, property",3,2006
+449,29,"Knights knaves, Response Knights, Roy Cook, knaves, knaves unknowable",1,2006
+450,30,"account choice, judgements best, choice action, three features, freedom",3,2006
+451,31,"induction, Hume, inductive inference, strength mind, accounts induction",9,2006
+452,32,"past attitudes, Wittgenstein, middle period, philosophical, philosophical criticism",3,2006
+453,33,"Kant, intrinsic properties, claim cannot, knowing things, effects things",3,2006
+454,34,"count reason, reason belief, count, senses sense, sense presupposed",1,2006
+455,35,"conditional statements, conditionals, strict implication, statements, statements state",4,2006
+456,36,"Soamess, Heil, advertises history, interpretation point, idealism rather",5,2006
+457,37,"externalism, idiolectical, externalist, Doctrine Propositions, idiolectical meaning",7,2006
+458,38,"RTT, Truth Paradox, paradoxes, syntactically, Yablo sequence",4,2006
+459,39,"mental physical, third dogma, anomaly mental, causes, mental causation",6,2006
+460,40,"desires, pleasure illusion, desires rational, part soul, virtue depends",1,2006
+461,41,"1988, action knowledge, interaction action, ATL ATEL, announcement formula",4,2006
+462,42,"virtue, virtue perspectivism, epistemology, intellectual character, virtue epistemology",5,2006
+463,43,"antiskeptical conditionals, transcendental arguments, sceptical, sceptic, knowledge attributions",3,2006
+464,44,"communitarian, social status, book Martin, Second social, communitarian epistemology",1,2006
+465,45,"counterfactuals, similarity, Tooley, epistemic probability, counterfactual",5,2006
+466,46,"atom creation, subjunctive facts, chancy fact, Un346 atom, Every Un346",2,2006
+467,50,"propositions, entities, Things Mean, clauses, pleonastic entities",3,2006
+468,51,"temporal, temporal parts, ISBN 19, things part, endurance",3,2006
+469,52,"testimony, trust testimony, epistemology testimony, act telling, testimony One",5,2006
+470,54,"causal accounts, nature reasoning, deviant causal, mental event, causal chains",1,2006
+471,55,"act sincere, sincere case, speech act, state mind, act",1,2006
+472,56,"reliabilism, Deflationism, discussion However, whether deflationary, consider reliability",2,2006
+473,57,"conceptual competence, meanings concepts, position priori, competence undermines, rationale position",1,2006
+474,58,"non existence, existence birth, future non, harmed lacking, existence harmful",2,2006
+475,59,"content memories, words determine, us analogous, world entities, objects memory",1,2006
+476,60,"Martin cases, defense reformed, concepts disposition, reformed analysis, stimulus",1,2006
+477,61,"attitudes de, attitudes, applied broadly, theories de, representing beliefs",1,2006
+478,62,"physical object, Perceptual consciousness, epistemological direct, ordinary objects, external entities",3,2006
+479,63,"work taking, significance Descartess, Review Descartes, context arguments, dependence arguments",1,2006
+480,64,"lying, morality lying, status lying, moral status, lying Any",1,2006
+481,65,"Person SPINOZA, Subject ACTION, REPRESENTATION, SPINOZA BENEDICT, REPRESENTATION TELEOLOGY",1,2006
+482,66,"constitutivism, introspective, se adopting, awareness explicate, Peacocke According",1,2006
+483,69,"metaphysics, parthood possible, persistence parthood, philosopher working, philosophers core",4,2006
+484,70,"would undesirable, much Sometimes, undesirable 2005, worth extrinsic, factor like",1,2006
+485,71,"hangover, drink, drunk, Sleeping Beauty, Sleeping",3,2006
+486,72,"OPD, merger, evidences, kinematics, subjectivist",2,2006
+487,73,"coherence, information items, derived beliefs, theory coherence, logical closure",3,2006
+488,74,"Kenyon, superassertibility, intuitionistic, Wright critics, intuitionistic mathematics",3,2006
+489,75,"terms, general terms, natural kind, kind terms, natural phenomenon",8,2006
+490,76,"sparse properties, current physics, regress, properties potencies, properties spin",2,2006
+491,78,"conceptually self, Fregean thesis, thesis sense, characteristically, judgments",2,2006
+492,79,"Epistemic logic, epistemological problems, traditional epistemological, Epistemic, modal logic",2,2006
+493,80,"light dispute, Greco response, dispute Greco, regarded spirit, epistemic externalist",1,2006
+494,81,"self evident, Wittgenstein, absurdity, Wittgenstein suggests, moral philosophy",4,2006
+495,82,"truthmakers, negative truths, truthmaker principle, absences, truthmaking",8,2006
+496,83,"agent could, Distinguishing ability, ensure agent, might defensible, given presence",3,2006
+497,86,"self ascriptions, mental self, non mental, ascriptions oneself, mental predicates",1,2006
+498,87,"phonological, phonology, analyticity, semantic basis, natural language",1,2006
+499,-1,"paper, theory, knowledge, argue, objects",139,2007
+500,0,"ethical, moral view, Nietzsche, moral relativism, love",40,2007
+501,1,"Bayesian, beliefs agents, agents believe, Conditionalization, Reflection",16,2007
+502,2,"mathematics, indispensability, aboutness, confirmational holism, numerals",10,2007
+503,3,"narrow scope, Proportionalism, process requirements, desires, objections Humean",16,2007
+504,4,"functional integration, VMPFC, brain, neurobiological, cognitive functions",8,2007
+505,5,"necessary posteriori, possible worlds, metaphysically, notion conceivability, metaphysically impossible",7,2007
+506,6,"decision theory, Wager, Ellsberg, endorses irrational, player believes",5,2007
+507,7,"approximate solutions, quantum, photon, Bohmian, energies oscillator",4,2007
+508,8,"want, reality, presentism, ﬁnger toward, choose move",5,2007
+509,9,"genes, natures kinds, sameness, parity among, chaotic",6,2007
+510,10,"hybrid proper, produce recognize, mixed quotation, utterance, naturalist theory",5,2007
+511,11,"Plaza work, proceedings, 1989, publication, correct omission",1,2007
+512,12,"causation, causal, account causation, idea Schaffers, causal thinking",6,2007
+513,13,"contextualism, knowledge, contextual, knowledge ascriptions, context",14,2007
+514,14,"scientific, experimental sets, revolutionary changes, Kuhn, scientific revolutions",7,2007
+515,15,"conception space, visual awareness, objects, visual, structure visual",2,2007
+516,16,"monotonic, end relations, semantics, theoretic semantics, proof theoretic",7,2007
+517,17,"stuff, microparticles, dogwise arrangement, facts concerning, constitution",6,2007
+518,18,"objective attitude, Ignorance Thesis, regret, negative moral, agent regret",3,2007
+519,19,"modesty, emotional phenomena, two standards, conscious awareness, affect",3,2007
+520,20,"Vague Singulars, Singulars Argument, perceivers, physicalist consistently, materialism understand",2,2007
+521,21,"vagueness, Tye, margin, construals argument, Epistemicism",8,2007
+522,22,"sexual, rape, pornography, sexual discourse, wrongfulness",3,2007
+523,23,"blue, true blue, indiscriminability, chip, response dependent",14,2007
+524,24,"persons, practical concerns, biological, biological animals, personal identity",7,2007
+525,25,"narrators, film, narratives, internal external, fictional characters",7,2007
+526,26,"distinct knowledge, sensitivity condition, truth belief, safety condition, exist property",2,2007
+527,27,"advisor, handle cases, react, opinions, disagreement competent",3,2007
+528,28,"art, artistic, artists, literature, artworks",5,2007
+529,29,"Reason Oxford, Peacockes book, book Realm, Realm Reason, Realm",1,2007
+530,30,"intuitions think, think problem, intuitions, tend compatiblist, compatiblist intuitions",1,2007
+531,31,"religious belief, religious, Hume, Goodman paradox, causes religious",3,2007
+532,32,"Wittgenstein, Russell, anti realism, past thoughts, anti realist",5,2007
+533,33,"Kant, moderate high, acceptable moderate, rationally acceptable, Belief",3,2007
+534,35,"accept consider, believe irrational, technical assumption, Test hypothesis, subjunctive",4,2007
+535,36,"existential quantifier, deliver Sider, wants comes, argument promises, naturalness argument",2,2007
+536,37,"Tibetan, mental internalism, externalism, content externalism, Putnams",6,2007
+537,38,"quantificational language, simple language, translations, self reference, certain conditions",1,2007
+538,39,"reasons received, challenge NEG, explain McDowell, NEG reasons, scrutiny",2,2007
+539,40,"incontinence, account incontinence, Aquinas account, capacity self, weakness",2,2007
+540,41,"social laws, multiagent systems, multiagent, atl model, laws multiagent",5,2007
+541,42,"Virtue Epistemology, Virtue, Epistemology, animal knowledge, reflective knowledge",1,2007
+542,43,"show theories, skeptical doubts, skepticism, doubts show, kinds skepticism",2,2007
+543,44,"collective intentions, collective action, group intentions, intentions intentions, collective intention",5,2007
+544,45,"counterfactuals, conditions counterfactuals, branching, vague notion, context lost",1,2007
+545,46,"laws, whole truth, causation, Humeanism, generating",6,2007
+546,47,"know attributions, know concept, cognitive nature, concept possession, misunderstandings undermine",1,2007
+547,48,"explanations fictional, external explanations, see established, taxonomy explanations, relation tension",1,2007
+548,49,"movement, philosophy, philosophy naturalistic, repeatedly claimed, accomplishment repeatedly",1,2007
+549,50,"attitudes relations, intentional attitudes, Paradigmatically think, Mary contemplates, way propositionalism",1,2007
+550,51,"wall, travelling brick, exdurance, stage theory, time travel",5,2007
+551,52,"assessment monitoring, speaker says, audience, debate, hearers",2,2007
+552,53,"Rule II, children, ability ascribe, balance scale, ability",4,2007
+553,54,"corkscrew away, away, forgotten intended, corkscrew put, notices counter",1,2007
+554,56,"worst possible, semantically excessive, excessive interpretation, truth renders, two worlds",2,2007
+555,57,"Nonetheless, question reflecting, frameworks contemporary, dominant frameworks, hold resulting",1,2007
+556,58,"resilience, harm thesis, posthumous, bereaved, posthumous events",2,2007
+557,59,"APD emotions, emotions, memory, past, events situations",4,2007
+558,60,"circular, inferentially, interfering dispositions, dispositional, dispositional solution",3,2007
+559,61,"PA, level utterance, corresponding lower, propositional attitude, beliefs weather",1,2007
+560,62,"traditional conception, cognitive contact, conception, cat, traditional",1,2007
+561,63,"Descartes, sensations, teleological account, passages, Cartesian sensations",4,2007
+562,64,"telling, robber You, manipulative, manipulative Understanding, gun wise",2,2007
+563,65,"Spinoza, bifurcation, Spinozas, non ontological, Sufficient Reason",3,2007
+564,66,"beliefs internal, Consciousness Cognition, interesting critique, SAIs implications, Chapter Consciousness",5,2007
+565,68,"yielded consensus, nature idealization, towards common, recognition yielded, evidence convergence",1,2007
+566,69,"eligibility response, concentrate amending, limitations afflict, reduce interpretationist, limitations future",1,2007
+567,70,"sensation, wants feeling, subject wants, reduces desire, sensation pleasure",1,2007
+568,71,"Doomsday Argument, Sleeping Beauty, hybrid model, conditionalization, Beauty problem",3,2007
+569,72,"probability, reference class, certain occur, class problem, objective chance",5,2007
+570,73,"coherence, degree coherence, truth conducive, notion coherence, Bovens Hartmann",12,2007
+571,74,"superassertibility, superassertibility predicate, prove superassertibility, recognizability, epistemic anti",2,2007
+572,75,"rigid, argue Ben, classified rigid, Putnam theory, terms",3,2007
+573,76,"monism involves, determinate demonstrate, circularity examine, satisfactory structure, objected dispositional",1,2007
+574,77,"awareness, Intentionalist theories, understand subjects, thought inner, seeming seeing",1,2007
+575,78,"loaded counterparts, properties propositions, statements explicitly, counterparts, metaphysical puzzle",1,2007
+576,79,"epistemic possibility, semantics, semantics pragmatics, pragmatics, pragmatics appropriate",2,2007
+577,80,"Epistemic Luck, Duncan Pritchard, neo Moorean, book Epistemic, luck epistemology",6,2007
+578,82,"negative truths, providing truthmakers, truthmakers negative, truthmaker theory, truthmakers",1,2007
+579,83,"type examples, Speaks, Frankfurtian, Frankfurt type, Frankfurt cases",5,2007
+580,84,"bodily processes, COH, perception embodied, exercise sensorimotor, sensorimotor skills",1,2007
+581,85,"people Compatibilism, perceived seen, Compatibilism thus, odds fundamental, temptation prepunish",1,2007
+582,86,"self ethical, It serve, egoism It, serve preview, metaphysics self",1,2007
+583,87,"radical Quine, falso quodlibet, part web, quodlibet, Logical truths",2,2007
+584,-1,"theory, Husserl, terms, commitments, distinction",150,2008
+585,0,"normative, autonomy, responsibilities, consequentialism, metaethics",47,2008
+586,1,"belief, justification, voluntary, Hempel, belief forming",22,2008
+587,2,"mathematics, French, epistemology mathematics, structuralists, structure",11,2008
+588,3,"practical, desire, practical rationality, rationality, motivational",15,2008
+589,4,"Walter, body, modular, Logical Calculus, non use",4,2008
+590,5,"modal, truthmakers modal, modal truths, truths Sect, methodological errors",9,2008
+591,6,"game, Petersburg game, games, Petrograd game, Altadena",8,2008
+592,7,"separate common, structural realism, perfect correlations, type derivation, Bell inequalities",4,2008
+593,8,"theory time, temporal sentences, temporal, regions married, Jen",5,2008
+594,9,"kinds, dimensionalism, biological, convection, sciences",5,2008
+595,10,"GASM, demonstratives, pragmatics, complex demonstratives, linguistic",17,2008
+596,11,"warranted causal, causal pathways, observational data, causal, causal claims",2,2008
+597,12,"barometer, storm, practical value, causal knowledge, backtracking",6,2008
+598,13,"contextualism, knowledge, sensitive invariantism, knowledge attribution, skeptics knowledge",12,2008
+599,14,"problem unconceived, unconceived alternatives, pessimistic induction, thesis, scientific realism",7,2008
+600,15,"phenomenological doubleness, phenomenological, situational features, situation dependent, dependent properties",7,2008
+601,16,"non factualist, semantic pathology, inconsistency, rules Classical, rules stipulated",8,2008
+602,17,"Hudson, universalism, strange fusions, UC, entended objects",6,2008
+603,18,"blaming practices, commitment morality, morality, blaming, responsibility",7,2008
+604,19,"basic emotions, emotions suggest, cognitive emotions, theory emotions, emotion",1,2008
+605,20,"virtual, physicalism, supervenient objects, non mental, virtual objects",9,2008
+606,21,"vague, vague identity, vagueness, order precise, ontically vague",11,2008
+607,22,"Saul, pornography, speech acts, works pornography, race",4,2008
+608,23,"colour, colour constancy, constancy, perceptual indiscriminability, represent inexactly",4,2008
+609,24,"personal identity, Kolak, persons, temporal overlap, fundamentally survival",9,2008
+610,25,"fictionalism, Brock, Rosen objection, modal fictionalism, fictionalist",4,2008
+611,26,"premise closure, Fallibilism, single premise, beliefs warrant, argument Warrant",5,2008
+612,27,"evidence, whether capital, disagreements starting, crime Psychologists, effect crime",2,2008
+613,28,"avant garde, vexing question, posed avant, challenges posed, interactionism",2,2008
+614,29,"belief hyperspace, World Problem, atheism arises, Anselmian theism, atheistic argument",5,2008
+615,30,"Jane, luck objection, Levy, event causal, choice",2,2008
+616,31,"inductive inferences, inferences, conditions predicative, argument discussion, believing believes",1,2008
+617,32,"understanding, Wittgenstein, therapeutic aims, theoretical methods, judgment",3,2008
+618,33,"judgment, Kant, existential judgment, judgment Kant, inner sense",4,2008
+619,34,"justification beliefs, physical world, way justification, beliefs physical, foundationalist theories",3,2008
+620,35,"imperatives, mixes, exactly conjuncts, love kiss, antecedent",6,2008
+621,36,"Hirsch, charity, believe gunky, reject MaxCon, Hudsons argument",4,2008
+622,37,"deep externalism, Mentalism, psychological, externalism, Internalism",3,2008
+623,38,"IS, paradoxes, sink, virtually orthodox, advanced Beall",4,2008
+624,39,"realization, realization terms, physical events, counterfactually, mental causation",2,2008
+625,40,"greatest good, virtuous activity, contemplative activity, human virtuous, Plato",2,2008
+626,41,"Coalition Logic, dynamic logic, contraction, QCL, private communication",6,2008
+627,42,"virtues, virtues approaches, virtues theories, virtue theory, pluralism",2,2008
+628,44,"collective intention, collective, interactive knowledge, effective sharing, intention writers",2,2008
+629,45,"counterfactual support, physically contingent, contingent generalizations, theory indicative, dynamics",2,2008
+630,47,"knowledge, explicit knowledge, Stanley Williamson, conscious intent, intent explicit",2,2008
+631,48,"IBCE, implicature, scalar implicature, scale analysis, causal competition",5,2008
+632,49,"intuitions, Case, experimentalists, intuitions evidence, radical experimentalists",2,2008
+633,50,"quantiﬁcational, quantiﬁers, semantic value, intuitions kinds, terms naturally",1,2008
+634,51,"Donkey Problem, less fundamental, longer reason, consequences 3D4D, coincidence therefore",1,2008
+635,52,"externalism knowledge, testimonial knowledge, knowledge, reconceiving process, endorsing externalism",1,2008
+636,54,"action execution, intention, exploiting expressive, reasoning intention, thinks caused",2,2008
+637,55,"assertion, knowledge account, variety Moore, success explains, distinctive assertion",1,2008
+638,56,"deflationism, conceptual deflationism, deflationary, circularity, conceptual",4,2008
+639,57,"analysis sources, chief contention, concepts papers, concepts underwrite, Whether knowledge",1,2008
+640,59,"epistemic conservatism, episodic recollection, recollection, attribution pastness, earlier formulations",4,2008
+641,60,"dispositional, analysis dispositions, dispositional predicates, incomplete predicate, conditional analysis",7,2008
+642,61,"Fregean Reference, account attitudes, Reference, attitudes, notional sense",2,2008
+643,62,"nonconceptual, nonconceptual content, perception, objects perception, direct realism",3,2008
+644,63,"Meditation, Descartes, Several passages, Meditation interpreted, God third",2,2008
+645,64,"self deception, deception, mental traits, traits self, irony mental",1,2008
+646,65,"account consciousness, doctrine, Philosophy Leibniz, two realms, consciousness",3,2008
+647,66,"individualistic concepts, representational practices, individualism, agents commitment, responsible epistemic",1,2008
+648,67,"intuition, argue unconvincing, reference Bradley, turtles, intuition argued",1,2008
+649,68,"specific scientific, model, science puts, complexity However, approach selecting",1,2008
+650,71,"Beauty, Hitchcock, preliminary probability, Sleeping Beauty, Sleeping",5,2008
+651,72,"probabilities, relative frequencies, indefinite probabilities, female, probability human",2,2008
+652,73,"coherence, Bovens Hartmann, impossibility result, coherentism, ceteris paribus",5,2008
+653,74,"resting counterfactual, antirealism resting, analysis truth, counterfactual analysis, Brogaard",2,2008
+654,75,"predicates, proposal, psychology concepts, term reference, Implicit Reference",5,2008
+655,77,"holds conscious, higher order, theory consciousness, world complex, appearances order",1,2008
+656,78,"Frege, truth predicate, logical laws, meaning, number Before",6,2008
+657,79,"truth values, generic formulation, points assessment, modals standardly, insist relativization",1,2008
+658,80,"abnormality, Gettier type, epistemic luck, cannot eliminated, concept luck",4,2008
+659,81,"ATB, moorean, moorean utterance, saying went, absurd",3,2008
+660,82,"truthmaker, truthmakers, truthmaker theory, negative truths, necessary connections",2,2008
+661,83,"alternate possibilities, Frankfurts argument, principle alternate, sort freedom, rules ability",2,2008
+662,84,"sensations, bodily sensations, bodily, perceiving, closely specific",3,2008
+663,85,"compatibilism cannot, past laws, Direct Argument, burden, compatibilism",2,2008
+664,86,"person thought, first person, thinking claims, uses conflict, type thinking",1,2008
+665,87,"indeterminacy thesis, indeterminacy, follow indeterminacy, distinction unsound, claim distinction",1,2008
+666,-1,"knowledge, simulations, philosophy, argue, relation",215,2009
+667,0,"moral, war, book, ethical, drug",77,2009
+668,1,"belief, evidence, Dutch, Bayesianism, Reflection principle",19,2009
+669,2,"abstraction, principles, crisis, neo Fregean, Hilbert",21,2009
+670,3,"practical thinking, Humean, normative, rationality, Hypotheticalism",22,2009
+671,4,"HEC, realization, multiple realization, cognitive, extended cognition",13,2009
+672,5,"wallet, return wallet, necessity, possible worlds, modal realism",8,2009
+673,6,"adaptive, preference, jungle, adaptive preference, go first",7,2009
+674,7,"structure, statespace structure, Sleeping Beauty, given theory, thirder",3,2009
+675,8,"time, problem change, tenseless, true formulation, Dolev",9,2009
+676,9,"environment, speciation, biology, biological, psychological agency",11,2009
+677,10,"PT, Horwich, nonsemantic, sentence, Reflections Meaning",6,2009
+678,11,"technology, technological, transferability, social constructions, science technology",6,2009
+679,12,"loosening, causal, hold rope, causation, things changes",9,2009
+680,13,"contextualism, context sensitivity, knowledge, words concepts, gate",14,2009
+681,14,"Musgraves objection, Muller, scientific, account scientific, objection",3,2009
+682,15,"conceptual content, watching, visual experience, perception, pedestrian dataset",10,2009
+683,16,"logical constants, basic rules, rules logic, inference, elimination rules",5,2009
+684,17,"composition, proper part, sum view, universal object, structure making",8,2009
+685,18,"tracing, mistakes fact, principle excuse, law, deliberation",3,2009
+686,19,"sentiment, care, ethics, emotions, empathy",8,2009
+687,20,"physicalism, protons, electrons protons, explanatory argument, electrons",7,2009
+688,21,"vagueness, linguistic facts, Shapiro, non linguistic, Harry bald",6,2009
+689,22,"absence, evidence absence, pornography, claim says, slogan",2,2009
+690,23,"hen, 47 speckles, modal claim, something appears, speckled",7,2009
+691,24,"personal identity, Olson, circularity objection, thinks, psychological accounts",6,2009
+692,25,"fiction, creativity, fictional truth, imaginative resistance, alethic puzzle",5,2009
+693,26,"Nozick, epistemic space, Alvin, fallibilism, space",5,2009
+694,27,"comparabilism, noncomparabilism, argue noncomparabilism, call comparabilism, advantages comparabilism",1,2009
+695,28,"art, theory art, field, debates aesthetics, remarkably clear",5,2009
+696,29,"faith, Plantinga, doxastic venture, fideism, evidential",4,2009
+697,30,"transworld depravity, compatibilism, Consequence, determinism, libertarian free",8,2009
+698,31,"Hume, Humes, causal science, New Hume, difficulty concerning",4,2009
+699,32,"Wittgenstein, Winchs, sketch argument, linguistic idealism, therapeutic",10,2009
+700,33,"Kant, affection, Locke, Longuenesse, Kants",2,2009
+701,34,"entitled hold, perceptual, spatial, view entitled, upon experiences",4,2009
+702,35,"indicative conditionals, truth conditions, satisfies Ramsey, relativism core, counterintuitive representation",4,2009
+703,36,"objects, ontology, everyday objects, metaphysics, material world",7,2009
+704,37,"interior, Farkas, context considerations, considerations concerning, Greco argument",5,2009
+705,38,"semantic paradoxes, paradoxes, Curry paradox, semantic, signification",7,2009
+706,39,"determination, realization, physical realization, material constitution, MC",2,2009
+707,40,"individuals develop, souled individuals, best nature, timocratic, spirited",2,2009
+708,41,"dynamic epistemic, epistemic logic, dynamic, al, probabilistic dynamic",12,2009
+709,42,"Virtue Epistemology, Virtue, Epistemology, intellectual, animal knowledge",3,2009
+710,43,"sceptical, transcendental, possible questions, scepticism, minimal objectivity",7,2009
+711,44,"modest sociality, sociality, shared intention, intention, sociality cases",1,2009
+712,45,"would state, suppositional interpretation, relative supposition, correct evaluation, categorical interpretation",1,2009
+713,46,"MRL, Lewiss thesis, bad bug, chances dispositions, realism laws",3,2009
+714,47,"ability hypothesis, knowledge, ability, knowledge knowledge, analyze know",4,2009
+715,48,"individualism, ontological individualism, social facts, explanatory individualism, artificial societies",3,2009
+716,49,"treated evidence, experiment intuitions, counterfactuals, philosophy, experimental philosophy",6,2009
+717,51,"maieutic, career, maieutic end, end gives, gives birth",4,2009
+718,52,"testimony, individualistic facts, linguistic norms, knowledge testimony, linguistic",4,2009
+719,53,"Goldman, mindreading, mind reading, neurons, mental simulation",7,2009
+720,54,"conditional intentions, structure intentions, fact conclude, observational knowledge, view diachronic",4,2009
+721,55,"assertion, dialectical model, speakers assertion, knowledge norm, dialectical",4,2009
+722,56,"deflationism, truth, implicit definition, formalizations, definition truth",3,2009
+723,57,"conceptual thought, concepts, conceptual, philosophical, philosophical methodology",7,2009
+724,60,"basic ontology, conception dispositionality, talk things, realist conception, dispositionality",4,2009
+725,61,"propositional attitudes, measure theoretic, make plausible, substitution failure, Clark Kent",5,2009
+726,62,"vase flowers, mind independent, objects features, experience, independent objects",3,2009
+727,63,"brain states, causal relation, Fourth Meditation, Descartes works, body mind",2,2009
+728,64,"lying, saying believe, lying identify, false Philosophers, believe deceive",1,2009
+729,65,"Spinoza, efficient, Leibnizs, Spinoza acosmist, substance Curley",2,2009
+730,66,"self knowledge, kind know, constitutive, matters semantic, rationalized reliance",4,2009
+731,68,"tradeoffs, ontological problems, model systems, relationships, compared fictions",3,2009
+732,69,"metaphysical theorizing, metaphysics, scientific metaphysics, metaphysical, theorizing",2,2009
+733,70,"orgasms etc, nature pains, childbirth used, childbirth, body region",2,2009
+734,71,"Lesser view, heads less, favorable Thirder, largely favorable, Expert Principle",1,2009
+735,72,"objective probability, probabilities, objective measure, quantum probabilities, classical physics",2,2009
+736,74,"typing, factiveness, Fitchs argument, knowability, knowledge typing",5,2009
+737,75,"Rigidity Essentiality, semantics typical, several Kripkean, usual descriptive, identifications developed",1,2009
+738,76,"dispositional, dispositional essentialism, charged objects, negatively charged, attract positively",4,2009
+739,77,"HOT theory, HOT, represented belonging, belonging self, somatoparaphrenia",1,2009
+740,78,"Frege, semantic axioms, Pragmatism, cognitive content, ii",3,2009
+741,79,"Epistemic Modals, epistemic possibility, say, natural, epistemic",3,2009
+742,80,"luck, absence control, upon Lackey, Lackey presents, luck precedes",1,2009
+743,81,"justify believing, many contemporary, believing believe, list contributors, essays",3,2009
+744,83,"Alternate Possibilities, Principle Alternate, Fischer style, counterexamples Principle, replacement",2,2009
+745,85,"criticism version, debate response, counterfactually provide, desert stake, responsibility best",1,2009
+746,86,"really nothing, really, first person, heretical views, entity What",4,2009
+747,87,"conventionalismC, truths, Quines philosophy, conventionalist claims, priori",2,2009
+748,-1,"argument, paper, two, properties, theory",216,2010
+749,0,"Foole, moral relativist, average moral, ethical, happiness",42,2010
+750,1,"justification, evidence, belief, confirmational, probable evidence",30,2010
+751,2,"mathematical, mathematical coincidence, Kant, nominalists, Euclids",11,2010
+752,3,"anti Humeanism, Heuer, ought, naive, desires",16,2010
+753,4,"maze, water maze, cognitive, cognitive extension, molecular",7,2010
+754,5,"modality, necessitist, contingentist, extract cash, impossible propositions",8,2010
+755,6,"decision theory, color problem, theory, causal decision, Fox",12,2010
+756,7,"metaphysical indeterminacy, metaphysical, Newman objection, quantum mechanics, completely successful",5,2010
+757,8,"account tensed, tensed belief, absence orthodoxy, argument presentism, argument absence",5,2010
+758,9,"species, species category, biological, trait token, species problem",6,2010
+759,10,"individuals overall, internal factors, cases mismatch, utterances, reference determined",9,2010
+760,11,"philosophy science, communities, trust, scientific, research",10,2010
+761,12,"causation, actual causation, causal, state changes, individuals events",10,2010
+762,13,"taste, relative truth, intuitions disagreement, sentences, knowledge account",6,2010
+763,14,"transcendental arguments, gene concept, concept, science, gene",8,2010
+764,15,"perceptual, perceptual experience, circular shaped, ways appearing, bracelet",6,2010
+765,16,"defeasible, validity, logics, strict rules, defeasible logic",2,2010
+766,17,"simples, heterogeneous simples, heterogeneous, anti symmetry, parthood",12,2010
+767,19,"emotion shame, failure live, standards norms, accomplishments, view shame",2,2010
+768,20,"concept strategy, Hofweber, phenomenal concept, object dependent, physical objects",2,2010
+769,21,"vagueness, unclarity, borderline cases, order vagueness, vague",8,2010
+770,22,"Langton, identify groups, biomedicine, silencing, desiderata",5,2010
+771,23,"color, Travis, concepts, look like, demonstrative elements",6,2010
+772,24,"fission, substance concept, animal, contend fission, core normative",4,2010
+773,25,"fictional, creative hypothesis, impersonal third, fictional narratives, person fictional",6,2010
+774,26,"Counter Closure, Closure, principle Counter, knowledge, case discuss",5,2010
+775,27,"conformity, peer disagreement, defeater view, reliability, epistemic superiors",6,2010
+776,28,"art, non art, failed art, art objects, art theory",4,2010
+777,29,"IT services, theism, Incarnation, traditional Christianity, religious music",6,2010
+778,30,"Mind Argument, psychological laws, choice anything, anything happens, determinism",3,2010
+779,31,"Skepticism Naturalism, Humes Treatise, Irreligion, Naturalism Irreligion, Paul Russells",1,2010
+780,32,"meaning, labels semantic, content proposed, argument lucid, considerations mixed",1,2010
+781,33,"Kants, self, objects space, argue Kants, Paralogisms",3,2010
+782,34,"perceptual knowledge, conceptualism, knowledge discrimination, epistemological advantage, epistemological",2,2010
+783,35,"conditionals, indicative conditionals, If house, soon look, look quite",7,2010
+784,36,"almost nothings, merely verbal, ontological, metaontological dispute, deflationists",3,2010
+785,37,"internalism, weak construal, construal internalism, Bergmann dilemma, construal",3,2010
+786,38,"Pinocchio, liar paradox, nose, De Sa, truth",4,2010
+787,39,"realization, realization relation, piggyback principle, principle, relation",6,2010
+788,40,"Kurdish, law, importance law, Kurdish schools, Aristotelian logical",2,2010
+789,41,"agents, resource bounded, explicit knowledge, ascription beliefs, iterated contraction",5,2010
+790,43,"Borei, sceptical challenges, sceptical, believe, informational scepticism",4,2010
+791,45,"Bennett Hypothesis, might counterfactuals, Hypothesis, counterfactuals Bennett, But Bennett",1,2010
+792,46,"anti Humean, modal character, metaphysically contingent, contingent truths, laws nature",2,2010
+793,48,"seek tell, ambitious theories, explanatory, sensitivity, restrict",2,2010
+794,49,"determinate concept, concept possession, argue Bealer, intuition philosophy, possession",2,2010
+795,50,"Denyer recent, book unity, criticisms Nicholas, replies criticisms, Nicholas Denyer",1,2010
+796,51,"Argument Temporary, Temporary Intrinsics, give Weak, Supplementation Principle, type solution",3,2010
+797,52,"deception, reductionism, merits reductionist, laboratory settings, antireductionist policy",1,2010
+798,53,"mirrored understanding, neurons monkeys, intentional understanding, empathy, sensations emotions",2,2010
+799,54,"hit targets, cannot hit, intended hit, skilled activity, player knows",3,2010
+800,55,"centered content, assertions centered, evaluated truth, content assertion, extending",2,2010
+801,56,"deflationism, truth, approach reconciliation, nonfactualism, theorems",5,2010
+802,57,"concept, Machery, based theories, characterization, contrast classical",4,2010
+803,58,"Our Stories, obligation preserve, self expression, preservation species, species construed",3,2010
+804,59,"memory, perspective, personal memory, constructive processes, sensory image",2,2010
+805,60,"finks masks, habitual analysis, Faras habitual, disposition manifesting, paradigmatic dispositions",4,2010
+806,61,"property theory, objections, non existence, attitudes, theory content",2,2010
+807,63,"Descartes, Catholic, Meditations, Latin, theological",1,2010
+808,64,"philosophical definition, standard philosophical, deceive, lie, viz lies",1,2010
+809,65,"Spinoza, incompossibility, Leibniz anti, corporeal substances, conscious",5,2010
+810,67,"Zeno like, isomorphic, paradoxes still, Benacerraf critique, described Alper",1,2010
+811,68,"value practice, scientific, descriptions missing, representation, systems",7,2010
+812,69,"metaphysics Scientific, status metaphysics, Fraassen concerning, role status, questions posed",1,2010
+813,70,"pain, imperative, itch, imperative account, Pollock",3,2010
+814,71,"Beauty, Sleeping Beauty, Judy, Dutch book, book made",8,2010
+815,72,"nature probability, failure promises, interpretations Section, outlines pragmatic, notion transmission",2,2010
+816,74,"knowability, true unknown, Fitchs paradox, Fitchs, knowability principle",10,2010
+817,75,"cp laws, metalinguistic knowledge, generics, natural kinds, instance contingent",2,2010
+818,76,"fundamental properties, Lewis, Most responses, properties Most, language Dispositional",2,2010
+819,77,"qualia, phenomenal properties, theorists, qualia theorists, properties Qualia",1,2010
+820,78,"concept paradox, judging acknowledging, mirroring principle, truth thought, incomplete",2,2010
+821,79,"epistemic modals, informational consequence, epistemic, observation sentences, disagreements statements",2,2010
+822,80,"luck program, event, luck, anti luck, understand improbability",1,2010
+823,81,"pragmatic paradox, Moorean sentences, Davies, third person, absurdity beliefs",2,2010
+824,82,"truthmaker, composed fifty, Possibility principle, makes true, Armstrongs",4,2010
+825,83,"Dilemma Defense, Alternative Possibilities, Principle Alternative, Frankfurt cases, Dilemma",5,2010
+826,85,"manipulation, Case Argument, Four Case, Perebooms argument, soft line",2,2010
+827,87,"Kant Bolzano, Bolzanos views, priori knowledge, synthetic distinction, implicit definition",2,2010
+828,-1,"philosophy, Philosophy 89, argument, science, Philosophy",244,2011
+829,0,"moral, normative, ethics, globalist attitudes, eugenics",42,2011
+830,1,"favoring, evidence, epistemic, belief, epistemic reasons",14,2011
+831,2,"axioms, graphical structuralism, well orderings, meta mathematical, category theory",11,2011
+832,3,"desires, naïve, persons, reason giving, normative",16,2011
+833,4,"mechanistic, parity principle, extended mind, functional analyses, computational theory",9,2011
+834,5,"modal, modal epistemology, possible worlds, modality, iterated modalities",15,2011
+835,6,"weak expectations, game, rational price, value individual, Pascals Wager",10,2011
+836,7,"Everettian, underdetermination, phenomena physics, recent results, Lewis",8,2011
+837,8,"time, time passes, false relative, present, tensed",12,2011
+838,9,"Okasha, natural selection, e2, Price approach, evolutionary",11,2011
+839,10,"subsentences, reflexive truth, free enrichment, proposition expressed, utterance",3,2011
+840,11,"severity, collective scientific, scientific, non experts, hypothesis",4,2011
+841,12,"causal, causation, causal minimality, rule following, exclusion",8,2011
+842,13,"pattern, pattern intuitions, contextualism, principle knowledge, aesthetic",9,2011
+843,14,"scientific, scientific realism, realism, theories, correspondence theorem",16,2011
+844,15,"Ismael, sensory phenomenology, size experience, austere relationalists, perceptual content",6,2011
+845,16,"harmony, Tennant, intuitionistic, Harmony requirement, notion harmony",6,2011
+846,17,"proper part, Compositionalism, pluralist, material proper, parthood",7,2011
+847,18,"holding responsible, responsibility, blame, moral responsibility, Watson",5,2011
+848,19,"reactive, reactive love, interaction lover, valence, reactive attitudes",5,2011
+849,20,"ascriptivism, physicalism, physicalists, Dictum, concepts",8,2011
+850,21,"vagueness, Harry bald, order vagueness, make heap, supervaluationism",8,2011
+851,23,"color vision, color illusion, inverted color, colour, conception",3,2011
+852,24,"complex view, many many, psychological continuity, one relation, identity",6,2011
+853,25,"fictional characters, imaginings, characters, imaginative, Sect",4,2011
+854,26,"infallibilism, CKAs, closure, knows, sensus divinitatis",5,2011
+855,27,"disagreement, Equal Weight, compromise, peer, sure beliefs",5,2011
+856,28,"aesthetic, art, source aesthetic, aesthetic value, pessimism",4,2011
+857,29,"God, God existence, business, heaven, organization",6,2011
+858,30,"Basic Argument, libertarianism, causal libertarianism, Clarke argue, contributing action",6,2011
+859,31,"Miracle Argument, white globe, underdetermination, problem induction, formalize",3,2011
+860,32,"Wittgenstein, transcendental, diagnostic, Investigations She, setting interpretation",4,2011
+861,33,"Kant, possibility compatibility, idealism, perceptual awareness, necessity",4,2011
+862,34,"Empiricism Experience, concept formation, abstractionism, perception, Empiricism",7,2011
+863,35,"posteriori speakers, posteriori, priori seems, lights priori, sentences sort",2,2011
+864,36,"formal ontology, simple ontological, post positivist, metametaphysical questions, semantic issues",3,2011
+865,37,"Goldman argument, Goldman, internalism, dilemma, awareness internalism",2,2011
+866,38,"truth teller, liar, sentences, paradoxes, false",7,2011
+867,39,"mental causation, causation, exclusion, mental physical, Functionalism",6,2011
+868,41,"pal, glue logic, public announcement, dialogue, dynamic",4,2011
+869,42,"Sosa, cognitive goal, intellectual, virtue, Ernest",5,2011
+870,43,"evidence argument, true, external world, argument, New Rationalism",5,2011
+871,44,"authorship, minimal account, agents works, relative works, simpliciter claim",1,2011
+872,45,"biconditionals, counterfactuals, conditions coming, worlds, million",5,2011
+873,46,"meta laws, displacements, relativity, cover meta, extending BSA",1,2011
+874,47,"know propositional, functional role, propositional knowledge, state characterized, Know mental",1,2011
+875,48,"whole science, biological sciences, explanations part, complemented order, categories explanation",1,2011
+876,49,"intuitive judgements, judgements, intuition experiences, attitudes dispositions, rationalism",2,2011
+877,50,"predicate abstraction, predicate, yield sentence, syntax, combines one",1,2011
+878,51,"persisting objects, persisting, objects, perdurance, temporal",3,2011
+879,53,"simulationist, mindreading, simulationist theories, extra cognitive, rationality theory",2,2011
+880,54,"Di Nucci, View, failed understand, examples arguing, dialectic argument",1,2011
+881,55,"account assertion, act demonstration, Sincerity, proof object, type theory",6,2011
+882,56,"causal correspondence, systematically successful, systematic practical, correspondence, deflationary view",1,2011
+883,57,"analysis, expressivist, theory conceptual, representational content, might based",1,2011
+884,58,"specie aeternitatis, standards meaningfulness, meaningfulness, context cosmos, meaningful shun",2,2011
+885,59,"memory, epistemic theory, book Memory, theory memory, Memory Sven",3,2011
+886,60,"conditional analysis, getting specific, analysis, positive proposal, analysis dispositions",4,2011
+887,61,"independence, world individual, individual need, formulae independent, attributions reformulated",3,2011
+888,62,"nonconceptual structures, analogous nonconceptual, notion introspective, introspective indiscriminability, certain basis",3,2011
+889,63,"Cartesianism, must reasons, conclusion Cartesianism, Cartesianism knowledge, Cartesian Infallibilist",1,2011
+890,64,"knowledge lie, knowledge lies, Dr, deceive, lies",1,2011
+891,65,"monads, theory monads, Leibnizs metaphysics, corporeal, metaphysics focuses",1,2011
+892,66,"anti individualism, Peter reasoning, Validity Requirement, Requirement, individualism",1,2011
+893,68,"modeling, Giere, scientific, theories, entities",3,2011
+894,70,"heterogeneity, theory pleasure, various experiences, among known, wrong backwards",1,2011
+895,71,"Beauty, Sleeping Beauty, Sleeping, When wakes, arity",3,2011
+896,72,"probability, probabilities, counterfactual probability, view probability, argued chance",4,2011
+897,73,"coherence, produce justification, truth conducive, Coherence held, foundationalist basic",2,2011
+898,75,"chocolate, claim meanings, assignments, rigidity, kind terms",3,2011
+899,76,"dispositional, Argument Science, baseless, baseless dispositions, dispositional essentialist",2,2011
+900,77,"consciousness, phenomenal consciousness, self representational, higher order, Weisberg",4,2011
+901,78,"composed senses, thoughts compositionally, compositionally complex, composed, conceptual contents",1,2011
+902,79,"challenge cases, Kratzer, involve epistemic, modulates modality, expressed across",1,2011
+903,80,"br, Knowing Luckily, Proposal, luck platitude, platitude",1,2011
+904,81,"justification believe, conservatism, Moores proof, believe conservatism, follow argument",3,2011
+905,82,"truthmaking, project essentially, explanation truthmakers, central truthmaking, obstacle standard",1,2011
+906,83,"clear Jones, wants, PAP false, Frankfurtians, action Black",3,2011
+907,84,"Many Many, Many Problem, bodily action, necessary part, perceptual",3,2011
+908,85,"compatibilist conditions, moral responsibility, acting freely, compatibilist, conditions acting",3,2011
+909,86,"immune error, IEM, experience misrepresented, distinctive security, empirical reports",2,2011
+910,87,"truth convention, true convention, indispensible natural, convention directed, Quine criticisms",2,2011
+911,-1,"Philosophy, belief, one, life, paper",241,2012
+912,0,"moral, liberalism, normative, public reason, institutional virtue",43,2012
+913,1,"belief, evidence, knowledge, epistemic, evidence thesis",36,2012
+914,2,"diagrams, mathematics, geometry, Kepler, diagram",30,2012
+915,3,"rationality, desires, agency, intend, logic obligation",16,2012
+916,4,"non neural, Supersizing Mind, computational level, cognition, Mind",2,2012
+917,5,"possible worlds, modality, Socrates, propositions, worlds analysis",15,2012
+918,6,"mixed strategies, Monton, heuristics, decision theory, Pascal Wager",16,2012
+919,7,"quantum, space, dimensional space, quantum mechanics, graphical",13,2012
+920,8,"presentism, times, grounding argument, propositions, presentist",13,2012
+921,9,"emergence, emergent, organization, Darwinism, autopoiesis",16,2012
+922,10,"MUMPS, languages, jure co, linguistic, idiolects",9,2012
+923,11,"philosophy, disciplinary philosophy, authorship, collaboration, papers",2,2012
+924,12,"causal, causation, basing relation, ceteris paribus, transitivity",12,2012
+925,13,"contextualism, context, epistemic contextualism, circumstance evaluation, involving disagreement",13,2012
+926,14,"understanding factive, privilege, scientific understanding, scientific idealizations, idealizations producing",2,2012
+927,15,"properties egocentric, perspectival character, egocentric space, properties allocentric, sized trees",7,2012
+928,16,"2SDL, sequents, conclusion sequents, 1985, Implicit Definition",12,2012
+929,17,"zero dimensional, restrictivist, dimensional material, bare particulars, properties",6,2012
+930,18,"skeptical arguments, species explanatory, according judgments, thinking responsibility, hypothesis provides",1,2012
+931,19,"emotions, lyrical emotions, epistemic personhood, virtue humility, achievement goals",5,2012
+932,20,"superfunctionality claim, Phenomenal Concept, epistemological questions, metaphysical questions, functional relations",4,2012
+933,21,"intension, theory vagueness, induction step, like God, semantic",7,2012
+934,22,"race debate, racial realism, biological racial, biological, real biological",1,2012
+935,23,"colour, phenomenological character, qualia, colour experiences, colour representation",4,2012
+936,24,"ﬁssion, persons, person affecting, sense conception, animalism",7,2012
+937,25,"imaginativeness, imaginative, fictional, imagination, imaginative resistance",9,2012
+938,26,"Wright, Gettier cases, transmission failure, arguments Vogel, knowledge",7,2012
+939,27,"Conciliationism, Uniqueness, reasoning equal, uniqueness theses, indifference reasoning",2,2012
+940,28,"mismatching, race mismatching, art, race, aesthetic",5,2012
+941,29,"God, Godless, choice Godless, Himself Who, God Himself",4,2012
+942,30,"IoC, skepticism, free skepticism, control, BT",5,2012
+943,31,"religions, Humes, popular religions, justification religious, artificial virtues",3,2012
+944,32,"structure reasons, Wittgenstein, advocating life, rational practices, book contemplative",2,2012
+945,33,"geometrical, geometry, Kant theory, spatial intuition, role geometry",2,2012
+946,34,"perceptual knowledge, response scepticism, scepticism, world correctness, picture conception",2,2012
+947,35,"Ramsey Test, conditional, Diachronic, links credence, indicatives",9,2012
+948,36,"evaluative questions, stake, value universe, inhabit good, exists fear",1,2012
+949,37,"internalism, justificatory, counterpart propositions, internal difference, metaphysics belief",3,2012
+950,38,"liar, liar paradox, semantic paradoxes, solution liar, paradox show",6,2012
+951,39,"exclusion problem, causal work, exclusion, causation, autonomy approach",5,2012
+952,41,"action models, multi agent, action emulation, bisimulation, models gives",7,2012
+953,42,"virtue, conception virtue, unifying consideration, virtue function, inquiry based",3,2012
+954,43,"Conservativist, skepticism, ordinary propositions, Epistemic Closure, scepticism",7,2012
+955,44,"rationality, collective acts, acts, committee, evaluable rationality",1,2012
+956,45,"counterfactuals, counterfactual reasoning, causal modeling, counterfactual identity, modeling semantics",6,2012
+957,47,"species claim, genus species, genus, briefly addresses, order production",5,2012
+958,48,"existing measures, adequately way, across science, turn rely, cause explanatory",1,2012
+959,49,"platonic, philosophical, intuitions philosophy, epistemic intuitions, traditional philosophical",4,2012
+960,50,"propositions, believes thinks, proposition talk, error theoretic, pretense",3,2012
+961,51,"problem temporary, temporary intrinsics, intrinsics, intrinsics also, McTaggart argument",2,2012
+962,52,"testimony, testifiers, value evidence, recipients testimony, informant",4,2012
+963,53,"mirror neurons, mindreading, mirror, theory mind, joint action",5,2012
+964,54,"Authorship, Authorship view, Are reasons, causes action, reasons acting",2,2012
+965,55,"epistemic norm, assertion, president whereabouts, KAA argue, assertion KAA",5,2012
+966,57,"Conceptualism, pursued armchair, basis understanding, According Conceptualism, questions purely",1,2012
+967,58,"meaningfulness, meaningful life, ISSN, death narrative, meets objective",3,2012
+968,59,"nostalgia, nostalgia directed, Proustian nostalgia, philosophy memory, memories",2,2012
+969,60,"dispositional analyses, dispositional, dispositionalcategorical, dispositionalcategorical distinction, thesis",5,2012
+970,61,"clause, entities might, case agentbelieves, beliefreport form, belief apropositional",1,2012
+971,62,"Numbers Hallucinations, Azzounis Talking, Hallucinations, Hallucinations Fictions, Jody Azzounis",1,2012
+972,63,"Descartes, medieval, consciousness, functional analysis, epistemic circularity",6,2012
+973,64,"conditionals, worse merely, lying morally, lie, implicatures",2,2012
+974,65,"Spinoza, mill argument, Leibniz gave, necessitarianism, definition perception",4,2012
+975,67,"regiment, refocuses, incoherent fruitless, fruitless vindicates, distracting",1,2012
+976,69,"metaphysics, naturalistic metaphysics, non naturalistic, science, metaphysical",6,2012
+977,70,"affective phenomenology, qualia theory, affective, phenomenology, bodily directed",3,2012
+978,71,"third solution, countable additivity, additivity, halfer position, tension",2,2012
+979,72,"mechanistic probability, FFF mechanistic, frequencies, compare aspects, frequencies FFF",1,2012
+980,73,"coherence, reliability conducive, conducive, Stoneham, coherence measures",3,2012
+981,74,"Church Fitch, Fitch, knowability logic, Fitch derivation, cut free",1,2012
+982,75,"general term, open sentences, term, rigid designation, rigid designators",4,2012
+983,76,"quidditism, austere quidditism, Barker Smart, dispositional monism, structuralism",3,2012
+984,77,"functionally equivalent, qualia, absent qualia, Tye, basis concludes",1,2012
+985,78,"equipollence reject, intensional isomorphism, isomorphism epistemic, criterion sameness, sameness Fregean",1,2012
+986,79,"Quine, writings demonstrably, epistemic writings, core epistemic, demonstrably coherent",2,2012
+987,80,"rationale distribution, consider theorists, luck widely, debate Sect, significance due",1,2012
+988,81,"anti skeptical, Lehrer, knowledge although, foundationalism reasons, Mooreanism Lehrer",1,2012
+989,82,"maximalism, maximalists, ducks bath, non maximalists, something existence",1,2012
+990,83,"type counterexamples, flicker defense, incompatibilists, versions, kind presuppose",2,2012
+991,84,"bodily, emotions tactile, feels reports, inner experience, bodily experience",1,2012
+992,85,"compatibilists, manipulation, incompatibilism, agent causation, commitment comply",5,2012
+993,87,"analyticity, challenge leads, Carnap subject, Quinean view, party fact",1,2012
+994,-1,"argue, one, knowledge, paper, theory",217,2013
+995,0,"moral, value, normative, argue, evil",76,2013
+996,1,"belief, epistemic, evidence, confirmation, thesis",52,2013
+997,2,"numbers, mathematics, productivity principle, undecidability, sets",15,2013
+998,3,"reasons, motivational, moral opinions, ought, idealisations",21,2013
+999,4,"passivity, EC, Merleau Ponty, cognitive vehicles, cognition",3,2013
+1000,5,"modal, counterpart, possible worlds, ideal agents, logic",25,2013
+1001,6,"choice, heuristic, money pump, decision theory, Newcomb paradox",14,2013
+1002,7,"quantum mechanics, bundles, ontology, properties, identity individuality",11,2013
+1003,8,"temporal, order duration, succession, new tenseless, temporal experience",12,2013
+1004,9,"genes, population level, chromosomes, biology, experimental background",8,2013
+1005,10,"communication, semantic, token, linguistic, reflexivity",12,2013
+1006,11,"interdisciplinary, interdisciplinarity, research, interdisciplinary research, interdisciplinary communication",9,2013
+1007,12,"causation, negative causation, difference making, causal, exclusion problem",8,2013
+1008,13,"contextualism, knowledge, relativism, blindness, contrastivist",11,2013
+1009,14,"pessimistic induction, Fahrbach, pragmatic norms, Kuhnian mode, success reliable",9,2013
+1010,15,"visual, seeing, perceptual content, perceptual, visible figure",10,2013
+1011,16,"Curry, classical logic, logic, Consequence Argument, begging question",8,2013
+1012,17,"identity, slogan, mereology, existence facts, object identical",8,2013
+1013,18,"responsibility, moral responsibility, normative force, agent morally, reasons",13,2013
+1014,19,"emotions, sentiments, modesty, recalcitrant emotions, good qualities",3,2013
+1015,20,"physicalism, physicalist, physical, phenomenal physical, dualism",9,2013
+1016,21,"Harry bald, indeterminacy, vagueness, indeterminate existence, absence fact",6,2013
+1017,22,"race, groups, Gendler argues, race gender, subspecies",5,2013
+1018,23,"color experiences, color qualia, qualia, constancy, colour",9,2013
+1019,24,"survival, fission, personal identity, identity, TAA",7,2013
+1020,25,"imaginations, numbers properties, fiction, three desiderata, make true",2,2013
+1021,26,"infallibilism, transmission, knowledge, Wright analysis, probability infallibilism",8,2013
+1022,27,"disagreement, peer disagreement, epistemic, peers, evidential support",10,2013
+1023,28,"aesthetic, aesthetic judgements, artistic, artistic value, ontology art",4,2013
+1024,29,"natural theology, theology, Swinburne, based objection, world argument",4,2013
+1025,30,"consequence argument, rollback, Mind Argument, agents act, libertarianism",8,2013
+1026,31,"Hume, Armstrong, impossible claims, Reids objections, answering",6,2013
+1027,32,"cold mean, rule following, correctness conditions, Investigations, correctness",1,2013
+1028,33,"Object, Object view, One Object, Metaphysical One, Kantian sensible",4,2013
+1029,34,"rational source, factive evidence, perceptual, Conservatism, perceptual justification",4,2013
+1030,35,"conditionals, subjunctive, subjunctive conditionals, indicative conditionals, indicative",7,2013
+1031,36,"ontological, parsimony, metaontological realism, qualitative ideological, ontological criterion",6,2013
+1032,38,"problem true, shrieking, paradoxes, degree belief, paradoxes counterpart",4,2013
+1033,39,"Causal Exclusion, Exclusion Argument, properties, powers physical, realizer",6,2013
+1034,40,"Aquinas, sufficiency thesis, Socrates, Plato, self reflective",4,2013
+1035,41,"distributed knowledge, dynamic epistemic, axioms, logics, mathcalPAL",5,2013
+1036,42,"reflective knowledge, reflective, competence, Sosas Knowing, 2010 view",5,2013
+1037,43,"skepticism, skeptical arguments, gap objects, response rests, clear structure",2,2013
+1038,44,"non domination, freedom, epistemic injustice, ideal freedom, contester",2,2013
+1039,45,"similarity, counterpossibles, impossible worlds, Stalnaker semantics, aspects similarity",7,2013
+1040,46,"law, primitive laws, necessitarianism, scientific law, scientific explanation",4,2013
+1041,47,"intellectualist, Stanley Williamson, knowing ascriptions, knowledge, linguistic",4,2013
+1042,48,"Nickel, absences omissions, theories explanation, philosophical, generalist position",4,2013
+1043,49,"intuitions, philosophers, epistemic intuitions, armchair methodology, philosophical",14,2013
+1044,50,"propositions, unity proposition, Benacerraf problems, individuates propositions, account individuates",6,2013
+1045,52,"testimony, testimonial belief, Goldberg examples, unsafe testimony, non addressees",7,2013
+1046,53,"autism, ToM deficit, spectrum disorder, disorder, conceptually demanding",5,2013
+1047,54,"basic action, agent knowledge, intentional action, action identification, identification thesis",5,2013
+1048,55,"assertion, assertions, knowledge account, KAA well, dubious",7,2013
+1049,56,"deflationists, inflationists, inflationary, debates, quantifiers",2,2013
+1050,57,"design, technical artefacts, conceptual analysis, perceptual representations, copies",4,2013
+1051,58,"deprives us, deprivation account, deprives, deprivation, birth",4,2013
+1052,59,"RK, tense judgements, testimonial information, past tense, information",3,2013
+1053,60,"disposition, conditional, dispositions possibility, circumstances, stimulus",2,2013
+1054,61,"attitude, Millianism, descriptions, embedded clause, attitude reports",6,2013
+1055,62,"hallucination, Realism, Direct Realism, disjunctivism, constancies",3,2013
+1056,63,"idealized epistemology, difference discipline, normative prescriptive, concept philosophers, focus epistemologists",1,2013
+1057,64,"self deception, deceive, definition, make bullshit, deception failure",5,2013
+1058,65,"Leibniz, Spinoza, God, Spinoza metaphysics, modal truths",4,2013
+1059,66,"introspective knowledge, introspective, introspection, café nearby, item seems",2,2013
+1060,67,"layered structure, grounding explanations, structure, molecules human, biological geological",1,2013
+1061,68,"models, de idealize, icons, sign, idealize models",5,2013
+1062,69,"cosmic, cosmic significance, Deweys views, idea cosmic, formulations realism",5,2013
+1063,70,"unpleasant, terms pain, character pain, pleasant unpleasant, representationalism",3,2013
+1064,71,"Beauty, Sleeping Beauty, thirder, Horgan, knowledge awake",3,2013
+1065,72,"frequentist, interpretation probability, model based, based induction, frequentist interpretation",4,2013
+1066,73,"coherence, coherence evidence, coherence contents, offset aspects, aspects relations",2,2013
+1067,74,"knowability, Fitch, knowability principle, Fitch paradox, knowability paradox",3,2013
+1068,75,"like linguistics, linguistics called, namely semantics, argues tropes, agree tropes",1,2013
+1069,76,"physical modality, causal roles, dispositional, fundamental properties, metaphysics",5,2013
+1070,77,"Kriegel argument, consciousness, subject experience, awareness experiences, peripheral awareness",3,2013
+1071,78,"vague predicates, suspect nihilism, predicates, Frege, logical purposes",1,2013
+1072,79,"epistemic modals, Yalcin, sentences, raining, feet",5,2013
+1073,80,"luck, cases environmental, belief true, knowledge requires, luck epistemology",3,2013
+1074,81,"absurdity, Moorean, irrationality, Moorean beliefs, capital Thailand",4,2013
+1075,82,"truthmaker principle, correspondence theory, truthmaker, development correspondence, theory truth",3,2013
+1076,83,"Principle Alternative, Alternative Possibilities, Widerker, Frankfurt, Evasion",5,2013
+1077,84,"concept contribute, arguments earlier, addressed blocked, actions less, identifies flaw",1,2013
+1078,85,"manipulation, manipulation argument, hard line, Todd, argument",4,2013
+1079,86,"co cognitivism, co cognition, person proposition, assert believe, first person",2,2013
+1080,87,"work analyticity, rather Quinean, though epistemology, analytic distinctive, according claims",1,2013
+1081,-1,"trust, view, epistemic, belief, control",194,2014
+1082,0,"moral, Gaus, morality, goods, scope",65,2014
+1083,1,"belief, beliefs, epistemic, credence, argument",38,2014
+1084,2,"numbers, Galois, Grothendieck, mathematics, proofs",21,2014
+1085,3,"ought, recklessness, conflicting, normative, hypothetical imperatives",11,2014
+1086,4,"structural representations, mechanistic, MC, receptor, cognition",13,2014
+1087,5,"modal, modal realist, modal continuity, concrete distinction, adequacy",5,2014
+1088,6,"decision theory, Invariance, theory, Goldman, dominance",13,2014
+1089,7,"quantum, Humeanism, non separability, quantum physics, entanglement",6,2014
+1090,8,"growing universe, temporal, past, naïve inheritance, universe theory",8,2014
+1091,9,"biological, biological functions, functions, origin essentialism, biology",5,2014
+1092,10,"jure coreference, Jazz, linguistic, linguistic context, basic set",14,2014
+1093,11,"scientific, publish, collective knowledge, intermediate results, knowledge collective",7,2014
+1094,12,"causal, causal inference, causal emergentism, causation, causal relations",8,2014
+1095,13,"knowledge ascriptions, contextualism, assessment, knowledge, relativism",12,2014
+1096,14,"scientific theories, inconsistency science, internally inconsistent, inconsistency, empirical adequacy",9,2014
+1097,15,"visual experience, shapes, apparent motion, Self Location, pictorial experience",6,2014
+1098,16,"strict tolerant, tolerant calculus, representational validity, truth preservation, must formalized",6,2014
+1099,17,"Aust Phil, vagueness argument, composition, junk, instantiation",4,2014
+1100,18,"blame, responsibility, blameworthiness, moral responsibility, blameworthy",12,2014
+1101,19,"emotion, emotions, bodily perceptions, perceptual states, Emotions",7,2014
+1102,20,"supervenience, definitions supervenience, supervenience mechanistic, mechanistic constitution, uninteresting theory",1,2014
+1103,21,"assuming theories, graded membership, ordering supervaluationism, supervaluationism, generalize",2,2014
+1104,22,"gender race, constructionism, Haslanger, oppression, race",1,2014
+1105,23,"colour, colour similarity, similarity argument, constant colour, constancy",3,2014
+1106,24,"Reductionist, personal identity, Elimination, narrative account, person stages",4,2014
+1107,25,"entities, fictional entities, ontological dependence, fictional characters, fictions",7,2014
+1108,26,"closure, knowledge, epistemic closure, falsehood, Entitlement",8,2014
+1109,27,"irrelevant influences, debiasing, social, conciliationism, topology",7,2014
+1110,28,"aesthetic judgements, judgements, forming aesthetic, descriptive claim, aesthetic",1,2014
+1111,29,"epistemology religion, religion, epistemology, ideas mainstream, religious beliefs",1,2014
+1112,30,"libertarianism, Free Will, Will, causal libertarians, matter luck",6,2014
+1113,31,"Hume, Hume positive, negative argument, ideal observer, inductive inferences",9,2014
+1114,32,"Wittgenstein, mathematical statements, Wittgenstein attack, dualism, outer",3,2014
+1115,33,"Kant, Fact Reason, non conceptualism, Kant doctrine, often referring",2,2014
+1116,34,"PDE, penetrated visual, cognitively penetrated, statistical inference, perceptual",4,2014
+1117,35,"wonders conditionals, analyses Surprisingly, antecedent relevance, discussed throughout, offered relies",1,2014
+1118,36,"commissive, Hirsch, ordinary objects, merely verbal, composition",6,2014
+1119,37,"content externalism, externalism, Bergmann, externalism Furthermore, reasoning apriority",5,2014
+1120,38,"true false, whether paradoxical, confliction, rule confliction, paradox",3,2014
+1121,39,"exclusion, realizers, dependency conception, surround conditions, effects identical",4,2014
+1122,40,"Stoic, Stoics, Stoic account, era, internalist",4,2014
+1123,41,"logic, dynamic, varphi, agent believes, implicit knowledge",7,2014
+1124,42,"virtue, virtue epistemology, virtues, epistemic virtue, cognitive success",4,2014
+1125,43,"skepticism, empirical certainty, thing hand, Kants, fail rationally",2,2014
+1126,44,"pluralistic ignorance, credit theory, overtness, phenomenon, collectivist model",5,2014
+1127,45,"counterfactuals, counterfactual, admissible context, semantics counterfactuals, counterfactual conditionals",6,2014
+1128,47,"contextualist pragmatic, anti intellectualism, contextualist, strategy, criticise",3,2014
+1129,48,"narrative, model fictions, anti psychologism, historical, psychologism",5,2014
+1130,49,"intuitions, intuition, Centrality, philosophers, Without Intuitions",9,2014
+1131,50,"thoughts, thesis propositionality, fully propositional, principle account, propositionality",2,2014
+1132,51,"parsimony, dimensional ontology, ontology, three dimensional, Lewisian four",4,2014
+1133,52,"gossip, testimony, source testimony, justification testimony, testimony matter",6,2014
+1134,53,"false belief, children, theory mind, age, tasks",6,2014
+1135,54,"unreflective, skilled action, Velleman, Anscombean questions, principle accurately",1,2014
+1136,55,"norms, Commonality, declarative sentences, Equivalence Commonality, actionpractical reasoning",6,2014
+1137,56,"constructive methodological, methodological deflationism, complexity, deflationism, work Kendall",2,2014
+1138,57,"conceptual analysis, inferential connection, priori justification, conceptual, results conceptual",2,2014
+1139,58,"Animal, York, crisis turns, Animal Cognition, Animal Minds",2,2014
+1140,59,"misremembering, memory, cases misremembering, memory system, cognitive system",1,2014
+1141,60,"disposition individuated, conception dispositions, break easily, consequent propose, modality closest",1,2014
+1142,61,"belief ascriptions, Brandom theory, attitude reports, propositional, validity attitude",4,2014
+1143,62,"content view, perceptual, perceptual experience, phenomenological, phenomenological directness",6,2014
+1144,63,"De Rosas, Descartes Puzzle, Puzzle Sensory, Raffaella, Raffaella De",1,2014
+1145,64,"mere deliberate, deliberate misleading, epistemic moral, deliberate misleader, inferring meaning",1,2014
+1146,65,"Leibniz, God, substance, Leibnizian, create best",4,2014
+1147,66,"conscious belief, conscious, self knowledge, detectivist, authoritative self",3,2014
+1148,67,"plural grounding, philosophical theses, yielding structuralist, theses physicalism, plural group",2,2014
+1149,68,"ocean, scientific representations, infinitely deep, ocean waves, waves",3,2014
+1150,69,"cosmic significance, idea cosmic, vastness, universe, insignificant",1,2014
+1151,70,"asymbolics, abnormal, unpleasant, component, unitary",4,2014
+1152,71,"traditional solutions, wakes, 12, ought properly, either sharp",1,2014
+1153,72,"mathematical representation, infinitesimals, real numbers, numbers, mathematical",1,2014
+1154,73,"coherence, measures coherence, plausibilistic measures, probabilistic, measure coherence",4,2014
+1155,74,"potential knowledge, knowability, interpretation knowability, transworld knowledge, Fitch argument",1,2014
+1156,75,"subtypes, late party, occurrences word, relative positions, sentence cannot",2,2014
+1157,76,"epistemological approach, epistemological, natural properties, structuralist, fought metaphysical",2,2014
+1158,77,"HOP, deficits, state conscious, mental state, prefrontal",3,2014
+1159,78,"priority thesis, Kants, culminated Freges, Kant writes, writes understanding",1,2014
+1160,79,"subjective flexibility, epistemic modals, flexibility argue, admit inter, flexibility epistemic",1,2014
+1161,80,"knowledge, Miller Pritchard, Kvanvig critics, eds Epistemic, knowledge lucky",3,2014
+1162,81,"condition adequacy, accounts inference, adequacy, inference, Wright",2,2014
+1163,82,"truthmakers, existentials truthmakers, Truthmaker one, embraces Truthmaker, Truthmaker Maximalism",3,2014
+1164,83,"alternative possibilities, Frankfurt cases, moment action, power attributions, blockage",3,2014
+1165,84,"motor representation, motor representations, intention motor, representation, roles intention",1,2014
+1166,85,"compatibilist, Todd argument, compatibilism, incompatibilists, case responsible",2,2014
+1167,86,"Mary Analogue, insight knowledge, Analogue despite, Buddhist parlance, Imagine character",1,2014
+1168,87,"Quine arguments, lasting damage, concepts epistemic, Constructing, epistemic normativity",1,2014
+1169,-1,"paper, argue, knowledge, awareness, account",188,2015
+1170,0,"morality, property owning, normative, egalitarianism, expressivism",67,2015
+1171,1,"credences, evidence, rational, epistemic, credence",41,2015
+1172,2,"mathematics, Hungarian project, infinita, categorematic syncategorematic, categorematic",22,2015
+1173,3,"normative, OIC, ought, terms, internalism",20,2015
+1174,4,"atomic, formation testing, representationally atomic, representationally, mechanistic",7,2015
+1175,5,"modal, modalism, individuals, modality, properties",12,2015
+1176,6,"decision, decision theory, BT, functions model, permissible according",4,2015
+1177,7,"mechanics, quantum mechanics, quantum theory, theory, Turing",21,2015
+1178,8,"presentists, times, moving spotlight, nefarious presentists, truths past",12,2015
+1179,9,"selection, natural kinds, Darwin, emergence, science",16,2015
+1180,10,"indexicals, utterance, logic context, light Hobbes, circumstances utterance",8,2015
+1181,11,"ES, inductive risk, knowledge level, Sect, level justification",4,2015
+1182,12,"causation, direct type, variables, level causation, shocks",6,2015
+1183,13,"relativism, contextualism, semantic blindness, knowledge, knowledge claims",9,2015
+1184,14,"manifestationalism, scientific, contemporary scientific, realists, realist thesis",8,2015
+1185,15,"empty space, absence perception, multisensory, perception, ones visual",3,2015
+1186,16,"inquisitive, validity, Baumgartner, logic, relevance logic",9,2015
+1187,17,"constituent ontology, stuff, proper parts, constituent, fundamental concrete",9,2015
+1188,18,"moral responsibility, blameworthiness, praise, practices, Beings",7,2015
+1189,19,"meta emotions, disgust, emotions, arational actions, shame violence",7,2015
+1190,20,"New Challenge, substance, group entities, substance materialism, dualism",5,2015
+1191,21,"epistemicist, theory vagueness, vagueness, Williams, epistemicist behalf",2,2015
+1192,22,"considered beliefs, Implicit attitudes, objectification, implicit attitudes, attitudes",3,2015
+1193,23,"surface colour, colour, perceptual content, choice opting, conclusion surface",3,2015
+1194,24,"embodied mind, organisms, Phineas Gage, mind account, composition",3,2015
+1195,25,"fiction, imaginative, imaginative desires, literary, fictional",7,2015
+1196,26,"knowledge closure, knowledge, Ignorance Puzzle, Ignorance, New Ignorance",7,2015
+1197,27,"peers, deference, peer disagreement, conciliationism, divergentism",10,2015
+1198,28,"style, artistic style, aesthetic, artistic, personal style",2,2015
+1199,29,"heaven, God, free suffering, Father Brown, religion",4,2015
+1200,30,"prospection, freedom, indeterminist, indeterminist free, belief indeterminist",7,2015
+1201,31,"Hume, perceptions form, collusive, Hume provides, maximally strong",3,2015
+1202,32,"esoteric, exoteric, Wittgenstein, esoteric exoteric, Leibniz",5,2015
+1203,33,"space, affection, Kant, intuition, formal intuition",4,2015
+1204,34,"perceptions, veridicalism, perceptual beliefs, inner sense, beliefs",5,2015
+1205,35,"conditionals, kinds conditionals, modus ponens, expressivistic, pragmatic constraint",3,2015
+1206,36,"ontology, including stuff, commands us, predicate functors, ones ontology",4,2015
+1207,37,"content, introspectively know, switch, skeptic immune, subject introspectively",3,2015
+1208,38,"paradoxes, accounts paradoxes, different pathologies, soritical paradoxes, though impossible",4,2015
+1209,39,"follows physical, many supervenient, causation solve, physical effect, properties physical",2,2015
+1210,40,"courage, cowardice, influence appetite, ignorance fearful, instability belief",2,2015
+1211,41,"epistemic logic, dynamic, new information, dynamic epistemic, raising resolving",4,2015
+1212,42,"virtue epistemology, virtues, cognitive achievement, virtue, indubitable knowledge",5,2015
+1213,43,"circular reasoning, knows BIV, sensible epistemologist, Mooreans, Disjunctivism",3,2015
+1214,44,"group knowledge, Bratman, social epistemology, world collectives, booming interest",3,2015
+1215,46,"laws, Humeanism, principle, Humean principle, Locke",7,2015
+1216,47,"knowledge, To know, practical senses, practical, modes presentation",6,2015
+1217,48,"explanations, explanatory, causal approach, need explanation, Unification",5,2015
+1218,49,"thought experiments, role thought, philosophical, philosophical intuitions, intuitions",4,2015
+1219,50,"propositions, hyperintensional, structured concepts, sets worlds, individuation",7,2015
+1220,51,"folk intuitions, teleological view, view persistence, operate, teleological",1,2015
+1221,52,"testifiers, testimony, problem testimony, position argues, testimony without",1,2015
+1222,53,"goal relations, cognitively undemanding, joint action, pattern, enable agents",1,2015
+1223,54,"practical knowledge, Anscombes claims, Aquinas develop, Thomistic understanding, contrary rest",1,2015
+1224,55,"knowledge account, assertion, existentially known, knowledge norm, simple knowledge",5,2015
+1225,56,"involving truths, attractive solution, metatheoretic, Leon, theory truth",3,2015
+1226,57,"engineering, theories engineering, falsification engineering, growth knowledge, knowledge engineering",2,2015
+1227,58,"animals, needless suffering, speciesism, matter injustice, death non",1,2015
+1228,59,"memory, diary, seeing rain, episodically remembering, rain experience",2,2015
+1229,60,"dispositional, theories dispositions, potential causal, dispositionalism, dispositional predicates",7,2015
+1230,61,"assignment, semantic, belief reports, semantic value, unsaturated semantic",5,2015
+1231,62,"hallucination, hallucinations, hallucinations degenerate, perceptual experience, veridical perceptual",2,2015
+1232,63,"Descartes, corpuscular mechanics, corpuscular mechanical, interpretation cogito, empiricist interpretation",2,2015
+1233,64,"intent deceive, deception, universal deception, deceive, asserts one",2,2015
+1234,65,"existence determination, ontological argument, self interest, Spinozas, constructivism",5,2015
+1235,66,"Annalisa Coliva, self knowledge, parsimony presents, possessor, Rümelin Christopher",2,2015
+1236,67,"internal relation, part essay, relation sense, logic ground, ground presence",1,2015
+1237,68,"scientific representation, models give, give access, world relations, model world",3,2015
+1238,69,"Naturalism, sense science, metaphysics, Naturalism methodology, Locavore hypothesis",4,2015
+1239,70,"social pain, pain posit, pain asymbolia, unpleasant, patients",4,2015
+1240,71,"Sleeping Beauty, Sleeping, Beauty problem, decision, Dutch book",4,2015
+1241,72,"chance, propensity, stochastic mechanisms, epistemic probability, objective chance",2,2015
+1242,76,"essentialism principle, said matter, revisit Katzav, problematic dispositional, Ellis arguments",1,2015
+1243,77,"higher order, order theories, HOROR theory, sensory states, consciousness",3,2015
+1244,78,"Über Sinn, ground utterance, rejects approach, form understood, puzzle cognitive",1,2015
+1245,79,"wide scope, scope requirements, credal disagreement, disagreement, requirements rationality",4,2015
+1246,80,"epistemic luck, moral luck, luck epistemology, epistemic, theory luck",5,2015
+1247,81,"Moorean, anti sceptical, transmission, paradox, defence possible",2,2015
+1248,82,"negative truths, Section, Truthmaker Maximalism, truthmakers, Maximalism",4,2015
+1249,83,"judgments responsibility, Frankfurt, us agent, accept compatibilism, influential challenge",1,2015
+1250,84,"Fridland, sensory, awareness, FoA hypothesis, bodily action",7,2015
+1251,85,"Zygote Argument, deterministic laws, exercise power, free action, laws",2,2015
+1252,86,"Demonstrative Model, Rule Model, self ascriptions, ascriptions mental, Demonstrative",3,2015
+1253,87,"successor, omission, exercise resurrect, philosophy object, oversimplification successor",1,2015
+1254,-1,"paper, argue, Prior, properties, objects",183,2016
+1255,0,"moral, debunking, moral beliefs, consent, normative",57,2016
+1256,1,"credence, credences, Bayesianism, beliefs, rational",32,2016
+1257,2,"indispensability, mathematics, indispensability argument, Hilbert, Frege",28,2016
+1258,3,"normative, intentions, normative reasons, normative requirements, bootstrapping objection",29,2016
+1259,4,"cognitive, neuroscience, representational, neural, Clarks argument",17,2016
+1260,5,"Prior, modality, modal scepticism, contingentists, Hawke",18,2016
+1261,6,"decision, decision theory, theory, game, conditional choice",22,2016
+1262,7,"quantum, local causality, Bell inequalities, entanglement, quantum states",6,2016
+1263,8,"Prior, tense, presentism, logic, temporal",15,2016
+1264,9,"biology, evolutionary, stem, mechanical explanations, stem cell",6,2016
+1265,10,"demonstratives, King theory, linguistic data, speaker based, Prior Geach",6,2016
+1266,11,"frequentist, mean improbable, importance random, extreme mean, frequentist approach",2,2016
+1267,12,"causal, causation, variables, Bayes nets, causal Bayes",13,2016
+1268,13,"evidential support, evidential, truth relativism, relativism, support statements",7,2016
+1269,14,"scientific, scientific realism, FA, theoretical, scientific knowledge",4,2016
+1270,15,"seeing, perception, Necker cube, perceptual, unconscious perception",8,2016
+1271,16,"logic, rules, Ripley, truth tables, Curry",14,2016
+1272,17,"whole compose, universalism, universalism plenitudinous, extensionalism, mereological universalism",5,2016
+1273,18,"deep self, attributability, moral responsibility, responsibility, blameworthiness",8,2016
+1274,19,"disgust, demonstration disgust, authority disgust, relevant properties, emotions",3,2016
+1275,20,"physicalism, ideal physics, role theory, physics, physicalism requires",5,2016
+1276,21,"subvaluationism, truth sharpenings, sharpenings truth, exclude knowledge, vagueness",2,2016
+1277,22,"feminist, sexual orientation, Etiological, implicit biases, biases",6,2016
+1278,23,"generis properties, contents color, shape color, color mind, colors",4,2016
+1279,24,"biological, contradictory properties, intuitive verdicts, identity, biological case",4,2016
+1280,25,"narrative, creativity, representations, HRR operations, convolution",6,2016
+1281,26,"knowledge, functionalist theories, proper functionalist, premise closure, iteration",8,2016
+1282,27,"conciliationism, conformism, epistemic significance, possible disagreement, strong non",4,2016
+1283,28,"beauty, beauty object, thought beauty, object love, interest beauty",2,2016
+1284,29,"diary entry, satisficing, Prior, appropriateness satisficing, enough",3,2016
+1285,30,"agent causal, causal, libertarian, causal libertarians, causal theory",6,2016
+1286,31,"Aristotles, Aristotle tells, Aristotelian induction, Aristotles broader, cognitive ideal",2,2016
+1287,32,"context sensitivity, Wittgenstein, idea context, grammar, philosophical",1,2016
+1288,33,"Kant, virtue aim, represent ways, awareness intentional, Kant promises",1,2016
+1289,34,"Factualism, Phenomenalism, cognitive penetration, knowledge, Perceptual Fundamentalists",9,2016
+1290,35,"ways conditionals, nested whether, home work, behavior, indicative",3,2016
+1291,36,"ontologists, chairs, Dorr, claims, claim chairs",1,2016
+1292,37,"concept expresses, content, content externalism, externalism, expresses depend",1,2016
+1293,38,"Horwich theory, His approach, liar paradox, paradox, scheme remains",2,2016
+1294,39,"mental causation, causal powers, causation productive, productive relation, theory realization",4,2016
+1295,40,"McCabeMary Margaret, Conversations, Conversations McCabeMary, Margaret Oxford, McCabeMary",1,2016
+1296,41,"Boolean games, action models, graphs, temporal action, dependency graphs",3,2016
+1297,42,"virtues, virtue reliabilism, skills, expertise, expertise requires",4,2016
+1298,43,"skepticism, simpliciter skepticism, sceptical, biscopic proposal, accept good",5,2016
+1299,44,"joint intention, group agents, joint action, collective action, action theories",3,2016
+1300,45,"counterfactuals, causal counterpossibles, counterpossibles, counterfactual, determinism",4,2016
+1301,46,"composition, Humean supervenience, science generalizations, gunk, indiscernibility",2,2016
+1302,47,"knowledge, knowledge knowledge, knowledge wh, knowing something, se knowledge",6,2016
+1303,48,"extra, structural explanation, extra mathematical, abstractness, extra logical",3,2016
+1304,49,"expertise, experts, expertise defense, philosophical expertise, experimental philosophy",4,2016
+1305,50,"sunny, propositions Soames, symposium Propositions, act advantage, Replies symposium",3,2016
+1306,51,"endurantism, temporary intrinsics, persistence, endurantismperdurantism debate, Psimpliciter",5,2016
+1307,52,"audiences, response holds, recovery, epistemology testimony, theories testimony",5,2016
+1308,53,"socially extended, Extended Cognition, Cognition, Hypothesis, cognitive properties",1,2016
+1309,54,"intentional joint, rational capacities, agency, agential control, human agency",4,2016
+1310,55,"assertion, assertion express, joint action, express knowledge, norm assertion",6,2016
+1311,56,"deflationists, truthmaker, deflationary, asymmetry, mere abbreviation",5,2016
+1312,57,"conceptual analysis, knowledge meaning, concepts, concepts pluralistic, metaphilosophical view",3,2016
+1313,58,"death immortality, mode, philosophically familiar, distinguish attitude, developmental clinical",3,2016
+1314,59,"memory, episodic memory, memories, false memories, mnemonic",7,2016
+1315,60,"impossible dispositions, dispositions, counterpossibles, dispositionalist accounts, counterpossibles strategy",1,2016
+1316,61,"attitude attributions, attitudes, objects attitudes, non propositional, propositional attitudes",2,2016
+1317,62,"singular content, naïve, content view, experience singular, perceptual experience",4,2016
+1318,63,"Descartess, Descartess perplexing, scholastic conception, perplexing use, moral possibility",1,2016
+1319,64,"lying misleading, genuine instances, bald faced, faced lies, intent deceive",2,2016
+1320,65,"monads, Leibnizs, bodies, extended, primitive forces",3,2016
+1321,66,"transparency, premise, beliefs, self knowledge, belief transparency",3,2016
+1322,67,"entities, third claim, fundamental entities, entity fundamental, fundamentality",6,2016
+1323,68,"Baron, idealization, explanatory load, carry explanatory, symmetry",3,2016
+1324,69,"metaphysics, Deweys views, rules, conception subject, formulations realism",4,2016
+1325,70,"eliminativism, eliminativism pain, term eliminated, aversive, eliminated scientific",2,2016
+1326,72,"reductionist accounts, accounts chance, ABSTRACTA popular, theories relevant, applied physical",2,2016
+1327,73,"coherence, degree coherence, overlap measure, naive overlap, set",2,2016
+1328,76,"quidditism, natural properties, Humility, Platonic, quidditism entails",3,2016
+1329,77,"sense alternatives, alternatives widespread, mistakes two, call affective, empty uninformative",2,2016
+1330,78,"therein develop, Trueman set, centrally implicated, identities objects, concept referred",1,2016
+1331,79,"modal auxiliaries, auxiliaries, polysemous, epistemically possible, equivocation",3,2016
+1332,80,"luck, luck epistemology, anti luck, risk epistemology, anti",3,2016
+1333,81,"akratic, akratic belief, tokens sentence, possibility akratic, sentence type",2,2016
+1334,83,"actual sequence, style cases, alternative possibilities, states acting, model states",2,2016
+1335,84,"perceptual, action, form enactivism, agentive control, constitutively interdependent",3,2016
+1336,85,"Case Argument, Four Case, manipulation arguments, manipulation, McKenna objection",3,2016
+1337,86,"Shoemaker view, Liang, somatoparaphrenia Body, Swap Illusion, way thinking",3,2016
+1338,87,"NFM, Quine, conception NFM, transcript, Quine conception",2,2016
+1339,-1,"argue, Carnap, paper, belief, truth",249,2017
+1340,0,"good, paternalism, dignity, argue, morality",86,2017
+1341,1,"IBE, belief, epistemic, doxastic control, Bayesian",47,2017
+1342,2,"mathematical, structure, maximality, reformulations, minimal explanation",18,2017
+1343,3,"normative, satisficing, ought, constitutive aim, Engel",18,2017
+1344,4,"cognitive, cognition, physically realized, niche theories, realized notebook",14,2017
+1345,5,"necessity, modally valid, grained, theory function, merely possible",16,2017
+1346,6,"decision theory, causal decision, reason bake, dependent utility, option",15,2017
+1347,7,"quantum, quantum mechanics, idealizations, Separability, category",13,2017
+1348,8,"time, present simpliciter, presentism, change, theory",14,2017
+1349,9,"biological, biological sciences, teleology, functions, Teleological Individualism",12,2017
+1350,10,"literal, interpretation, film, presupposition, context",13,2017
+1351,11,"objectivity, placebo, epistemic, academic, treatments",12,2017
+1352,12,"causation, causal, actual causation, causal relata, structuralist",13,2017
+1353,13,"aesthetic adjectives, aesthetic, moderate invariantism, contextualism, modals",6,2017
+1354,14,"realism, scientific, scientific realism, theories, miracles argument",14,2017
+1355,15,"Edenic shapes, perceptual, sensory phenomenology, perceptual experience, restrictive view",14,2017
+1356,16,"logics, skeptical challenge, Harmans skeptical, theory situated, situated inference",3,2017
+1357,17,"parthood, Extensionality, Unrestricted Composition, perfectly, granting Varzis",8,2017
+1358,18,"responsibility, moral responsibility, liability, interdependence thesis, theory moral",11,2017
+1359,19,"disgust, normativity emotions, imagination supposition, emotions might, sentimental perceptualism",6,2017
+1360,20,"materialism, Cs premises, false consciousness, physicalism, conceivability argument",7,2017
+1361,21,"vagueness, tall, unbelievers, sorites paradox, order vagueness",17,2017
+1362,22,"feminist, metaphysics, feminist metaphysics, social construction, race",8,2017
+1363,23,"Chirimuutas, colors, primary qualities, Incompatibility Realism, comparative version",7,2017
+1364,24,"criterialism, anti criterialism, animalism, identity, dualism",5,2017
+1365,25,"fiction, imagination, Kierkegaard, Reality Assumption, fictions",10,2017
+1366,26,"fallible reasons, accept fallibilism, fallibilism basis, basis reasons, whether accept",3,2017
+1367,27,"Permissivism, peer, disagreement, peer review, deference",8,2017
+1368,28,"Poincaré, aesthetic judgement, aesthetics, aesthetic, perception",3,2017
+1369,29,"theological, Palamas, collection, theology, orientation",3,2017
+1370,30,"agent causation, Pereboom, freedom, compatibilist, free belief",7,2017
+1371,31,"Hume, common sense, dispositions, notion self, perceptions",3,2017
+1372,32,"Language, ordinary sensations, presupposition partial, point reaching, object mirrors",2,2017
+1373,33,"Kant, progression, idealism, cognition narrow, perceptual consciousness",8,2017
+1374,34,"looks judgments, judgments, agent theory, propositional seemings, epistemically prior",5,2017
+1375,35,"conditionals, Bradley, modus ponens, conditional beliefs, beliefs purely",4,2017
+1376,36,"representationalist, metalinguistic, Global expressivism, verbal, placement",3,2017
+1377,38,"paradoxes, propositions, Liar Paradox, referential propositions, definiendum",4,2017
+1378,39,"properties mental, causal powers, distinctness, emergent conscious, relational",5,2017
+1379,40,"Marinella, liberum arbitrium, intellectual determinism, men, intellectual",2,2017
+1380,41,"metabolic revision, multiple revision, belief state, evaluative multiple, implausible information",1,2017
+1381,42,"virtue, cognitive, mindedness, open mindedness, virtues",11,2017
+1382,43,"vat argument, skepticism, closure scepticism, envatted, cut external",3,2017
+1383,44,"social, social beliefs, solitary, social intentionality, collective actions",6,2017
+1384,45,"Hiddleston, three observations, antecedent, theory counterfactuals, backtracking counterfactuals",3,2017
+1385,46,"laws universal, Block view, universal generalizations, Humeanism, Humean Supervenience",5,2017
+1386,47,"knowledge, intellectualism, ability, skills, gradability",9,2017
+1387,48,"unification, layered structure, dependent determined, structure dependence, resemblance questions",4,2017
+1388,49,"normative principle, experimental philosophy, experimental explication, standards govern, empirical observation",3,2017
+1389,50,"structured, propositions, negation, litotes, constituents",6,2017
+1390,51,"Four Dimensionalism, Dimensionalism, Four, formulations Four, theory persistence",3,2017
+1391,52,"indirect, testimony, audience, epistemic state, knowledge",2,2017
+1392,53,"social cognition, empathy, mindreading, cognition, abilities",9,2017
+1393,54,"basic action, putative basic, ethical psychological, physical ethical, psychological intellectual",4,2017
+1394,55,"knowledge norm, conversational implicature, assertions, condition warranted, assertives",5,2017
+1395,56,"deflationism, deflationism Section, Section considers, essay argues, deflationist",2,2017
+1396,58,"grief, mortality, griefs rationality, animals, episode grief",4,2017
+1397,59,"memory, personal identity, t2, external information, diachronic self",3,2017
+1398,60,"Lewis analysis, conditional analyses, analysis, lacks dispositions, fail rest",1,2017
+1399,61,"cognitive relation, propositional attitudes, Theory, normative perspectival, conceived robust",2,2017
+1400,62,"naïve realism, phenomenally similar, realism, Mehta argument, Competence View",5,2017
+1401,63,"Descartes, Meditations, deceiver, Weinberg, realize true",4,2017
+1402,64,"lying, Keiser, believes false, common ground, propose become",3,2017
+1403,65,"Plotinus, Spinoza, causation inherence, inherence, ontological independence",2,2017
+1404,66,"self knowledge, knowledge others, beliefs transparent, account self, self blindness",5,2017
+1405,67,"Explanatoriness, relation ground, explanation grounding, metaphysical, notion grounding",3,2017
+1406,68,"scientific representational, representational, means end, similarity, models fictions",3,2017
+1407,69,"empirical claims, intersubjectively, validating, composition, beings",3,2017
+1408,70,"level, psychological social, empirical findings, pain, debates superiority",4,2017
+1409,71,"Oscar Seminar, argument 13, argue Oscar, collectively Oscar, colleagues advance",1,2017
+1410,73,"coherence, probabilistic measures, measures coherence, categorically coherent, relationship coherence",3,2017
+1411,74,"Moorean propositions, Fitch Paradox, probabilistic, propositions, probabilistic Moorean",1,2017
+1412,75,"theoretical identities, natural, identities grounds, paradigm terms, necessity theoretical",2,2017
+1413,76,"views concerning, MaxCon, dispositional properties, reality, nomological",2,2017
+1414,77,"SIL property, conscious experience, philosophically, philosophical construal, reduction conscious",1,2017
+1415,78,"Frege theory, Frege, theory fiction, declarative sentences, sentences",2,2017
+1416,79,"presupposition, presupposition trigger, truth conditional, classical logic, synonymous actuality",4,2017
+1417,82,"negative truths, truth functional, truthmaker theory, falsity atomic, truthmaking",4,2017
+1418,83,"Spencer, Frankfurt style, grained response, time travel, travel case",2,2017
+1419,84,"motor control, automatic, control, bottom brute, brute causal",3,2017
+1420,85,"Manipulation Arguments, Manipulation, determinism, compatibilists nervous, causal sourcehood",2,2017
+1421,86,"Immunity thesis, thought insertion, personal identity, phenomenon thought, analytic taxonomy",2,2017
+1422,87,"dichotomy, eight categories, categories, statements, modal categories",1,2017
+1423,-1,"paper, view, theory, truth, argument",258,2018
+1424,0,"moral, disability, normative, rights, argue",90,2018
+1425,1,"justification, belief, epistemic, evidence, principles",63,2018
+1426,2,"mathematical, ante rem, mathematical practice, definitions, Cicada MES",18,2018
+1427,3,"rationality, reasoning, competition, normative necessity, attitudes",22,2018
+1428,4,"cognition, affordances, predictive processing, coding, perception",29,2018
+1429,5,"modality, imaginings, metaphysical, Normative Focus, essences",19,2018
+1430,6,"rational choice, rational, WAR, theory, decision theory",10,2018
+1431,7,"mechanics, quantum, without spacetime, spacetime, quantum mechanics",5,2018
+1432,8,"moving, robust passage, block universe, temporal, dinosaurs",15,2018
+1433,9,"natural kinds, biological, network, topological explanations, explanations",27,2018
+1434,10,"omission, word, demonstrative, operators character, changes",9,2018
+1435,11,"RI, scientists, interdisciplinary, climate, data",19,2018
+1436,12,"regularities, causal regularities, causal, causation, Woodward",11,2018
+1437,13,"ambiguity theory, implicatures, relativism, assessment relativism, polysemy theory",8,2018
+1438,14,"scientific imperialism, scientific, specialization, imperialism paper, scientific perspectivism",5,2018
+1439,15,"perception, experience, shape experience, picture perception, perceptual",11,2018
+1440,16,"logic, translation argument, criterion, consequence relation, deontic logic",12,2018
+1441,17,"mereology, parts, structural properties, thing many, bundle",10,2018
+1442,18,"responsibility, innovators, moral responsibility, accountability, forms responsibility",11,2018
+1443,19,"disgust, emotions, affective evaluative, affect disclosure, valence",11,2018
+1444,20,"consciousness, physicalism, sensible qualities, reductive realist, intrinsically valuable",7,2018
+1445,21,"indeterminacy, truth value, epistemicists, valued semantic, semantic pluralism",5,2018
+1446,22,"racial, folk racial, racial categories, race, conceptual practices",10,2018
+1447,23,"color experiences, hue structure, uniquebinary, color, experiences",2,2018
+1448,24,"platitude, theoreticians dilemma, intended reading, matters survival, responsible many",2,2018
+1449,25,"Zhuangzi, fictionalist, omissions, religious beliefs, fictionalism",8,2018
+1450,26,"closure, single premise, premise closure, Swampman, design plan",10,2018
+1451,27,"peer disagreement, disagreement, conciliatory, simulation, peers",10,2018
+1452,28,"aesthetic, aesthetic judgment, art, gestalt effects, Aesthetic judgment",9,2018
+1453,29,"Kripshe, gods, value bearers, atheism, God exists",4,2018
+1454,30,"neural matters, Causation Free, laws, Free Will, Causation",4,2018
+1455,31,"Enquiry, scepticism, grue, Riddle, Hume",4,2018
+1456,32,"Wittgenstein, philosophical pictures, later philosophy, philosophical, clarification",2,2018
+1457,33,"two object, object interpretations, Kant, things appearances, general logic",4,2018
+1458,34,"beliefs, Rationality Perception, perceptual, wishful seeing, Rationality",13,2018
+1459,35,"entail simplifications, indicative counterfactual, logical form, antecedent, antecedent conditionals",3,2018
+1460,36,"Thomasson, ontology, ontological, ontological disputes, constituent relational",5,2018
+1461,37,"externalism, problem, Closure, principle Closure, Meta Coherence",4,2018
+1462,38,"self referential, paradoxes, denial, dependence, Liar reasoning",8,2018
+1463,39,"dualism, causal, mental events, physicalism, argument dualism",5,2018
+1464,40,"Aquinas, Association, teaching philosophy, Aquinas theory, precept",3,2018
+1465,41,"iterated announcements, true lie, planning AI, true announced, semantics based",3,2018
+1466,42,"virtue, virtue epistemology, intellectual vice, Virtue Epistemology, Virtue",6,2018
+1467,43,"scepticism, radical scepticism, epistemological disjunctivist, Moorean style, based radical",4,2018
+1468,44,"mandevillian intelligence, intelligence, agency, concept mandevillian, notion mandevillian",4,2018
+1469,45,"algorithmically decidable, decidable, theory counterfactuals, similarity, Pedro dance",6,2018
+1470,46,"transitivity principle, self explanation, laws nature, prohibition, System",4,2018
+1471,47,"knowledge, practical knowledge, maker knowledge, knowing, species theoretical",7,2018
+1472,48,"explanatory realism, non causal, explanations, narratives, cognitive sciences",8,2018
+1473,49,"philosophers, language philosophy, typical judgements, judgements thought, philosophical practice",5,2018
+1474,50,"propositions, metaphysics propositions, objects beliefs, core ideas, paradoxes",5,2018
+1475,51,"temporal parts, temporal, Stuchlik 2003, 2003 objects, parts Joshua",1,2018
+1476,52,"PET, testimonial, reductionism, experts, expert interest",3,2018
+1477,53,"executive, functioning, executive functioning, paper clears, literature executive",1,2018
+1478,54,"power affect, volitionalism, corporealism, agency power, actions",7,2018
+1479,55,"assertibility, quantifiers, linguistic, arbitrary assertion, superlative quantifiers",5,2018
+1480,56,"success, individualised explanations, facilitates practical, coincidental instances, belief facilitates",2,2018
+1481,57,"philosophical analysis, analysis, philosophical, philosophical analyses, successful philosophical",2,2018
+1482,58,"grief, concept life, life worth, diminution grief, lives meaningful",4,2018
+1483,59,"memory, memory beliefs, reconstructive, beliefs, cognitive mechanisms",4,2018
+1484,61,"Sharon funny, Simon believes, de attitude, content, attitude reports",4,2018
+1485,62,"perceptual states, hallucinations, perception cognition, perceptual, factor relational",2,2018
+1486,63,"Descartes, Meditations, infallible knowledge, sensory ideas, knowledge",3,2018
+1487,64,"credibility, diminished credibility, cases telling, self evaluation, inflated credibility",4,2018
+1488,65,"Descartes, Spinoza, whereas Spinoza, substance pluralism, conception substance",2,2018
+1489,66,"de se, se belief, uniquely de, self knowledge, necessary",4,2018
+1490,67,"theoretic, ground theoretic, counterpart, grounding discourse, superinternality thesis",7,2018
+1491,68,"abstraction, idealization, thick account, modeling, abstractness",7,2018
+1492,69,"fundamentality based, matter fails, dismissive attitude, Semantics Ontology, fundamental reality",2,2018
+1493,72,"synchronic probabilities, modal contingentism, contingentism, scientific theories, probability",2,2018
+1494,74,"knowability, epistemic statements, believability, knowability principle, generalisations",3,2018
+1495,75,"jade, kind terms, NK term, terms rigid, rigid designators",3,2018
+1496,76,"DE, basic physical, physical properties, dispositional essences, space possibilities",3,2018
+1497,77,"HO theories, subject experience, awareness, misrepresentation, awareness argument",5,2018
+1498,78,"provisos, notion judgement, whereas Frege, Kant Frege, files",6,2018
+1499,79,"epistemic possibilities, raining, addition quantifying, seeming anomaly, arises mistaken",1,2018
+1500,80,"luck, epistemic luck, epistemic defeater, epistemic, internalist externalist",6,2018
+1501,81,"Modesty, supposes believe, inconsistent beliefs, beliefs false, one beliefs",1,2018
+1502,82,"truthmaker, truthmaker theory, truthmaking, aboutness based, truthmaker theorists",3,2018
+1503,83,"Principle Alternate, ability otherwise, argue Frankfurt, examples follows, rejects Principle",2,2018
+1504,84,"bodily, bodily awareness, bodily action, awareness condition, intelligent guidance",2,2018
+1505,85,"Sartorio, Todd, manipulated agent, moral responsibility, Free Will",4,2018
+1506,86,"multiple others, intersubjective interactions, plural subject, plural, person",2,2018
+1507,87,"Quine, question mark, naturalism, exceptions explained, meaning change",3,2018
+1508,-1,"epistemic, theories, view, information, argument",351,2019
+1509,0,"normative, morality, duties, argue, ethical",108,2019
+1510,1,"epistemic, belief, accuracy, epistemic reasons, norms",56,2019
+1511,2,"mathematics, Frege, proofs, geometry, axioms",45,2019
+1512,3,"reasons, ought, desires, normative, requirements",15,2019
+1513,4,"cognition, cognitive, environment, cognitive science, representational",34,2019
+1514,5,"metaphysical, necessity, modality, modal metaphysics, metaphysical modality",19,2019
+1515,6,"decision theory, uncertainty, rationality, causal decision, heuristics",17,2019
+1516,7,"spacetime, measurement, quantum gravity, dualities, theory",25,2019
+1517,8,"temporal, irreducible relations, time, temporal character, temporal experience",16,2019
+1518,9,"plant, biological, kinds, behaviour, generative",16,2019
+1519,10,"convention, semantic, readings, Carla, indirect requests",15,2019
+1520,11,"medicine, epidemiology, evidence, social, philosophy epidemiology",41,2019
+1521,12,"causal, suppositional credences, causation, causally, heritability",9,2019
+1522,13,"contextualism, invariantism, egocentric bias, indexical contextualism, motivation epistemic",4,2019
+1523,14,"scientific, realism, scientific realism, systematicity, scientists",30,2019
+1524,15,"perception, content schemas, analog, gappy contents, spatial",16,2019
+1525,16,"logic, proof, consequence relations, logics, entailment",18,2019
+1526,17,"Composition, nothingness, Composition Identity, parthood, Identity",16,2019
+1527,18,"responsibility, blame, moral responsibility, moral luck, blameworthy",19,2019
+1528,19,"emotions, pride, Buddhist, affective, shared emotions",11,2019
+1529,20,"scrutability argument, conscious experience, phenomenalism, modal rationalism, priori",2,2019
+1530,21,"tolerance, extrinsic object, One proposed, vagueness particular, appeals tolerance",1,2019
+1531,22,"misogyny, social groups, women, implicit bias, discrimination",18,2019
+1532,23,"color, sensuous color, colourings, visually appears, color realism",5,2019
+1533,24,"persist, groups persist, fission cases, stage theory, social groups",2,2019
+1534,25,"imagination, imaginative, fiction, mental imagery, fictional reports",8,2019
+1535,26,"know, normality, KK principle, deviant realizations, disregard future",5,2019
+1536,27,"peers, disagreements, permissivism, epistemic, epistemic peers",14,2019
+1537,28,"aesthetic, artworks, Merit, art, aesthetically flawed",9,2019
+1538,29,"religious, God, therapeutic, pluralistic hypothesis, conception God",6,2019
+1539,30,"contemporary free, indeterminism, causal, free debate, libertarianism",8,2019
+1540,31,"quasi realist, light science, rejection metaphysical, Hume causation, Shepherds theory",4,2019
+1541,32,"Wittgenstein, Kripke Wittgenstein, Wittgensteinian, reductive dispositionalism, Wittgenstein thoughts",6,2019
+1542,33,"Kant, aesthetic, idealism, aesthetic autonomy, form idealism",7,2019
+1543,34,"presentational phenomenology, dogmatism, Locke, perception, known illusions",8,2019
+1544,35,"IMPORT EXPORT, conditional assertion, conditionals, doxastic dependence, modus",5,2019
+1545,36,"ideology, externalist criteria, Ontology, ontology, theory ideology",8,2019
+1546,37,"Demon Problem, Internalists, Evil, externalism, epistemic property",5,2019
+1547,38,"paradoxes, Liar sentence, Liar paradox, standard revenge, Tt",5,2019
+1548,39,"revised argument, counterpart theory, physicalism, causal exclusion, causation Kim",3,2019
+1549,40,"would teach, Knowledge Truth, profundity things, vast profundity, Did compare",2,2019
+1550,41,"axiomatizations three, three logics, multi agent, logics, announcements",4,2019
+1551,42,"intellectual, virtue, intellectual virtue, open mindedness, mindedness",3,2019
+1552,43,"vat argument, deceived, premises, skepticism, ordinary language",3,2019
+1553,44,"group, consciousness, social understanding, agency, group belief",9,2019
+1554,45,"semantics, counterpossibles, vacuously true, vacuism, counterfactuals",5,2019
+1555,46,"laws, scientific metaphysical, Humean laws, cosmic coincidence, Humean mosaic",5,2019
+1556,47,"knowledge, intellectualist, intellectualist views, joint know, propositional knowledge",9,2019
+1557,48,"methodological individualism, methodological, individualism holism, holism debate, explanatory asymmetry",3,2019
+1558,49,"stereotypical inferences, contextually inappropriate, evidential value, hacking, oriented accounts",3,2019
+1559,50,"propositions, procedures, structured propositions, act type, unity proposition",17,2019
+1560,51,"endurantist, colocation, proper temporal, material entities, temporal parts",3,2019
+1561,52,"testimonial worth, yielding communication, knowledge yielding, judgments testimonial, interlocutors",2,2019
+1562,53,"empathy, Stueber, agential empathy, others actions, cognition",5,2019
+1563,54,"intention, intentional action, action rationalizations, authority intention, proximal intentions",7,2019
+1564,55,"assertion, certainty, propositional certainty, speakers assert, Knowledge Norm",4,2019
+1565,56,"deflationism, truthmaking, formal setting, semantic deflationism, conservativeness argument",3,2019
+1566,57,"conceptual, revisions, successful conceptual, conceptual engineering, conceptual analysis",1,2019
+1567,58,"suffering, animals, inanimate, speciesist belief, dispute deprivationism",4,2019
+1568,59,"memory, confabulation, Constructivism, errors, cognitive mechanisms",5,2019
+1569,60,"disposition ascriptions, ascriptions, natural kind, iv 262, generic ks",3,2019
+1570,61,"verbs, propositional attitude, attitude verbs, proposition descriptions, complements propositional",1,2019
+1571,62,"naïve realism, SFK, realism, internal dependence, hallucinatory experience",6,2019
+1572,63,"Descartes, surfaces, McMullin, III, Descartes uses",4,2019
+1573,64,"deception, lies, lyingmisleading, counts lie, requires deceiver",11,2019
+1574,65,"human minds, Spinozas, minds bodies, properties bodies, bodies Spinoza",1,2019
+1575,66,"introspection, world directed, directed question, data, attitudes",5,2019
+1576,67,"ground theoretic, theoretic equivalence, grounding plays, sentences, metaphysical explanation",8,2019
+1577,68,"scientific, scientific representation, dissimilarity, representational use, scientific representational",7,2019
+1578,69,"cosmology, substances, ground cosmology, metaphysics last, metaphysics",3,2019
+1579,70,"unpleasantness, affective phenomenal, pains unpleasantness, imperative content, imperativism",6,2019
+1580,71,"Double Halfers, partial theory, Sleeping Beauty, direct inference, Beauty problem",3,2019
+1581,72,"theoretical virtues, level chances, robustly best, exchange rate, tied best",1,2019
+1582,73,"relative overlap, coherence, coherent, overlap measures, coherent books",3,2019
+1583,74,"master argument, sentential reference, Prior Mackie, plausibility depends, Berkeley master",3,2019
+1584,75,"rigidity, explanation Kripke, cum explanation, Kripkes notion, paradigm term",1,2019
+1585,76,"realists, realism powers, dispositional truths, question realism, Russellian Monism",3,2019
+1586,77,"Order theories, Higher Order, qualia epiphenomenalism, consciousness, theories",4,2019
+1587,78,"Geach problem, predication forceful, think predication, predication must, representation",1,2019
+1588,79,"epistemic modals, meaning dynamic, Wittgenstein sentences, sentences classically, classically inconsistent",4,2019
+1589,80,"luck, event lucky, epistemic probability, luck attributions, event significant",3,2019
+1590,81,"sort discuss, assertions, rationally asserted, beliefs oneself, similar rationally",1,2019
+1591,84,"action properties, aware action, distinction habit, automaticity, perceptual view",2,2019
+1592,85,"contrastive, causally undetermined, contrastive explanations, contrastive explanation, manipulation",2,2019
+1593,86,"use subject, corrective, ways thinking, self consciousness, self",2,2019
+1594,87,"Sign Object, Dogmas, documents show, books twentieth, entitled Sign",1,2019
+1595,-1,"epistemic, argue, account, understanding, mental",334,2020
+1596,0,"moral, normative, morally, virtue, act",93,2020
+1597,1,"belief, epistemic, credence, evidence, norm",78,2020
+1598,2,"mathematics, mathematicians, enculturation, mathematical practice, numeral",46,2020
+1599,3,"rationality, normative reasons, genealogies, ought, best theorem",20,2020
+1600,4,"cognition, neuroscience, neural, representations, cognitive science",39,2020
+1601,5,"metaphysical, distinction, necessity, logic, Predicate Calculus",15,2020
+1602,6,"Decision Theory, decision theory, Bradley, Theory, uncertainty",26,2020
+1603,7,"spacetime, quantum gravity, quantum theory, theories, entanglement",35,2020
+1604,8,"presentism, Bergson, temporal, travel scenarios, tense",18,2020
+1605,9,"cognizing, evolution, biological, evolutionary mismatch, multiple realization",13,2020
+1606,10,"Steering, Steering Thrust, Thrust, plurals, bare plurals",9,2020
+1607,11,"scientific, objectivity, social, philosophy science, sciences",19,2020
+1608,12,"causation, causal, intermediaries, causation grounding, Method Examples",10,2020
+1609,13,"relativism, contextualism, predicates personal, semantic discourse, Argument Principles",9,2020
+1610,14,"Kuhn legacy, instrumentalism, realism, Feyerabend, philosophical",6,2020
+1611,15,"perceptual, visual, stores, memory, memory stores",10,2020
+1612,16,"69pt begindocumentmathbf, begindocumentmathbf, Valenddocument, logic, usepackageupgreek setlengthoddsidemargin",7,2020
+1613,17,"parts, Composition, regionalism, grief utterances, feet",8,2020
+1614,18,"blameworthy, hypocritical, responsibility, moral ignorance, moral status",15,2020
+1615,19,"emotions, shame, emotional experience, affective, love",21,2020
+1616,20,"phenomenal properties, physical matter, Revelation, physicalism, modal argument",10,2020
+1617,21,"sorites reasoning, supersententialist, thick concepts, tolerance, Separabilism",5,2020
+1618,22,"sexual, bias, social, statistical evidence, gender",35,2020
+1619,23,"daylight, ostensivism, secondary qualities, challenge, nature colors",3,2020
+1620,24,"personal identity, concern, degree thesis, conjoined, Parfit",10,2020
+1621,25,"imagination, mental imagery, perception like, vividness, like imagination",9,2020
+1622,26,"KK, purism, closure principles, problematic consequence, relevant problematic",6,2020
+1623,27,"disagreement, epistemic, evidence, epistemic standing, peer disagreement",15,2020
+1624,28,"arts, process arts, artworks, art, artifact",5,2020
+1625,29,"Climenhaga, theistic multiverse, construction theistic, infinite value, value theory",4,2020
+1626,30,"causal libertarianism, agent causal, libertarianism, physical laws, run deviations",3,2020
+1627,31,"Hume, reductionist, Husserl, interpretation Hume, impressions",4,2020
+1628,32,"Wittgenstein, poverty darkness, character section, due self, sketch reading",2,2020
+1629,33,"Kant, progression, transcendental logic, transcendental, apperception",4,2020
+1630,34,"PCEJ, phenomenological, Siegel, inferential routes, Reckoning",6,2020
+1631,35,"indicative, indicative conditionals, Import Export, conditional, modus ponens",6,2020
+1632,36,"Laser, structural indeterminacy, existence like, ordinary language, verbal",8,2020
+1633,37,"externalism, internalism, ideology cases, access internal, ideology",4,2020
+1634,38,"paradoxes, signalman, dependence, analogous liar, finite paradoxes",6,2020
+1635,39,"causal closure, causal, complex theory, property complex, supervenient causation",5,2020
+1636,40,"virtue, Socrates, gradable adjectives, Parmenides 132b, sense Stoic",6,2020
+1637,41,"epistemic logic, encode, questions, dynamic epistemic, logic",1,2020
+1638,42,"Sosa, functional belief, virtue, belief judgmental, belief",7,2020
+1639,43,"begindocumenthbox, closureRKdocumentclass12ptminimal usepackageamsmath, closureRKdocumentclass12ptminimal, 69pt begindocumenthbox, usepackageupgreek setlengthoddsidemargin",3,2020
+1640,44,"collective, groups, Reids epistemology, critical social, social change",7,2020
+1641,45,"counterfactuals, counterfactual, consequent, counterpossibles, counterfactual scepticism",8,2020
+1642,46,"laws, Humeanism, Humean Supervenience, Super Humeanism, fundamental properties",11,2020
+1643,47,"Ryle, practical knowledge, practical skill, reduced propositional, intellectualism",3,2020
+1644,48,"explanations, explanation status, possibly explanation, fictional models, coincidences",8,2020
+1645,49,"method cases, expertise defence, philosophical, philosophical expertise, brittleness",7,2020
+1646,50,"propositions, card ace, content negation, Mary, propositional attitude",5,2020
+1647,51,"persistence judgments, Markosian, normative considerations, time, persistence",3,2020
+1648,52,"PET, testimonial, recordings, testimony, experts",7,2020
+1649,53,"mindreading, language, Theory Mind, human, shared agency",16,2020
+1650,54,"something intentionally, habitual action, inferentialism, scenarios majority, guise associated",5,2020
+1651,55,"Knowledge Norm, switching assertion, hypothesis assertion, standard justification, selfless assertions",5,2020
+1652,56,"language transcendent, language, non conservative, theory truth, immanent",2,2020
+1653,57,"conceptual engineering, engineering, conceptual, concepts, Deutsch",12,2020
+1654,58,"animals, Hybrid View, meat, use animals, omnivorism",5,2020
+1655,59,"access internalism, episodic, episodic memory, preservationism, internalism",5,2020
+1656,60,"wire, canonical template, adequacy analysis, exceptions, dispositionalism",5,2020
+1657,61,"Relation Theory, Multiple, Schiffer puzzle, belief reports, semantic composition",5,2020
+1658,62,"naïve realism, perception, transcendental naïve, transcendental, realism",5,2020
+1659,63,"Descartes, diachronic certainty, perception, distinct perception, certainty",2,2020
+1660,64,"lying, deception, definition lying, self deception, lie",6,2020
+1661,65,"composites phenomena, substances, phenomena thus, composites borrow, borrowed reality",1,2020
+1662,66,"cognitive perspective, subject cognitive, thought content, individualist account, finding words",4,2020
+1663,67,"ground, Dichotomy, QIG, abstraction, facts grounding",11,2020
+1664,68,"genetic systems, concrete fictions, minimal cells, synthetic constructs, models phenomena",2,2020
+1665,69,"metaphysics, metaphysics science, range metaphysics, science, naturalization metaphysics",2,2020
+1666,70,"pleasures, orgasm, female orgasm, attitudinal, phenomenological",5,2020
+1667,71,"Beauty, Dutch book, assign 12, ought assign, Bovens",2,2020
+1668,72,"deterministic chance, repaired becomes, argument repaired, Many criticized, Nature David",4,2020
+1669,73,"coherence, denoted coheres, mutual firmness, classics reflexivity, differences qualitative",2,2020
+1670,74,"knowability, Fitch, Fitch result, omniscience, factivitynegative infallibility",2,2020
+1671,75,"qualitative properties, designated descriptively, linguistic thesis, non qualitative, intuitively qualitative",1,2020
+1672,76,"prescription, dispositionality, categoricity, dispositionality categoricity, identity based",2,2020
+1673,77,"identity conditions, bundle capacities, co consciousness, nothing bundle, conditions subjects",1,2020
+1674,78,"schmidentity, intrinsic representational, informativity, Frege Puzzle, cognitive significance",3,2020
+1675,79,"graded attitudes, toward modal, attitudes toward, modal claims, model",3,2020
+1676,80,"luck epistemology, risk epistemology, luck, anti luck, epistemology",3,2020
+1677,81,"Moore Paradox, many proofs, linking principle, Moore Method, Paradox",2,2020
+1678,82,"truthmaker, maximalism, truthmaker maximalism, Truthmaker paradox, truthbearers",3,2020
+1679,85,"Direct Argument, Nahmias, Argument, manipulation arguments, moral responsibility",2,2020
+1680,86,"thought insertion, Metasemantic Explanation, self ascriptions, role first, fixing story",3,2020
+1681,87,"technical sophistication, level technical, role logic, logic, corpus",1,2020
+1682,-1,"future, epistemic, argue, theory, logic",371,2021
+1683,0,"moral, normative, harm, morally, argue",114,2021
+1684,1,"epistemic, belief, rationality, Bayesian, accuracy",75,2021
+1685,2,"mathematics, virtues, mathematical explanations, numbers, science",28,2021
+1686,3,"reasons, normative, ought, normative reasons, rationality",34,2021
+1687,4,"Energy Principle, Free Energy, representational, engram, computation",23,2021
+1688,5,"modality, inferences, metaphysical modality, semantics, salience",25,2021
+1689,6,"choiceworthiness, decision theory, Independence, expected utility, Newcomb problem",22,2021
+1690,7,"indeterminacy, quantum mechanics, spacetime, metaphysical indeterminacy, physics",32,2021
+1691,8,"time, temporal, simultaneity, experience time, theories time",22,2021
+1692,9,"entity realism, entity, HPC kinds, ecological, biological",21,2021
+1693,10,"coreference, linguistic, communication, jure, poetry",19,2021
+1694,11,"scientific, testing, sciences, controversies, null hypothesis",22,2021
+1695,12,"causation, causal, accounts causation, presheaves, models local",12,2021
+1696,13,"taste, absolutism, linguistic, epistemic, relativism",10,2021
+1697,14,"misconceptions, logical empiricism, scientific progress, formal philosophy, naturalism",14,2021
+1698,15,"spatial, perceptual, visual, experiences, perceptual capacities",12,2021
+1699,16,"non classical, logics, classical logic, sequence arguments, classical logics",12,2021
+1700,17,"bricks, composition, spatial overlap, pluralities, Mereology",12,2021
+1701,18,"blame, responsible, holding responsible, functionality, Rasmussen",9,2021
+1702,19,"emotions, moods, emotion, affective, fittingness",21,2021
+1703,20,"Russellian monism, consciousness, thesis revelation, dualism, parsimony",6,2021
+1704,21,"intermediate levels, determinate, vague matters, determinables determinates, determination",3,2021
+1705,22,"statistical evidence, discrimination, implicit bias, social, white ignorance",17,2021
+1706,23,"color experience, different languages, color functionalism, functionalism, colors",7,2021
+1707,24,"psychological continuity, continuity, criteria, person, self concept",9,2021
+1708,25,"imagination, story, imaginings, rule norm, perspective imagination",18,2021
+1709,26,"possibly false, Frances, knowledge, Gettier, two cases",6,2021
+1710,27,"platforming, disagreement, belief polarisation, endorsement, epistemic",7,2021
+1711,28,"aesthetic, aesthetic value, playing, games, art",19,2021
+1712,29,"hiddenness, theism, objections theism, divine hiddenness, de",3,2021
+1713,30,"noncausal, freewill, free actions, control objection, remote",6,2021
+1714,31,"Second Analogy, Malebranche, three versions, synthetic priori, box",7,2021
+1715,32,"Wittgenstein, Ishiguro, Moss, anti haecceitism, Tractarian",4,2021
+1716,33,"Kant, negation, intuitions, pure category, perspectival knowledge",8,2021
+1717,34,"evaluative experiences, experiences, phenomenology, phenomenological, perceptual epistemology",4,2021
+1718,35,"conditionals, indicative, supposition, specific links, model norms",4,2021
+1719,36,"Laser, Impure Eliminativism, Eliminativism, ontological, eliminative materialism",7,2021
+1720,37,"internalism, justification internalism, worldly internalism, undermine justification, propositions environment",4,2021
+1721,38,"paradox, symmetry principle, truth Part, Curry sentence, instance Curry",2,2021
+1722,39,"exclusion arguments, powers realism, causal, causal sufficiency, causal pairing",4,2021
+1723,40,"monarchy democracy, institutions Magnesia, Platos, democracy, authority",2,2021
+1724,41,"Announcement Logic, Public Announcement, knowability, epistemic logic, dynamic epistemic",2,2021
+1725,42,"virtue, virtue signalling, virtue signallers, aptness, virtue epistemology",7,2021
+1726,43,"connections, induction, deniers necessary, instability, internalist",2,2021
+1727,44,"groups, group competence, epistemology, collective intentionality, Interpretationism",8,2021
+1728,45,"counterfactuals, semantics, semantics counterfactuals, VSA, modeling semantics",7,2021
+1729,46,"laws, Humeanism, governance, laws nature, guidance production",5,2021
+1730,47,"practical, Fischer, practical concepts, intellectualism, intentional action",6,2021
+1731,48,"explanatory, impossibilities, coincidences, facts, explanatory work",7,2021
+1732,49,"theoretical statements, TE propositional, established theoretical, resolve argue, explore characterisation",1,2021
+1733,50,"propositions, propositions representational, propositional logic, logic talk, centered propositions",5,2021
+1734,52,"testimony, evidence, speaker, testimonial evidence, contrary evidence",8,2021
+1735,53,"young children, theory mind, others, joint action, intentions",2,2021
+1736,54,"intentional agency, intentional processes, agency, rationalization, building blocks",5,2021
+1737,55,"assertion, assert, argue EKNA, research contexts, epistemically permissible",3,2021
+1738,56,"theories truth, ontological deflationism, semantic deflationism, meta ontological, Wittgenstein",5,2021
+1739,57,"conceptual engineering, operationalism, metasemantic externalism, concepts, conceptual domination",10,2021
+1740,58,"animals, Prerogative, grief, rights, existential dread",10,2021
+1741,59,"memory way, unsuccessful remembering, simulationism, memories, intentionality perception",4,2021
+1742,60,"DAs, block, dispositional masks, identity theory, existential DAs",4,2021
+1743,61,"Pete, Relation Theory, Multiple, reports, Pete believes",5,2021
+1744,62,"Naïve Realism, Realism, perception, notions appearance, experiences",3,2021
+1745,64,"lying misleading, intention deceptive, lie, liars, believe false",6,2021
+1746,65,"PSR, human beings, Political Treatise, Spinoza, God",4,2021
+1747,66,"omniscient, privileged way, omniscient entities, Dretske, way knowing",2,2021
+1748,67,"grounding, full grounds, grounding facts, grounds argue, fundamentality",10,2021
+1749,68,"models, scientific, question ontology, ontology models, representations",4,2021
+1750,69,"precisifications That, think bullshit, times casual, print Is, attitude countless",1,2021
+1751,70,"felt quality, paradox pain, hybrid, felt, experience pleasurable",6,2021
+1752,72,"probability, probabilities, probability ascriptions, describe chances, probabilistic",7,2021
+1753,74,"fact grounded, Fitchs paradox, Fitchs, variations Fitchs, arguments dialectically",1,2021
+1754,75,"qualifications, Gomez Torrente, referents, qua qualifications, vague",3,2021
+1755,76,"dispositional, purely relational, metaphysics, determination, anti Humean",4,2021
+1756,77,"sufficient consciousness, evidence indicating, necessity claim, present empirical, consciousness",1,2021
+1757,78,"Frege, sense complex, compose functional, functional application, distinction",5,2021
+1758,79,"disjunction hearers, inferences truth, Independence inferences, embedded disjunction, hearers infer",2,2021
+1759,80,"luck scenario, resultant luck, circumstantial luck, moral luck, parallelism argument",1,2021
+1760,81,"Moore, Mooreanism, MO, ethical Mooreanism, sentences",6,2021
+1761,82,"truthmaker maximalism, truth truthmaker, fundamental facts, Fitch style, paradox Robert",2,2021
+1762,84,"self control, motor, skill, habits, instructionist",7,2021
+1763,86,"reference rule, de se, non reference, judgment proposal, justice unassailable",1,2021
+1764,87,"fundamental axiom, Quine, criticize Linsbichler, rejecting metaphysics, epistemological sense",2,2021
+1765,-1,"argue, Philosophy 104, 2022 Philosophy, theories, anxiety",269,2022
+1766,0,"moral, justice, argue, mutual advantage, normative",82,2022
+1767,1,"epistemic, belief, evidence, accuracy, credences",48,2022
+1768,2,"mathematical, Countabilism, theorem provers, philosophy, informal proofs",25,2022
+1769,3,"duties, Hume Law, agentive ought, normativism, Law",15,2022
+1770,4,"cognitive, neuroscience, PP, cognition, neural",20,2022
+1771,5,"QML, contingentism, plenitudinarianism, translation scheme, possible world",11,2022
+1772,6,"decision theory, causalists, satisficing, habits, causal decision",12,2022
+1773,7,"quantum, spacetime, Reichenbach, retrocausality, quantum mechanics",24,2022
+1774,8,"temporal, temporal passage, temporal binding, listening music, time hypertime",10,2022
+1775,9,"redundancy, reconstitutor, Metaphysics Biology, autopoietic account, Biology",10,2022
+1776,10,"meaning change, metalinguistic disagreement, Pragmatics, imprecision, demonstratives",8,2022
+1777,11,"social, scientists, research, statistical, philosophy",28,2022
+1778,12,"causation, causal, backtracking, cause ambiguous, causal relations",10,2022
+1779,13,"kind context, previously emphasized, known believed, really common, emphasized philosophers",1,2022
+1780,14,"knowledge understanding, noetic account, technologies, knowledge, concept coordination",6,2022
+1781,15,"seeing, presentations, experiences silence, capacitism, eye",4,2022
+1782,16,"classical recapture, meta inferences, instance based, classical semanticist, application logic",6,2022
+1783,17,"CAI, Bird, proper parthood, universals, two notions",6,2022
+1784,18,"responsibility, Attributionism, Strawson, moral skill, Resentment",5,2022
+1785,19,"anxiety, emotions, feeling, emotional states, emotion regulation",7,2022
+1786,20,"conceivability, physicalism, anti physicalists, postulates, one level",5,2022
+1787,21,"Boolean many, supersubstantivalism inconsistent, vagueness, many values, fuzzy logic",3,2022
+1788,22,"forensic, teaching justice, studies, Jönsson Sjödahl, civic equality",12,2022
+1789,23,"unconscious perception, perception, colours, phenomenal character, interpretations main",1,2022
+1790,24,"person, Johnston, personites, personal identity, methodological standards",9,2022
+1791,25,"interactive fiction, imagination skill, imagination, creativity, fictional objects",5,2022
+1792,26,"infallibilism, knows, evidential support, conception evidential, evidential",8,2022
+1793,27,"disagreement, epistemic obligations, epistemic trespassing, experts, subjective epistemic",13,2022
+1794,28,"aesthetic, artworks, beauty, aesthetic knowledge, artworks lie",9,2022
+1795,30,"free actions, indeterminism, facts free, actions, agency",2,2022
+1796,31,"contrariety, Hume, three species, metaphysical approach, Hume discussion",3,2022
+1797,32,"logical forms, logical space, forms objects, places logical, represent logical",1,2022
+1798,33,"Kant, discursive cognizers, Deduction, discursive, epistemic worry",5,2022
+1799,34,"involves unconscious, unconscious inference, visual, visual processing, visual system",1,2022
+1800,35,"indicative, Qualitative Thesis, Conditional Locality, subjunctive, conditional",8,2022
+1801,36,"structuralist approach, structuralist, arbitrariness, ontological, structuralist schema",5,2022
+1802,37,"internal identity, dispositional, superficially contingent, definition internal, dispositional identity",5,2022
+1803,38,"paradoxes, paradoxicality, conception, fixed point, written",3,2022
+1804,39,"conscious causal, emergent conscious, causal powers, claiming emergent, ABSTRACT Lewtas",1,2022
+1805,40,"Augustines argument, objections Augustines, Trinitate Augustine, Augustine offers, seemingly proceeds",1,2022
+1806,41,"knowledge counting, measure knowledge, propositions beliefs, contextualist version, knowledge",1,2022
+1807,42,"virtue, intellectual, intellectual perseverance, virtue epistemology, Wang",5,2022
+1808,43,"paradigm, lack hallmarks, paradigm cases, consider analogy, defends paradigm",2,2022
+1809,44,"collectives, commitment account, group belief, laypeople, political moral",9,2022
+1810,45,"sequences, CC, Lewis sequences, coin, normality",3,2022
+1811,46,"laws nature, Humeans laws, lawhood, Laplacean intelligence, counterpredictive device",5,2022
+1812,47,"know first, knowledge, Cook Wilson, intellectualism, knowledge first",3,2022
+1813,48,"RS explanations, explanations, argue Roski, archaeoastronomy, explanations work",3,2022
+1814,49,"emotional experiences, experimental philosophy, emotional, reason responsiveness, scientific experts",5,2022
+1815,50,"logical nihilism, quantification, language quantification, purported counterexamples, natural language",3,2022
+1816,52,"knowledge transmission, testimonial knowledge, knowledge, testimony, eyewitness evaluation",3,2022
+1817,53,"mindreading, behavior reading, Cultural Evolution, minimal ToM, view mindreading",3,2022
+1818,54,"Agential Knowledge, Knowledge thesis, Agential, individuals guide, practical knowledge",3,2022
+1819,55,"assertion, justified belief, belief account, evidence conversational, constatives",3,2022
+1820,56,"disagreement, inflationism, deflationary, deflationism truth, logico linguistic",6,2022
+1821,57,"conceptual engineering, conceptual, basic needs, phenomenon objection, engineering proposal",8,2022
+1822,58,"animals, companion, companion animals, death bad, animal liberationists",5,2022
+1823,59,"remembering, episodic, memory, episodic memory, episodic remembering",8,2022
+1824,61,"problem closure, unstructured, attitudes, closure traditional, attitudes question",1,2022
+1825,62,"hallucination, perceptual intentionality, account hallucination, hallucinations, naïve realism",2,2022
+1826,64,"untruthful hedged, subpersonal, declaratives, lies expressed, subpersonal explanations",5,2022
+1827,65,"intelligibility, universal intelligibility, literature Spinoza, commitment universal, conditions intelligibility",1,2022
+1828,66,"phenomenal intentionality, Crane, transparency, unconscious qualia, ascriptive",2,2022
+1829,67,"entity grounding, fact grounding, minimalist account, metaphysical, entity",5,2022
+1830,68,"transfer, hypothetical models, validation, modeling, consequences",4,2022
+1831,69,"metaphysics, brutalism, normative upshot, brute facts, metaphysics science",4,2022
+1832,70,"directed motivational, dealing extramental, pain avoidance, pain self, Barlassina Hayward",1,2022
+1833,72,"infinite frequency, Brownian motion, frequency principle, deterministic, deterministic system",2,2022
+1834,74,"position know, normality, one know, closure principles, axiom",1,2022
+1835,75,"general terms, term rigidity, kind terms, truths involving, trivial",1,2022
+1836,76,"dispositional, Dispositional Essentialism, Essentialism, metaphysics powers, manifestations",5,2022
+1837,77,"contends theory, one contends, Higher Order, conscious mental, presentational character",2,2022
+1838,78,"Puzzle, Mates Puzzle, see stake, puzzle philosophy, hierarchy",2,2022
+1839,80,"luck, chancy significant, events significant, lucky events, significance condition",2,2022
+1840,83,"buffer cases, McKenna strategy, modify cases, existing problem, difficulty conclude",1,2022
+1841,84,"problem solving, Mesh, together purpose, automatic mechanisms, skill",2,2022
+1842,85,"manipulation arguments, determinism, Strawsonian, scope, immune manipulation",1,2022
